@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+spacy
+sentence-transformers
+fastapi
+uvicorn
+loguru
+pytest
+python-multipart
