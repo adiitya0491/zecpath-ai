@@ -1,0 +1,17 @@
+Cloud Application Engineer
+Role Overview
+A Cloud Application Engineer builds, deploys, and maintains cloud-native applications using
+modern architectures and frameworks.
+Key Responsibilities
+• Develop cloud-native and microservices applications
+• Deploy and manage applications on cloud platforms
+• Implement CI/CD pipelines for applications
+• Optimize performance and scalability
+• Collaborate with DevOps and cloud teams
+Required Skills
+• Cloud application services (App Service, ECS, GKE)
+• Microservices and REST APIs
+• Containers and orchestration
+• Programming languages (Java, Python, Node.js)
+Experience & Qualifications
+• 3–7 years of application development experience

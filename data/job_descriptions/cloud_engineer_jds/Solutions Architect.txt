@@ -1,0 +1,19 @@
+Solutions Architect (Cloud)
+Role Overview
+A Cloud Solutions Architect designs cloud solutions that meet specific customer or business
+requirements, balancing technical feasibility and cost.
+Key Responsibilities
+• Gather business and technical requirements
+• Design cloud solutions and reference architectures
+• Create architecture diagrams and documentation
+
+• Support pre-sales, POCs, and solution validation
+• Collaborate with engineering and sales teams
+Required Skills
+• Cloud solution design
+• Application and data architecture
+• API and integration patterns
+• Cost estimation and optimization
+Experience & Qualifications
+• 6–10 years of IT experience
+• Strong customer-facing and communication skills

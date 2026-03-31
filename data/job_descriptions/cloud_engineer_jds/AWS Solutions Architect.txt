@@ -1,0 +1,19 @@
+AWS Solutions Architect
+Role Overview
+An AWS Solutions Architect designs end-to-end AWS architectures aligned with business
+and technical requirements.
+Key Responsibilities
+• Design scalable, secure AWS architectures
+• Select appropriate AWS services and patterns
+• Define HA, DR, and fault-tolerant designs
+• Create architecture diagrams and documentation
+• Review existing systems for optimization
+• Guide engineering teams during implementation
+Required Skills
+• Advanced AWS architecture
+• Microservices & serverless design
+• Security & compliance
+• Cost optimization strategies
+• Stakeholder communication
+Experience Level
+• 5–10 years

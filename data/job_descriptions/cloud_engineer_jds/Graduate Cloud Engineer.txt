@@ -1,0 +1,17 @@
+Graduate Cloud Engineer
+Role Overview
+A Graduate Cloud Engineer is a fresher role designed for recent graduates to build practical
+cloud skills through structured training and real-world projects.
+Key Responsibilities
+• Assist in cloud infrastructure deployment
+• Support system monitoring and operations
+• Learn cloud security and best practices
+• Work on automation and optimization tasks
+• Collaborate with cross-functional teams
+Required Skills
+• Cloud fundamentals (AWSAzureGCP)
+• Basic programming or scripting skills
+• Understanding of networking and operating systems
+Experience & Qualifications
+• Recent graduate (0–1 year experience)
+• Degree in Computer Science, IT, or related field

@@ -1,0 +1,23 @@
+Freelance Cloud Engineer
+Role Overview
+A Freelance Cloud Engineer works independently on short- or long-term cloud projects,
+delivering infrastructure, automation, migration, and optimization solutions for multiple
+clients.
+Key Responsibilities
+• Design, deploy, and manage cloud infrastructure (AWS, Azure, GCP)
+• Build IaC using Terraform, CloudFormation, or ARM
+• Implement CI/CD pipelines and automation
+• Perform cloud migrations and modernization
+• Optimize cost, security, and performance
+• Provide technical documentation and handover
+• Work with distributed client teams
+Required Skills
+• Cloud platforms (AWS/Azure/GCP)
+• Infrastructure as Code (Terraform preferred)
+• Linux, networking, security fundamentals
+• Docker & Kubernetes
+• CI/CD tools (GitHub Actions, GitLab CI, Jenkins)
+Experience Level
+• 3+ years in cloud or DevOps roles
+Engagement Type
+• Contract-based / hourly / project-based

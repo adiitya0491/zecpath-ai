@@ -1,0 +1,19 @@
+Azure Solutions Architect
+Role Overview
+An Azure Solutions Architect designs enterprise-grade Azure architectures and guides cloud
+adoption initiatives.
+Key Responsibilities
+• Design Azure reference architectures
+• Define cloud governance and security models
+• Plan hybrid and multi-region deployments
+• Guide migration to Azure
+• Collaborate with business stakeholders
+• Review architecture for performance and cost
+Required Skills
+• Advanced Azure architecture
+• Enterprise security & governance
+• Identity & access management
+• Cost management
+• Documentation & presentation skills
+Experience Level
+• 6–10 years

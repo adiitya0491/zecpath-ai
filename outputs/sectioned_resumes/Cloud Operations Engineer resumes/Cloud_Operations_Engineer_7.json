@@ -1,0 +1,53 @@
+{
+  "skills": [
+    "API",
+    "ASP.NET",
+    "Adobe Photoshop",
+    "Animations",
+    "Audio",
+    "Controllers",
+    "Express Js",
+    "GIMP",
+    "Game Design",
+    "Inkscape",
+    "Level Design",
+    "MSSq",
+    "MVC",
+    "MongoDB",
+    "Node Js",
+    "OpenCV",
+    "Packages",
+    "React Js",
+    "Render Pipelines",
+    "Shader",
+    "Unity",
+    "WinForms",
+    "e Adobe Illustrator",
+    "e C#",
+    "e JavaScript",
+    "e Python",
+    "e Unity Engine"
+  ],
+  "experience": [
+    {
+      "role": "The Location Lab Pvt. Ltd",
+      "start_date": "Jun 2022",
+      "end_date": "Aug 2023",
+      "duration_years": 1.17
+    }
+  ],
+  "education": [],
+  "projects": [
+    {
+      "title": "Python Script Developer",
+      "start_date": "Feb 2021",
+      "end_date": "Feb 2021"
+    },
+    {
+      "title": "Full - Stack Developer Ju!",
+      "start_date": "2020",
+      "end_date": "Dec 2020"
+    }
+  ],
+  "certifications": []
+}

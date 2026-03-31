@@ -1,0 +1,18 @@
+Platform Reliability Engineer
+Role Overview
+A Platform Reliability Engineer ensures high availability, scalability, and performance of
+internal cloud platforms using reliability engineering principles.
+Key Responsibilities
+• Design resilient platform architectures
+• Monitor platform health and performance
+• Automate recovery and scaling processes
+
+• Conduct reliability testing and chaos engineering
+• Collaborate with platform and SRE teams
+Required Skills
+• Reliability engineering and SRE concepts
+• Kubernetes and platform systems
+• Automation and scripting
+• Observability tools
+Experience & Qualifications
+• 5–9 years of platform or reliability engineering experience

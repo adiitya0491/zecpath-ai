@@ -1,0 +1,49 @@
+GOKUL MA
+Cloud Infrastructure Engineer
++1234567890 gokul.ma@example.com
+ City, Country
+SUMMARY
+EXPERIENCE
+Cloud Infrastructure Engineer 06/2019 - Present Project Management
+PROJECTS
+and deadlines.
+A leading firm specializing in cloud solutions and managed services.
+ Built and maintained scalable cloud infrastructure for high - demand applications.
+ Managed and optimized compute, storage, and networking resources, improving KEY ACHIEVEMENTS
+performance by 20%.
+ Implemented robust disaster recovery and backup solutions, enhancing system reliability.
+ Cost Optimization Project
+Junior Cloud Engineer 06/2018 - 05/2019 Redesigned cloud architecture that
+resulted in a 30% reduction in
+DEF Corp City, Country operational costs.
+A tech company focused on delivering cloud - based solutions.
+ Legacy Modernization
+ Performed system upgrades and patch management across cloud environments.
+ Optimized cloud infrastructure costs by implementing auto - scaling solutions. Initiative
+ Enhanced cloud security measures, mitigating risks and ensuring compliance.
+Led a team in migrating legacy
+systems to modern cloud
+infrastructure, enhancing system
+EDUCATION
+performance.
+Bachelor of Technology in Computer Science 08/2015 - 05/2019
+STRENGTHS
+As a Cloud Infrastructure Engineer with over four years of experience, I specialize in Problem Solver
+designing, building, and optimizing cloud infrastructure. I excel in managing compute,
+Ability to quickly troubleshoot and
+storage, and networking resources, ensuring high availability and disaster recovery. My
+resolve cloud infrastructure issues.
+passion for cloud technologies drives my commitment to delivering robust and efficient
+solutions that meet business needs.
+ Analytical Thinker
+Strong analytical skills for optimizing
+SKILLS
+XYZ University City, Country
+HARD SKILLS
+LANGUAGES
+Virtual Machines Management
+Containerization Docker, Kubernetes)
+English Native Tamil Proficient
+Linux System Administration
+Cloud Networking and Security
+Disaster Recovery Planning

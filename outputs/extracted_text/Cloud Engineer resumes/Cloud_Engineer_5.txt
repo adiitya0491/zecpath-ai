@@ -1,0 +1,55 @@
+JONATHAN S Cloud Engineer
+(123) 456 - 7890 johndoe@example.com
+ California, USA
+SUMMARY
+ Cloud Architecture As a Cloud Engineer with over 3 years of experience, I specialize in designing and
+Expertise deploying cloud infrastructure on AWS and Azure. I'm passionate about implementing
+best practices for scalability and security, and I thrive on optimizing cloud
+Strong understanding of cloud
+performance. My technical proficiency, along with strong collaboration and problem - architecture and deployment
+solving skills, allows me to make a significant impact in cloud environments.
+strategies.
+ Automation and EXPERIENCE
+Optimization
+Ability to automate and optimize Cloud Engineer 05/2020 - Present
+cloud infrastructure for better
+Tech Innovations Inc. Los Angeles, CA
+performance.
+A leading provider of cloud solutions and services.
+ Problem Resolution
+ Designed and deployed scalable cloud architecture using AWS and Azure.
+Proficient in troubleshooting 
+ Implemented Infrastructure as Code IaC using Terraform, resulting in 30% faster
+complex cloud - related issues and deployment times.
+outages. 
+ Collaborated with DevOps teams to integrate CI/CD pipelines for cloud
+applications.
+STRENGTHS
+KEY ACHIEVEMENTS
+Junior Cloud Engineer 07/2019 - 04/2020
+Cloud Solutions Group San Diego, CA
+ Application Migration to
+Cloud A company specializing in cloud infrastructure services.
+Successfully led the migration of 
+ Managed cloud resources and ensured compliance with security best practices.
+over 100 applications to a cloud - Automated monitoring systems using CloudWatch and Azure Monitor.
+based architecture, improving 
+ Troubleshot performance issues, achieving a 95% system uptime.
+operational agility.
+ Cloud Monitoring Solution EDUCATION
+Developed a monitoring solution
+Bachelor of Science in Computer Science 09/2015 - 06/2019
+that reduced downtime by 40%
+through proactive alerts and
+University of Technology San Francisco, CA
+automated responses.
+LANGUAGES
+SKILLS
+English Native
+HARD SKILLS
+AWS Azure GCP Terraform
+CloudFormation Linux
+Windows administration
+Soft Skills
+Problem - solving Collaboration
+Communication

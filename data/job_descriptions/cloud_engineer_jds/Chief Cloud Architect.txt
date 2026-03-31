@@ -1,0 +1,17 @@
+Chief Cloud Architect
+Role Overview
+The Chief Cloud Architect is the highest technical authority for cloud architecture, defining
+long-term technical vision and standards.
+Key Responsibilities
+• Define enterprise cloud architecture vision
+• Establish cloud standards and reference architectures
+• Guide architecture decisions across teams
+• Evaluate emerging technologies
+• Partner with executive leadership on strategy
+Required Skills
+• Deep technical architecture expertise
+• Multi-cloud and hybrid architectures
+• Security, governance, and compliance
+• Strategic thinking and leadership
+Experience & Qualifications
+• 18–25+ years of IT and architecture experience

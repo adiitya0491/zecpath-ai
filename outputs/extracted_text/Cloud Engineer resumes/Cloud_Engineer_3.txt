@@ -1,0 +1,35 @@
+ETHAN SULLIVAN
+Cloud Engineer ES
+1234567890 cloudengineer@example.com 
+City, State
+SUMMARY
+EXPERIENCE
+Cloud Engineer issues.
+Cloud Solutions Inc. 06/2021 - Present City, State
+Junior Cloud Engineer Cost Savings Migration Project
+Tech Innovations LLC 07/2019 - 05/2021 City, State Successfully led a project that migrated a
+EDUCATION
+deployment frequency and reduced
+errors.
+Bachelor of Science in Computer Science
+State University 09/2015 - 06/2019 City, State SKILLS
+STRENGTHS
+As a Cloud Engineer with 2 years of experience, I have honed my skills in Cloud Architecture Expertise
+designing and implementing cloud infrastructures across AWS and Azure. I
+Strong understanding of cloud
+am passionate about automation and efficiency, having successfully
+architecture and best practices for
+reduced deployment times and improved system performance. My
+deployment and management.
+commitment to best practices and collaboration with teams ensures that
+solutions are scalable, secure, and reliable. Resource Optimization &
+Troubleshooting
+HARD SKILLS
+LANGUAGES
+AWS Azure GCP Terraform
+English Native
+CloudFormation Linux Administration
+Windows Administration
+Soft Skills
+Problem Solving Collaboration
+Communication

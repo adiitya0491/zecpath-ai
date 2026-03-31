@@ -1,0 +1,17 @@
+Infrastructure Engineer (Cloud)
+Role Overview
+A Cloud Infrastructure Engineer designs, builds, and maintains scalable cloud infrastructure
+supporting applications and services.
+Key Responsibilities
+• Provision and manage cloud compute, storage, and networking
+• Automate infrastructure deployment and configuration
+• Ensure high availability and disaster recovery
+• Monitor and optimize infrastructure performance
+• Implement security and compliance controls
+Required Skills
+• Cloud infrastructure services
+• Terraform  Ansible
+• Linux systems and networking
+• Monitoring and logging tools
+Experience & Qualifications
+• 3–7 years of infrastructure or cloud experience

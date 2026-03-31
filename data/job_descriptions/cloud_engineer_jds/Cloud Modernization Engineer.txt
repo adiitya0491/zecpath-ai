@@ -1,0 +1,17 @@
+Cloud Modernization Engineer
+Role Overview
+A Cloud Modernization Engineer transforms legacy applications into cloud-native
+architectures to improve scalability, reliability, and agility.
+Key Responsibilities
+• Modernize monolithic applications into microservices
+• Migrate workloads to containers and Kubernetes
+• Implement cloud-native services
+• Improve application scalability and resilience
+• Collaborate with DevOps and development teams
+Required Skills
+• Cloud-native architecture and design
+• Containers and orchestration (Docker, Kubernetes)
+• Microservices and API design
+• CI/CD pipelines
+Experience & Qualifications
+• 4–8 years of cloud or application modernization experience

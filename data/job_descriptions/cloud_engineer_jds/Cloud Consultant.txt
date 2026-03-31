@@ -1,0 +1,19 @@
+Cloud Consultant
+Role Overview
+A Cloud Consultant advises organizations on cloud strategy, architecture, migration, and best
+practices, aligning technology with business goals.
+Key Responsibilities
+• Assess current IT infrastructure and readiness
+• Define cloud adoption and migration strategies
+• Recommend cloud services, architectures, and tools
+• Guide security, compliance, and governance models
+• Support implementation and vendor selection
+• Conduct workshops and stakeholder presentations
+Required Skills
+• Cloud architecture & design
+• Business and technical communication
+• Security & compliance (ISO, SOC, GDPR, HIPAA)
+• Cost optimization & FinOps basics
+• Multi-cloud knowledge
+Experience Level
+• 5+ years in cloud or IT consulting

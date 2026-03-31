@@ -1,0 +1,17 @@
+Chaos Engineer
+Role Overview
+A Chaos Engineer proactively tests system resilience by injecting failures into cloud systems
+to identify weaknesses before they impact users.
+Key Responsibilities
+• Design and execute chaos experiments
+• Test system resilience under failure conditions
+• Improve fault tolerance and recovery strategies
+• Collaborate with SRE and platform teams
+• Document findings and resilience improvements
+Required Skills
+• Chaos engineering tools (Chaos Monkey, Litmus, Gremlin)
+• Distributed systems and cloud architectures
+• Observability and monitoring
+• Strong automation skills
+Experience & Qualifications
+• 5–10 years of cloud, SRE, or platform engineering experience

@@ -1,0 +1,17 @@
+Cloud Operations Engineer
+Role Overview
+The Cloud Operations Engineer ensures day-to-day stability, performance, and availability of
+cloud environments.
+Key Responsibilities
+• Monitor cloud infrastructure and services
+• Respond to incidents and outages
+• Perform routine maintenance and patching
+• Manage alerts and operational dashboards
+• Support release and deployment activities
+Required Skills
+• Incident management
+• Monitoring tools (Datadog, CloudWatch, New Relic)
+• ITIL / operational best practices
+• Scripting for automation
+Experience & Qualifications
+• 2–5 years in cloud operations or IT operations

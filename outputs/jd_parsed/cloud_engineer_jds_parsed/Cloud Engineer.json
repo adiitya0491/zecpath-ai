@@ -1,0 +1,32 @@
+{
+    "job_title": "Cloud Engineer",
+    "key_responsibilities": [
+        "Design, deploy, and manage cloud infrastructure on AWS, Azure, or GCP",
+        "Implement cloud best practices for scalability, availability, and security",
+        "Monitor system performance and optimize resource utilization",
+        "Automate infrastructure using IaC tools (Terraform, CloudFormation, ARM)",
+        "Collaborate with DevOps and application teams",
+        "Troubleshoot cloud-related issues and outages"
+    ],
+    "required_skills": [
+        "azure monitor",
+        "cloud platforms: aws / azure / gcp",
+        "cloudformation",
+        "cloudwatch",
+        "dns",
+        "infrastructure as code",
+        "linux/windows administration",
+        "load balancers",
+        "monitoring tools",
+        "networking fundamentals",
+        "prometheus",
+        "terraform",
+        "vpc"
+    ],
+    "experience_required": {
+        "min_years": 5,
+        "max_years": null
+    },
+    "qualifications": "Bachelor's Degree Required",
+    "raw_text": "Cloud Engineer\nRole Overview\nA Cloud Engineer is responsible for designing, deploying, managing, and maintaining cloud\ninfrastructure and services. This role ensures scalability, security, and reliability of cloud\nenvironments across public, private, or hybrid platforms.\nKey Responsibilities\n\u2022 Design, deploy, and manage cloud infrastructure on AWS, Azure, or GCP\n\u2022 Implement cloud best practices for scalability, availability, and security\n\u2022 Monitor system performance and optimize resource utilization\n\u2022 Automate infrastructure using IaC tools (Terraform, CloudFormation, ARM)\n\u2022 Collaborate with DevOps and application teams\n\u2022 Troubleshoot cloud-related issues and outages\nRequired Skills\n\u2022 Cloud platforms: AWS / Azure / GCP\n\u2022 Linux/Windows administration\n\u2022 Networking fundamentals (VPC, DNS, Load Balancers)\n\u2022 Infrastructure as Code (Terraform, CloudFormation)\n\u2022 Monitoring tools (CloudWatch, Azure Monitor, Prometheus)\nExperience & Qualifications\n\u2022 Bachelor\u2019s degree in CS, IT, or related field\n\u2022 2\u20135 years of cloud or infrastructure experience"
+}

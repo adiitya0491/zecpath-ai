@@ -1,0 +1,18 @@
+Cloud Security Architect
+Role Overview
+A Cloud Security Architect designs secure cloud architectures and defines security standards
+across cloud platforms.
+Key Responsibilities
+• Design secure cloud and hybrid architectures
+• Define cloud security standards and reference models
+• Review application and infrastructure designs
+• Ensure compliance with regulatory requirements
+• Guide security engineering and DevSecOps teams
+Required Skills
+• Security architecture frameworks
+• Cloud networking and identity design
+• Encryption, key management, and zero-trust models
+• Risk assessment and threat modeling
+Experience & Qualifications
+• 8–14 years of ITsecurity experience
+• Strong cloud security architecture background

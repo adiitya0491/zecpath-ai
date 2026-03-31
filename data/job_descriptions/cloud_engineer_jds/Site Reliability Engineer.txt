@@ -1,0 +1,17 @@
+Site Reliability Engineer (SRE)
+Role Overview
+A Site Reliability Engineer applies software engineering practices to ensure reliability,
+scalability, and performance of cloud-based systems.
+Key Responsibilities
+• Define and manage SLAs, SLOs, and error budgets
+• Automate operational tasks and incident response
+• Improve system reliability and fault tolerance
+• Monitor systems using observability tools
+• Perform root cause analysis and post-incident reviews
+Required Skills
+• SRE principles and practices
+• Cloud infrastructure and distributed systems
+• Monitoring, logging, and tracing tools
+• Strong automation and coding skills
+Experience & Qualifications
+• 4–8 years of experience in cloud or SRE roles

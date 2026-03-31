@@ -1,0 +1,42 @@
+STEVEN M
+Cloud Systems Engineer
+SM
+555 123 - 4567 steven.m@example.com California
+SUMMARY
+EXPERIENCE
+Cloud Systems Engineer
+05/2019 - Present San Francisco, CA
+Systems Engineer
+07/2018 - 04/2019 Los Angeles, CA performance and scalability.
+EDUCATION
+Windows systems administration
+Bachelor of Science in Computer Science Shell scripting Python programming
+XYZ University
+09/2015 - 06/2019 New York, NY Cloud compute services AWS, Azure)
+Monitoring and logging tools
+STRENGTHS
+I am a Cloud Systems Engineer with 4 years of experience in managing Automation Expertise
+and optimizing cloud environments. My expertise involves configuring
+Excellent at automating procedures to
+cloud - based systems, implementing security protocols, and automating
+enhance efficiency and reduce errors.
+processes to enhance performance. I pride myself on my problem - solving
+SKILLS
+and my ability to collaborate with cross - functional teams to achieve Cross - platform Expertise
+strategic goals.
+Strong knowledge in both Linux and
+Windows environments.
+SKILLS
+increase in uptime.
+ Utilized shell scripting to automate routine tasks, improving
+HARD SKILLS
+operational efficiency.
+ Resolved complex system - level issues, reducing resolution time by
+40%. Linux systems administration
+LANGUAGES
+Prometheus, Grafana)
+English
+Native Soft Skills
+Effective communication
+Problem - solving Team collaboration
+Adaptability

@@ -1,0 +1,18 @@
+Cloud Platform Engineer
+Role Overview
+A Cloud Platform Engineer builds and maintains internal cloud platforms that enable teams
+to deploy and operate applications efficiently.
+Key Responsibilities
+• Develop internal developer platforms (IDP)
+• Manage Kubernetes and container platforms
+• Build self-service infrastructure tools
+• Improve developer experience and platform reliability
+• Ensure security, scalability, and observability
+Required Skills
+• Kubernetes, Docker, Helm
+• Cloud-native architectures
+
+• CICD and automation
+• Observability and monitoring tools
+Experience & Qualifications
+• 4–8 years of cloud or platform engineering experience

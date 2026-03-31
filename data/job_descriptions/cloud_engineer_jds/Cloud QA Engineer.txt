@@ -1,0 +1,18 @@
+Cloud QA Engineer
+Role Overview
+A Cloud QA Engineer ensures the quality, reliability, and correctness of cloud-based
+applications and infrastructure through structured testing and validation.
+Key Responsibilities
+• Design and execute test cases for cloud applications
+• Validate cloud infrastructure configurations
+• Perform functional, integration, and regression testing
+• Identify and track defects across cloud environments
+• Collaborate with development and DevOps teams
+• Ensure quality standards are met before releases
+Required Skills
+• QA methodologies and testing life cycle
+• Cloud platforms (AWS, Azure, GCP)
+• Manual and basic automation testing
+• Defect tracking tools (Jira, TestRail)
+Experience & Qualifications
+• 2–5 years of QA or cloud testing experience

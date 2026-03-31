@@ -1,0 +1,34 @@
+MATT L
+Cloud Infrastructure Engineer
+ML
+1234567890 johndoe@example.com Tech City
+SUMMARY
+EXPERIENCE
+Cloud Infrastructure Engineer Virtualization Expert
+05/2021 - Present Tech City
+Infrastructure Engineer
+06/2019 - 04/2021 Innovation Park High Availability Project Lead
+architecture.
+EDUCATION
+STRENGTHS
+As a Cloud Infrastructure Engineer with over 4 years of experience, I Cloud Solutions Architect
+excel in building and maintaining cloud infrastructures that support
+Ability to design and deploy highly
+essential applications and services. My expertise includes managing
+available cloud solutions.
+resources, optimizing costs, and ensuring system availability through
+effective disaster recovery solutions. I am passionate about leveraging Infrastructure Optimization
+technology to drive improvements in operational efficiency.
+Specialist
+Strong expertise in optimizing
+SKILLS
+Hard Skills
+Bachelor of Science in Computer Science
+Virtual machines management
+University of Technology
+08/2015 - 05/2019 Cityville Container orchestration
+Linux system administration
+LANGUAGES
+English Spanish Cloud networking and security
+Native Advanced
+Terraform Ansible

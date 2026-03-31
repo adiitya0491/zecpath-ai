@@ -1,0 +1,26 @@
+{
+  "skills": [],
+  "experience": [
+    {
+      "role": "Cloud Infrastructure Engineer",
+      "start_date": "06/2019",
+      "end_date": "Present",
+      "duration_years": 6.75
+    },
+    {
+      "role": "Junior Cloud Engineer",
+      "start_date": "08/2018",
+      "end_date": "05/2019",
+      "duration_years": 0.75
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "Bachelor of Technology in Computer Science",
+      "start_date": "09/2015",
+      "end_date": "06/2019"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

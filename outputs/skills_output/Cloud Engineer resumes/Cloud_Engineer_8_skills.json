@@ -1,0 +1,70 @@
+{
+    "total_skills_found": 13,
+    "skills": [
+        {
+            "skill": "amazon web services",
+            "frequency": 8,
+            "confidence": 0.95
+        },
+        {
+            "skill": "linux",
+            "frequency": 4,
+            "confidence": 0.85
+        },
+        {
+            "skill": "python",
+            "frequency": 4,
+            "confidence": 0.85
+        },
+        {
+            "skill": "bash",
+            "frequency": 2,
+            "confidence": 0.75
+        },
+        {
+            "skill": "postgresql",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "mysql",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "ansible",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "cloud architecture",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "powershell",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "disaster recovery",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "windows",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "jenkins",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "monitoring",
+            "frequency": 1,
+            "confidence": 0.75
+        }
+    ]
+}

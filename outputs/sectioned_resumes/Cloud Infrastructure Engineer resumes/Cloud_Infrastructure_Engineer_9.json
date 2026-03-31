@@ -1,0 +1,36 @@
+{
+  "skills": [
+    "AWS Redshift",
+    "CSS",
+    "Git",
+    "HTML",
+    "JavaScript Angular",
+    "Oracle",
+    "Python Django",
+    "REST APIs GraphQL",
+    "S3",
+    "SQL PostgreSQL"
+  ],
+  "experience": [
+    {
+      "role": "Knewton",
+      "start_date": "April 2016",
+      "end_date": "April 2017",
+      "duration_years": 1.0
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "2014",
+      "end_date": "2016"
+    },
+    {
+      "degree_or_institute": "",
+      "start_date": "2010",
+      "end_date": "2014"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

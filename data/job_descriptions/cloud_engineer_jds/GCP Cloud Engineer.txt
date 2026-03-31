@@ -1,0 +1,19 @@
+GCP Cloud Engineer
+Role Overview
+A GCP Cloud Engineer builds, manages, and optimizes infrastructure on Google Cloud
+Platform.
+Key Responsibilities
+• Deploy and manage GCP services (Compute Engine, Cloud Storage)
+• Implement networking and IAM policies
+• Automate deployments using Terraform
+• Monitor workloads using Cloud Monitoring
+• Support application deployments
+• Optimize performance and costs
+Required Skills
+• GCP core services
+• Networking & IAM
+• Linux & scripting
+• IaC (Terraform)
+• Monitoring & logging
+Experience Level
+• 2–5 years

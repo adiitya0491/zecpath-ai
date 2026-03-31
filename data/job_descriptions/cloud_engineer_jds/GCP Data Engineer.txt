@@ -1,0 +1,19 @@
+GCP Data Engineer
+Role Overview
+A GCP Data Engineer designs and manages scalable data pipelines and analytics platforms
+on Google Cloud.
+Key Responsibilities
+• Build data pipelines using Dataflow and Dataproc
+• Manage data warehouses (BigQuery)
+• Ingest and process streaming data (Pub/Sub)
+• Ensure data quality and governance
+• Optimize data performance and cost
+• Collaborate with analytics and ML teams
+Required Skills
+• BigQuery, Dataflow, Dataproc
+• SQL & Python
+• Data modeling & ETL
+• GCP security & IAM
+• Distributed systems
+Experience Level
+• 3–7 years

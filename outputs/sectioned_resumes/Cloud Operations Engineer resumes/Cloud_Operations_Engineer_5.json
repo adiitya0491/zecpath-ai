@@ -1,0 +1,32 @@
+{
+  "skills": [],
+  "experience": [
+    {
+      "role": "",
+      "start_date": "06/2018",
+      "end_date": "Present",
+      "duration_years": 7.75
+    },
+    {
+      "role": "Infrastructure Engineer",
+      "start_date": "05/2016",
+      "end_date": "05/2018",
+      "duration_years": 2.0
+    },
+    {
+      "role": "Systems Engineer",
+      "start_date": "01/2015",
+      "end_date": "04/2016",
+      "duration_years": 1.25
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "08/2015",
+      "end_date": "05/2018"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

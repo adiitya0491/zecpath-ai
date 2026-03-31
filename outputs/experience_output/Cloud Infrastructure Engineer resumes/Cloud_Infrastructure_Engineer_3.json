@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 95,
+    "total_experience_years": 7.92,
+    "roles": [
+        {
+            "role": "Cloud Infrastructure Engineer",
+            "start_date": "06/2020",
+            "end_date": "Present",
+            "duration_months": 69,
+            "duration_years": 5.75
+        },
+        {
+            "role": "Infrastructure Engineer",
+            "start_date": "03/2018",
+            "end_date": "05/2020",
+            "duration_months": 26,
+            "duration_years": 2.17
+        }
+    ],
+    "relevance_score": 1.0
+}

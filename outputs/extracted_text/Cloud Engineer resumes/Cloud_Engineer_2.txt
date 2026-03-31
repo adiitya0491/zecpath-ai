@@ -1,0 +1,26 @@
+JOHN DOE
+Cloud Engineer
+(555) 123 - 4567 johndoe@example.com
+ City, State
+SUMMARY
+EXPERIENCE
+Cloud Engineer 06/2022 - Present
+Cloud Engineer 06/2021 - 05/2022 Cost Optimization Initiative
+ Worked with developers to implement CI/CD pipelines for cloud applications.
+Bachelor of Science in Computer Science 09/2018 - 05/2022
+STRENGTHS
+As a Cloud Engineer with over 3 years of experience, I specialize in designing and managing Analytical thinker
+cloud infrastructure across major platforms like AWS and Azure. My strength lies in
+Strong analytical skills to identify
+automating deployments using Infrastructure as Code and optimizing resource utilization. I
+issues and devise effective
+thrive in collaborative environments, ensuring robust cloud solutions that meet organizational
+solutions in cloud environments.
+goals.
+ Ability to Multitask
+SKILLS
+LANGUAGES
+Hard Skills
+AWS Azure GCP Terraform
+English Native Spanish Advanced
+CloudFormation

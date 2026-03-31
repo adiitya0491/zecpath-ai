@@ -1,0 +1,17 @@
+Cloud Performance Engineer
+Role Overview
+A Cloud Performance Engineer ensures cloud applications and infrastructure meet
+performance, scalability, and reliability requirements.
+Key Responsibilities
+• Design and execute performance and load tests
+• Identify and resolve performance bottlenecks
+• Optimize application and infrastructure performance
+• Monitor latency, throughput, and system behavior
+• Collaborate with DevOps and application teams
+Required Skills
+• Performance testing tools (JMeter, k6)
+• Cloud monitoring and observability tools
+• Distributed systems performance tuning
+• Automation and scripting
+Experience & Qualifications
+• 4–8 years of performance or cloud engineering experience

@@ -1,0 +1,53 @@
+Caroline Kelki
+DevOps Engineer
+Resourceful DevOps manager with 6+ years of experience, seeking to use solid continuous deployment
+EXPERIENCE
+2015 - DevOps Manager
+2018 Fireladder Global
+¢ Managed Agile team with 7 developers and 3 system admins to continuous
+2013 - DevOps Engineer
+2015 Peterboro Analytics
+2012 - System Administrator
+2013 Saucier Phair Solutions
+¢ Installed and maintained 12 Windows 2012 servers.
+EDUCATION
+2008 - BS in Computer Science, Pace University
+2012 ¢ Excelled in server management classes.
+¢ Pursued a passion for security and programming coursework.
+¢ President, Pace Computing Society. Increased membership 25%.
+Additional Activities
+¢ Active Member, DevOps Agile Skills Association (DASA).
+¢ Volunteer as DevOps manager for Dewitt Street Homeless Shelter. Lead continuous
+deployment of online fundraising app, creating 150% boost in donations.
+¢ Participate in weekly cycling group as self - care.
+Conferences
+2017 O'Reilly Conference. Led session about continuous deployment.
+2015 DevOps at Cloud Expo.
+Publications
+2017 Article on cloud servers appeared in "DevOps Cube"
+2016 Article on infrastructure automation appeared in "DevOpsGuys"
+Personal Info
+Phone
+914 - 388 - 4358
+E - mail
+carolinekeiki@ gmail.com
+WWW
+carolinekeiki.com
+SKILLS
+to drive efficiency measures at Firmalent. Led Agile team of 7 developers at Fireladder Global to
+slash customer complaints 40% and release times 30%, through guided use of Puppet and Jenkins.
+Certificates
+AWS Certified DevOps Engineer
+AWS Certified Cloud Practitioner
+SKILLS
+Programming
+Server Management
+Security
+Continuous Deployment
+Unix/Linux
+Puppet
+Jenkins
+Zabbix
+Interpersonal Skills
+Collaboration
+Critical Thinking

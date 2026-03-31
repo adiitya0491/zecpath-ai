@@ -1,0 +1,18 @@
+Cloud Network Engineer
+Role Overview
+The Cloud Network Engineer designs and manages cloud-based networking solutions to
+ensure secure and reliable connectivity.
+Key Responsibilities
+• Design cloud networking architectures (VPC, VNets)
+• Configure load balancers, VPNs, and firewalls
+• Manage hybrid and multi-cloud connectivity
+• Optimize network performance and security
+• Troubleshoot network-related issues
+Required Skills
+• Cloud networking services
+• TCPIP, DNS, routing, firewalls
+
+• VPN, Direct Connect, ExpressRoute
+• Network monitoring tools
+Experience & Qualifications
+• 3–7 years of networking or cloud experience

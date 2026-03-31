@@ -1,0 +1,18 @@
+Cloud Support Associate
+Role Overview
+A Cloud Support Associate provides first-level support for cloud platforms, helping users
+troubleshoot issues and maintain service availability.
+Key Responsibilities
+• Respond to cloud-related support tickets
+• Perform basic troubleshooting and issue resolution
+• Monitor cloud resources and alerts
+• Escalate complex issues to senior engineers
+• Maintain support documentation and knowledge base
+Required Skills
+• Cloud fundamentals
+• Troubleshooting and communication skills
+• LinuxWindows and networking basics
+• Ticketing tools (ServiceNow, Jira – preferred)
+Experience & Qualifications
+• 0–2 years of IT support or cloud support experience
+• Relevant cloud certification is a plus

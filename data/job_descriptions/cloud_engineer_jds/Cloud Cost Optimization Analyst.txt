@@ -1,0 +1,17 @@
+Cloud Cost Optimization Analyst
+Role Overview
+A Cloud Cost Optimization Analyst focuses on analyzing cloud spend and providing
+actionable insights to reduce waste and improve financial efficiency.
+Key Responsibilities
+• Analyze cloud billing and usage data
+• Identify underutilized and idle resources
+• Recommend cost-saving strategies
+• Track savings and ROI
+• Create dashboards and reports for stakeholders
+Required Skills
+• Cloud billing and cost analysis tools
+• Strong analytical and reporting skills
+• SQL, Excel, or BI tools
+• FinOps concepts
+Experience & Qualifications
+• 2–6 years of cloud cost analysis or IT finance experience

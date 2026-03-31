@@ -1,0 +1,21 @@
+Cloud Engineer
+Role Overview
+A Cloud Engineer is responsible for designing, deploying, managing, and maintaining cloud
+infrastructure and services. This role ensures scalability, security, and reliability of cloud
+environments across public, private, or hybrid platforms.
+Key Responsibilities
+• Design, deploy, and manage cloud infrastructure on AWS, Azure, or GCP
+• Implement cloud best practices for scalability, availability, and security
+• Monitor system performance and optimize resource utilization
+• Automate infrastructure using IaC tools (Terraform, CloudFormation, ARM)
+• Collaborate with DevOps and application teams
+• Troubleshoot cloud-related issues and outages
+Required Skills
+• Cloud platforms: AWS / Azure / GCP
+• Linux/Windows administration
+• Networking fundamentals (VPC, DNS, Load Balancers)
+• Infrastructure as Code (Terraform, CloudFormation)
+• Monitoring tools (CloudWatch, Azure Monitor, Prometheus)
+Experience & Qualifications
+• Bachelor’s degree in CS, IT, or related field
+• 2–5 years of cloud or infrastructure experience

@@ -1,0 +1,46 @@
+{
+  "candidate_id": "",
+  "personal_info": {
+    "full_name": "",
+    "email": "",
+    "phone": "",
+    "location": ""
+  },
+  "professional_summary": "",
+  "skills": [
+    {
+      "skill_name": "",
+      "category": "",
+      "proficiency": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "specialization": "",
+      "institution": "",
+      "year_of_completion": ""
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "",
+      "company": "",
+      "duration": "",
+      "responsibilities": []
+    }
+  ],
+  "projects": [
+    {
+      "project_title": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "",
+      "issued_by": "",
+      "year": ""
+    }
+  ]
+}

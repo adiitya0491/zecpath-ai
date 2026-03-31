@@ -1,0 +1,32 @@
+{
+  "skills": [],
+  "experience": [
+    {
+      "role": "Cloud Infrastructure Engineer Cloud Security Knowledge",
+      "start_date": "01/2021",
+      "end_date": "Present",
+      "duration_years": 5.17
+    },
+    {
+      "role": "Cloud Engineer",
+      "start_date": "06/2019",
+      "end_date": "12/2020",
+      "duration_years": 1.5
+    },
+    {
+      "role": "Infrastructure Engineer",
+      "start_date": "08/2018",
+      "end_date": "05/2019",
+      "duration_years": 0.75
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "09/2016",
+      "end_date": "05/2020"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

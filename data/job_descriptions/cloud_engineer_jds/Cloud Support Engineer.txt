@@ -1,0 +1,17 @@
+Cloud Support Engineer
+Role Overview
+A Cloud Support Engineer provides technical support for cloud services and assists internal
+or external customers in resolving cloud-related issues.
+Key Responsibilities
+• Diagnose and resolve cloud service issues
+• Respond to tickets and customer queries
+• Provide technical guidance on cloud usage
+• Escalate complex issues to engineering teams
+• Document solutions and best practices
+Required Skills
+• Cloud fundamentals
+• Troubleshooting and customer support skills
+• Networking and OS basics
+• Ticketing systems (ServiceNow, Jira)
+Experience & Qualifications
+• 0–3 years of cloud or IT support experience

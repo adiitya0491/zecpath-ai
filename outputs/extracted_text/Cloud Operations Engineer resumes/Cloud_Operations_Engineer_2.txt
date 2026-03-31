@@ -1,0 +1,31 @@
+ADITYA A
+Cloud Infrastructure Engineer
+1234567890 aditya@example.com City, Country
+SUMMARY
+I am a passionate Cloud Infrastructure Engineer with over 3 years of experience in building and maintaining cloud environments. My
+focus is on ensuring high availability, disaster recovery, and performance optimization while leveraging tools like Terraform and
+Ansible. I excel at implementing scalable solutions that manage compute, storage, and networking resources effectively.
+EXPERIENCE
+Cloud Infrastructure Engineer 06/2019 - Present
+Junior Cloud Engineer 08/2018 - 05/2019
+ Collaborated with cross - functional teams to design cloud architectures.
+EDUCATION
+University of Technology City, Country
+Bachelor of Technology in Computer Science 09/2015 - 06/2019
+STRENGTHS
+ Cloud Systems Optimization Infrastructure Automation Cross - Platform Cloud
+Strong ability to build and optimize Expert in automating infrastructure Management
+cloud systems for high availability. management with modern tools. Proficient in managing cross - platform cloud services and
+applications.
+KEY ACHIEVEMENTS
+ Cloud Migration Project Infrastructure Automation
+Successfully migrated critical Initiative
+applications to a cloud environment, Implemented an infrastructure as
+reducing operational costs by 30%. code strategy, decreasing
+deployment time from hours to
+minutes.
+LANGUAGES
+English Native Hindi Advanced
+SKILLS
+HARD SKILLS
+:Terraform Ansible AWS Azure Linux Administration Cloud Security

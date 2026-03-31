@@ -1,0 +1,17 @@
+Cloud ML Engineer
+Role Overview
+A Cloud ML Engineer builds, deploys, and manages machine learning pipelines and
+platforms in cloud environments.
+Key Responsibilities
+• Develop and deploy ML pipelines
+• Manage model training, testing, and deployment
+• Implement MLOps practices
+• Ensure scalability and reliability of ML systems
+• Collaborate with data scientists and engineers
+Required Skills
+• ML frameworks (TensorFlow, PyTorch)
+• MLOps tools (MLflow, Kubeflow)
+• Cloud ML platforms
+• Python and automation
+Experience & Qualifications
+• 4–8 years of ML or cloud engineering experience

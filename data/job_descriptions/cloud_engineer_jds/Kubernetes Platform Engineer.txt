@@ -1,0 +1,19 @@
+Kubernetes Platform Engineer
+Role Overview
+A Kubernetes Platform Engineer builds and operates scalable Kubernetes platforms that serve
+multiple development teams reliably and securely.
+Key Responsibilities
+• Design and manage Kubernetes clusters
+• Build internal developer platforms (IDPs)
+• Implement security, RBAC, and network policies
+• Automate cluster provisioning and upgrades
+• Improve reliability and performance of platforms
+• Support developers using Kubernetes services
+Required Skills
+• Advanced Kubernetes (EKS, AKS, GKE)
+• Helm, Operators, and CRDs
+• Platform engineering concepts
+• Observability tools (Prometheus, Grafana)
+• Networking & security
+Experience Level
+• 4–8 years

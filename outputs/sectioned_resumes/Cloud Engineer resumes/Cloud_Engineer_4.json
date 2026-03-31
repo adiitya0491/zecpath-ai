@@ -1,0 +1,33 @@
+{
+  "skills": [
+    "Azure",
+    "Cloud Platforms AWS",
+    "GCP",
+    "Troubleshot cloud",
+    "minimal business impact.",
+    "related outages"
+  ],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "start_date": "07/2022",
+      "end_date": "Present",
+      "duration_years": 3.67
+    },
+    {
+      "role": "Junior Cloud Engineer",
+      "start_date": "01/2021",
+      "end_date": "06/2022",
+      "duration_years": 1.42
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "09/2018",
+      "end_date": "06/2022"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

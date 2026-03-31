@@ -1,0 +1,28 @@
+NEERAJ J
+Cloud Systems Engineer
+91 98765 43210 neeraj.j@example.com Bangalore, India
+SUMMARY
+I am a Cloud Systems Engineer with over three years of experience in managing and optimizing cloud infrastructure. I have a strong
+background in systems administration, security hardening, and automation using Python and Shell scripting. My passion for
+technology drives me to embrace challenges and continuously improve my skill set, focusing on delivering high - performance cloud
+solutions that exceed client expectations.
+EXPERIENCE
+Cloud Systems Engineer 01/2021 - Present
+Junior Systems Engineer 01/2020 - 12/2020
+Intern - Systems Engineering 06/2019 - 12/2019
+EDUCATION
+National Institute of Technology Surat, India
+Bachelor of Technology in Computer Science 09/2018 - 06/2021
+STRENGTHS
+ Analytical Thinking Adaptability Time Management
+Strong analytical skills to diagnose Ability to adapt and learn new Proven ability to work under
+and resolve system issues technologies quickly in a fast - paced pressure and meet tight deadlines.
+effectively. environment.
+KEY ACHIEVEMENTS
+ Enhanced System Security Automated Deployment
+Successfully reduced system Led a project that implemented
+vulnerabilities through proactive automated provisioning that
+security measures in cloud improved operational efficiency
+environments. across departments.
+LANGUAGES
+English Native Hindi Native

@@ -1,0 +1,18 @@
+Senior Cloud Engineer
+Role Overview
+A Senior Cloud Engineer is a technical expert responsible for designing, implementing, and
+optimizing complex cloud systems while mentoring junior engineers.
+Key Responsibilities
+• Design and implement scalable cloud solutions
+• Lead complex deployments and migrations
+• Optimize performance, security, and cost
+• Mentor junior and mid-level engineers
+• Review cloud designs and code
+• Collaborate with architects and DevOps teams
+Required Skills
+• Advanced AWS / Azure / GCP expertise
+• Infrastructure as Code and automation
+• Cloud security and networking
+• Troubleshooting and system design
+Experience & Qualifications
+• 6–10 years of cloud or infrastructure experience

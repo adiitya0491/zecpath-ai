@@ -1,0 +1,85 @@
+{
+    "total_skills_found": 16,
+    "skills": [
+        {
+            "skill": "amazon web services",
+            "frequency": 6,
+            "confidence": 0.95
+        },
+        {
+            "skill": "azure",
+            "frequency": 4,
+            "confidence": 0.85
+        },
+        {
+            "skill": "monitoring",
+            "frequency": 3,
+            "confidence": 0.85
+        },
+        {
+            "skill": "cloud architecture",
+            "frequency": 2,
+            "confidence": 0.75
+        },
+        {
+            "skill": "terraform",
+            "frequency": 2,
+            "confidence": 0.75
+        },
+        {
+            "skill": "iac",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "linux",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "scalability",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "gcp",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "cloudwatch",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "windows",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "ci/cd",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "infrastructure as code",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "cloudformation",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "devops",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "compliance",
+            "frequency": 1,
+            "confidence": 0.75
+        }
+    ]
+}

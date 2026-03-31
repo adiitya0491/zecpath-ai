@@ -1,0 +1,19 @@
+Cloud Migration Architect
+Role Overview
+A Cloud Migration Architect leads the planning and execution of migrating applications,
+data, and infrastructure to the cloud.
+Key Responsibilities
+• Assess existing applications and infrastructure
+• Define migration strategies (Re-host, Re-platform, Re-factor)
+• Design target cloud architectures
+• Lead migration execution and validation
+• Ensure minimal downtime and risk
+Required Skills
+
+• Cloud migration tools and frameworks
+• Application modernization strategies
+• Data migration and integration
+• Risk management and planning
+Experience & Qualifications
+• 6–12 years of IT experience
+• Strong background in legacy systems and cloud

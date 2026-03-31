@@ -1,0 +1,19 @@
+AWS Cloud Engineer
+Role Overview
+An AWS Cloud Engineer designs, deploys, and manages cloud infrastructure on Amazon
+Web Services, ensuring scalability, security, and high availability.
+Key Responsibilities
+• Provision and manage AWS services (EC2, S3, RDS, VPC, IAM)
+• Implement Infrastructure as Code (CloudFormation, Terraform)
+• Monitor and optimize performance and cost
+• Implement security best practices and IAM policies
+• Support cloud migrations and application deployments
+• Troubleshoot AWS infrastructure issues
+Required Skills
+• Core AWS services
+• Networking (VPC, Subnets, Security Groups)
+• Linux administration
+• Automation & scripting (Python, Bash)
+• Monitoring (CloudWatch)
+Experience Level
+• 2–5 years

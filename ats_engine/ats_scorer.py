@@ -1,3 +1,5 @@
+from scoring.score_normalizer import normalize_score
+
 def calculate_ats_score(candidate_skills: list, required_skills: list) -> float:
     """
     Calculates the ATS match score between candidate skills and job requirements.

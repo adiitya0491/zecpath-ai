@@ -1,0 +1,30 @@
+JERMY L
+Cloud Infrastructure Engineer
+123 - 456 - 7890 jermy.l@example.com New York, NY
+SUMMARY
+I am a skilled Cloud Infrastructure Engineer with over three years of experience in building and optimizing cloud environments. My
+background includes extensive work in managing compute resources and implementing cost - effective solutions. I thrive on
+challenges, particularly in improving performance and ensuring high availability in cloud services. I am passionate about continuous
+learning and leveraging new technologies to enhance infrastructure management.
+EXPERIENCE
+Cloud Infrastructure Engineer 06/2020 - Present
+Infrastructure Engineer 03/2018 - 05/2020
+EDUCATION
+Tech University San Francisco, CA
+Bachelor of Science in Computer Science 08/2015 - 05/2019
+STRENGTHS
+ Time Management Analytical Thinking Communication
+Ability to manage multiple tasks and Strong analytical skills to assess Exceptional communication skills
+deadlines effectively. cloud infrastructure performance. with team members and
+stakeholders.
+KEY ACHIEVEMENTS
+ Cost Optimization Project Disaster Recovery
+Successfully led a project that Implementation
+reduced cloud costs by 30% while Implemented a disaster recovery
+improving performance metrics. plan that improved recovery time by
+50%, ensuring business continuity.
+LANGUAGES
+English Native Spanish Advanced
+SKILLS
+HARD SKILLS
+:Virtual machines Containers Terraform Ansible Linux system administration

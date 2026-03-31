@@ -1,0 +1,53 @@
+{
+  "skills": [
+    "Adaptability Time Management",
+    "Data Analysis  Visualization",
+    "Excel",
+    "Hugging face",
+    "Internet Of Things",
+    "Java",
+    "Langchain",
+    "Leaning new things",
+    "NLP",
+    "Power BI",
+    "Programming Languages",
+    "Python",
+    "Qudrant",
+    "Researched",
+    "Tools  Technologies",
+    "ability Management"
+  ],
+  "experience": [
+    {
+      "role": "bezgoFresh",
+      "start_date": "December 2024",
+      "end_date": "July 2025",
+      "duration_years": 0.58
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "CMS College Of Engineering And",
+      "start_date": "Technology 2022",
+      "end_date": "2026"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "title": "Power Bi August 2025",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Power Bi Workshop October 2025",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "PowerBI in under 30 mins",
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

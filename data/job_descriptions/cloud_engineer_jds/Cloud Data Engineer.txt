@@ -1,0 +1,20 @@
+Cloud Data Engineer
+Role Overview
+A Cloud Data Engineer designs, builds, and manages scalable data pipelines and platforms on
+cloud infrastructure to support analytics, reporting, and AI workloads.
+
+Key Responsibilities
+• Design and build cloud-based data pipelines
+• Manage data ingestion, transformation, and storage
+• Implement data lakes and data warehouses
+• Ensure data reliability, quality, and security
+• Optimize performance and cost of data systems
+• Collaborate with analytics and ML teams
+Required Skills
+• Cloud data services (BigQuery, Redshift, Synapse)
+• ETL/ELT tools (Airflow, Glue, Dataflow)
+• SQL, Python
+• Distributed data processing (Spark)
+Experience & Qualifications
+• 3–7 years of data engineering experience
+• Cloud data certification preferred

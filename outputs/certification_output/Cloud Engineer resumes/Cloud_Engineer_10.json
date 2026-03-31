@@ -1,0 +1,19 @@
+{
+    "certifications": [
+        {
+            "name": "Power Bi August",
+            "year": "2025",
+            "category": "Data Analytics"
+        },
+        {
+            "name": "Power Bi Workshop October",
+            "year": "2025",
+            "category": "Data Analytics"
+        },
+        {
+            "name": "PowerBI in under 30 mins",
+            "year": null,
+            "category": "Other"
+        }
+    ]
+}

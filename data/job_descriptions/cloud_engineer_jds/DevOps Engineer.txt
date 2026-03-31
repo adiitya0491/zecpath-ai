@@ -1,0 +1,20 @@
+DevOps Engineer (Cloud)
+Role Overview
+A Cloud DevOps Engineer enables fast, reliable, and secure software delivery by automating
+infrastructure, CICD pipelines, and cloud operations.
+Key Responsibilities
+• Design and maintain CICD pipelines in cloud environments
+• Automate infrastructure using Infrastructure as Code (IaC)
+• Manage cloud environments across dev, test, and production
+• Implement monitoring, logging, and alerting
+• Collaborate with development and operations teams
+• Improve deployment reliability and release velocity
+Required Skills
+• AWS  Azure  GCP
+• CICD tools (Jenkins, GitHub Actions, GitLab CI)
+• Terraform, CloudFormation, ARM
+• Docker, Kubernetes
+• Linux and scripting (Bash, Python)
+Experience & Qualifications
+• 3–7 years of DevOps or cloud experience
+• DevOps or cloud certification preferred

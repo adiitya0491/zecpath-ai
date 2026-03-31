@@ -1,0 +1,19 @@
+GCP DevOps Engineer
+Role Overview
+A GCP DevOps Engineer automates deployments and improves reliability of applications on
+Google Cloud.
+Key Responsibilities
+• Build CI/CD pipelines for GCP workloads
+• Manage Kubernetes clusters (GKE)
+• Automate infrastructure provisioning
+• Implement monitoring and SRE practices
+• Improve system reliability and performance
+• Support Dev and QA teams
+Required Skills
+• GKE & container orchestration
+• CI/CD tools
+• Terraform
+• Scripting (Python, Bash)
+• Observability tools
+Experience Level
+• 3–7 years

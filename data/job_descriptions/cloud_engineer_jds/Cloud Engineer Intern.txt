@@ -1,0 +1,18 @@
+Cloud Engineer Intern
+Role Overview
+A Cloud Engineer Intern gains hands-on experience by assisting cloud engineering teams
+with daily operations, deployments, and learning cloud platforms.
+Key Responsibilities
+• Support cloud infrastructure setup and maintenance
+• Assist with monitoring and incident response
+• Participate in cloud migration or optimization tasks
+• Learn automation and deployment tools
+• Document learning outcomes and processes
+
+Required Skills
+• Basic cloud concepts
+• Familiarity with Linux and networking fundamentals
+• Willingness to learn cloud tools and platforms
+Experience & Qualifications
+• Pursuing or recently completed a degree in IT or CS
+• No prior work experience required

@@ -1,0 +1,87 @@
+Versatile DevOps manager with 6 years’ experience. Seeking to leverage proven continuous
+deployment skills to raise quality at Google. Cut customer complaints by 50% for an SaaS
+application. At Shellnac Inc., used Jenkins and AWS tools to cut release times by 20% . Boosted
+customer satisfaction by 25%.
+EXPERIENCE
+2015 - 07 - 2018 - 08
+DevOps Manager
+Led Agile team of 5 developers, 2 SysAdmins to continuous deployment of
+2013 - 05 - 2015 - 06
+DevOps Engineer
+2012 - 06 - 2013 - 05
+* Set up and managed 15 Windows 2008 servers.
+EDUCATION
+2008 - BS in Computer Science, University of Michigan
+2012 * Pursued a passion for programming and network management.
+* Excelled in security classes.
+* President, 314 Action STEM Organization.
+Additional Activities
+* Member, DevOps Agile Skills Association.
+* Volunteer as DevOps for Berth County Animal Shelter.
+* Manage continuous deployment of fundraising app for Maple Street Soup
+Kitchen.
+« Run half marathons to stay in shape.
+CERTIFICATIONS
+AWS Certified DevOps Engineer
+AWS Certified SysOps Administrator
+Conferences
+2017 DevOps Days, Spoke on a panel about serverless networks
+2015 ChefConf
+Publications
+2017 Article on containers appeared in “The Agile Admin"
+2016 Article on monitoring best practices appeared in "DevOpsGuys"
+Jessica
+Zackowitz
+DevOps Engineer
+Personal Info
+jesszackowitz@gmail.com
+Portfolio
+Soft Skills
+Interpersonal Skills
+Collaboration
+Critical Thinking
+Advanced
+HARD SKILLS
+Programming
+A RA Am
+Expert
+Server Management
+wn
+i")
+°
+c
+=
+<
+m m
+x x
+a=] a=]
+@ @
+= =
+Continuous Deployment
+m
+x
+no]
+©
+=
+Unix/Linux
+m
+x
+ao]
+oO
+r=
+Puppet, Jenkins, Zabbix
+>
+=
+wn
+Qo
+a
+°
+o
+m
+x
+3
+is)
+A
+Advanced
+Python, GIT
+Advanced

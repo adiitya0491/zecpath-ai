@@ -1,0 +1,18 @@
+Associate Cloud Engineer
+Role Overview
+An Associate Cloud Engineer supports cloud infrastructure operations and works closely with
+senior engineers to implement and maintain cloud environments.
+Key Responsibilities
+• Manage cloud resources under supervision
+• Assist in infrastructure provisioning and automation
+• Monitor system performance and logs
+• Support security and compliance activities
+• Collaborate with DevOps and support teams
+Required Skills
+• Cloud fundamentals
+• Networking basics (VPC, Subnets, Firewalls)
+• Infrastructure as Code basics
+• Monitoring and logging fundamentals
+Experience & Qualifications
+• 1–3 years of cloud or IT infrastructure experience
+• Cloud certification preferred (AWSAzure Associate)

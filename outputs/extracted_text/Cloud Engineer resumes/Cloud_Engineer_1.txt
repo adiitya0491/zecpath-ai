@@ -1,0 +1,33 @@
+ALEX JORDAN
+Cloud Engineer
+1234567890 cloudengineer@example.com Tech City, ST
+SUMMARY
+As a Cloud Engineer with over three years of hands - on experience, I specialize in designing, deploying, and managing cloud
+infrastructures across AWS and Azure. My focus is on ensuring high availability and security while optimizing resource utilization.
+With a solid foundation in Infrastructure as Code, I thrive on automating deployments and collaborating with teams to solve complex
+challenges in the cloud.
+EXPERIENCE
+Cloud Engineer 03/2021 - Present
+Junior Cloud Engineer 06/2019 - 02/2021
+EDUCATION
+State University of Technology Tech City, ST
+Bachelor of Science in Computer Science 08/2015 - 05/2019
+STRENGTHS
+ Adaptability Troubleshooting Expertise Cost Optimization
+Ability to quickly learn and adapt to Strong troubleshooting skills under Proficient in designing cost - new technologies in cloud pressure, ensuring minimal effective cloud solutions tailored to
+computing. downtime. business needs.
+KEY ACHIEVEMENTS
+ Legacy Application Migration Deployment Automation
+Successfully migrated a legacy Framework
+application to cloud infrastructure, Implemented an automation
+enhancing performance and framework that improved
+reducing costs. deployment efficiency and reduced
+errors.
+LANGUAGES
+English Native Spanish Advanced
+SKILLS
+HARD SKILLS
+:
+AWS Cloud Services Azure Cloud Management GCP Infrastructure Deployment
+Infrastructure as Code Terraform, CloudFormation) Linux and Windows Administration
+Networking Fundamentals VPC, DNS, Load Balancers)

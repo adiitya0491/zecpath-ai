@@ -1,0 +1,19 @@
+Managed Services Cloud Engineer
+Role Overview
+A Managed Services Cloud Engineer operates and supports cloud environments on behalf of
+clients, ensuring uptime, security, and performance.
+Key Responsibilities
+• Monitor and manage cloud infrastructure 24/7
+• Handle incidents, outages, and escalations
+• Perform patching, upgrades, and backups
+• Ensure SLA, SLO, and compliance adherence
+• Implement security best practices
+• Provide regular operational reports
+Required Skills
+• Cloud operations & monitoring
+• ITIL & incident management
+• Backup, DR, and high availability
+• Security & access management
+• Automation and scripting
+Experience Level
+• 2–5 years

@@ -1,0 +1,18 @@
+Cloud Automation Engineer
+Role Overview
+
+A Cloud Automation Engineer focuses on automating cloud infrastructure, deployments, and
+operational tasks to improve efficiency and reliability.
+Key Responsibilities
+• Develop automation scripts and workflows
+• Implement Infrastructure as Code (IaC)
+• Automate provisioning, scaling, and recovery
+• Reduce manual operational tasks
+• Collaborate with DevOps and cloud teams
+Required Skills
+• Terraform, Ansible, CloudFormation
+• Python, Bash, PowerShell
+• Cloud APIs and SDKs
+• Monitoring and alert automation
+Experience & Qualifications
+• 3–7 years of cloud automation experience

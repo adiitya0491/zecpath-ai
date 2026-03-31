@@ -1,0 +1,66 @@
+Avin Pazhayattil
+AI & ML Engineer
+Palakkad | +91 7034474251 | pazhayattilavin@gmail.com
+Profiles GitHub: pazhayattilAvin LinkedIn: pazhayattilavin
+Career Objective B.Tech graduate specializing in Artificial Intelligence and Data Science at Anna University, with
+a strong foundation in machine learning and full - stack development. Built and deployed real - world AI projects, including mental wellness assistants and object detection systems, using
+Python, React Native, MongoDB, and Firebase. Passionate about developing impactful tech
+solutions that solve real - world problems and enhance user experiences.
+EDUCATION
+CMS College of Engineering and Technology June 2026
+Artificial Intelligence & Data Science. B.Tech
+8.2 GPA
+St. Raphael Cathedral School March 2022
+Computer Science Higher secondary
+67%
+St.Raphael Cathedral School 2020
+74%
+PROJECTS
+Project 1:MindMate - (15 days) June 2025
+Offline Mental Wellness Assistant
+Developed a fully offline mental health support app using React Native and Expo with mood
+tracking, journaling, breathing exercises, and PIN - based security. Enhanced user
+EXPERIENCE
+Project 2: TargetSight - (25 days) June 2025
+Project Intern(August 2024)
+TECHNICAL SKILLS
+Programming
+Java,Python, HTML, CSS, React Native
+Databases
+MongoDB, Firebase
+Tools & Platforms
+Git/GitHub, VS Code, AWS,PowerBI
+Area of Interest Virtual Reality and Augmented Reality Military Technology
+Neurotechnology n8n - Ai workflow automation
+CERTIFICATIONS
+AWS Mega Workshop June 2024
+NxtWave
+Participated in AWS Mega Workshop, gaining hands - on experience with cloud computing
+services, deployment, and scalability. Enhanced practical knowledge of AWS tools and best
+practices for real - world applications.
+Model Context Protocol Mega Workshop Augest 2025
+NxtWave
+Participated in Model Context Protocol (MCP) Mega Workshop, exploring advanced AI/ML
+workflows and context - driven model integration. Gained hands - on experience in building
+scalable, efficient solutions using cutting - edge MCP frameworks.
+PowerBI Augest 2025
+ICT academy
+Completed hands - on training in Power BI, focusing on data visualization, dashboard
+creation, and business intelligence reporting. Gained practical skills in transforming raw
+data into actionable insights for decision - making.
+LANGUAGES
+English Malayalam Hindi Tamil
+Accomplishments Single's badminton July 2019
+First prize
+Achieved First Prize in Singles Badminton Tournament, highlighting agility, stamina, and
+strategic gameplay. Demonstrated consistency, discipline, and competitive excellence.
+Carrom tournament June 2024
+First prize
+Secured First Prize in a Carrom Tournament, showcasing focus, precision, and strategic
+thinking. Demonstrated strong concentration and competitive spirit in achieving top
+performance.
+Declaration
+I hereby declare that the particulars furnished above are true and correct to the best of my knowledge and
+belief.
+Place: Yours faithfully,
+Date: Avin Pazhayattil

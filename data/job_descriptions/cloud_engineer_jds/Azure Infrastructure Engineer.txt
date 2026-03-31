@@ -1,0 +1,19 @@
+Azure Infrastructure Engineer
+Role Overview
+An Azure Infrastructure Engineer focuses on core infrastructure, networking, and system
+operations in Azure environments.
+Key Responsibilities
+• Manage Azure VMs, storage, and networking
+• Implement backup and disaster recovery
+• Maintain hybrid connectivity (ExpressRoute)
+• Automate infrastructure deployments
+• Monitor and troubleshoot infrastructure issues
+• Apply security and compliance controls
+Required Skills
+• Azure infrastructure services
+• Networking & hybrid cloud
+• PowerShell scripting
+• Azure Backup & Site Recovery
+• OS administration
+Experience Level
+• 3–6 years

@@ -1,0 +1,17 @@
+Cloud AI Engineer
+Role Overview
+A Cloud AI Engineer designs and deploys AI solutions using cloud-native AI services and
+infrastructure.
+Key Responsibilities
+• Deploy AI models on cloud platforms
+• Use managed AI services (Vision, NLP, GenAI APIs)
+• Optimize inference performance and scalability
+• Integrate AI services into applications
+• Monitor and maintain AI systems in production
+Required Skills
+• Cloud AI/ML services (SageMaker, Vertex AI, Azure AI)
+• Python and ML frameworks
+• Model deployment and monitoring
+• API integration
+Experience & Qualifications
+• 3–7 years in AI, ML, or cloud roles

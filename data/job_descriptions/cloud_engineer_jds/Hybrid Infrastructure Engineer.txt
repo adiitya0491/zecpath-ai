@@ -1,0 +1,17 @@
+Hybrid Infrastructure Engineer
+Role Overview
+A Hybrid Infrastructure Engineer manages and integrates on-premise infrastructure with
+cloud platforms to deliver seamless hybrid environments.
+Key Responsibilities
+• Design and maintain hybrid infrastructure solutions
+• Integrate on-premise systems with cloud services
+• Manage compute, storage, and networking across environments
+• Ensure security, compliance, and performance
+• Support hybrid migration and modernization projects
+Required Skills
+• On-premise infrastructure (VMware, SAN, networking)
+• Cloud platforms and hybrid services
+• Identity and access management
+• Disaster recovery and backup strategies
+Experience & Qualifications
+• 5–10 years of infrastructure and cloud experience

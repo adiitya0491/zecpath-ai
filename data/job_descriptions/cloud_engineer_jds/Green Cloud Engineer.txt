@@ -1,0 +1,19 @@
+Green Cloud Engineer
+Role Overview
+A Green Cloud Engineer focuses on building environmentally sustainable cloud
+infrastructure by optimizing energy usage, carbon footprint, and resource efficiency.
+Key Responsibilities
+• Optimize cloud resource utilization
+• Measure and reduce carbon emissions
+• Implement energy-efficient architectures
+• Guide sustainable cloud strategies
+• Optimize costs aligned with sustainability goals
+• Report sustainability metrics
+Required Skills
+• Cloud cost & performance optimization
+• Sustainability and green IT principles
+• FinOps tools & practices
+• Cloud carbon measurement tools
+• Architecture optimization
+Experience Level
+• 4–8 years

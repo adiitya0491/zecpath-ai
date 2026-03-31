@@ -1,0 +1,26 @@
+{
+  "skills": [],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "start_date": "06/2022",
+      "end_date": "Present",
+      "duration_years": 3.75
+    },
+    {
+      "role": "Cloud Engineer",
+      "start_date": "06/2021",
+      "end_date": "05/2022",
+      "duration_years": 0.92
+    },
+    {
+      "role": "Bachelor of Science in Computer Science",
+      "start_date": "09/2018",
+      "end_date": "05/2022",
+      "duration_years": 3.67
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "certifications": []
+}

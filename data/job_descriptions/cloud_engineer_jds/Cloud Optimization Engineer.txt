@@ -1,0 +1,17 @@
+Cloud Optimization Engineer
+Role Overview
+A Cloud Optimization Engineer continuously improves cloud environments for cost
+efficiency, performance, and operational excellence.
+Key Responsibilities
+• Analyze cloud usage and identify optimization opportunities
+• Optimize compute, storage, and network resources
+• Implement autoscaling and rightsizing strategies
+• Improve reliability and efficiency
+• Collaborate with FinOps and operations teams
+Required Skills
+• Cloud monitoring and cost tools
+• Performance tuning and capacity planning
+• Automation and scripting
+• FinOps fundamentals
+Experience & Qualifications
+• 3–7 years of cloud engineering experience

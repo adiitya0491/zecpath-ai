@@ -1,0 +1,17 @@
+Cloud Storage Engineer
+Role Overview
+A Cloud Storage Engineer designs, manages, and optimizes cloud-based storage solutions for
+performance, durability, and cost efficiency.
+Key Responsibilities
+• Design storage architectures for applications and data
+• Manage object, block, and file storage services
+• Implement data lifecycle and tiering policies
+• Ensure storage security and encryption
+• Optimize storage performance and cost
+Required Skills
+• Cloud storage services (S3, Blob, EBS, Filestore)
+• Storage performance and capacity planning
+• Backup and data protection
+• Security and encryption
+Experience & Qualifications
+• 3–7 years of storage or cloud experience

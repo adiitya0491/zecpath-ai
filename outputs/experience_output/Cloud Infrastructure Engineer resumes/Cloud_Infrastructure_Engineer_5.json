@@ -1,0 +1,28 @@
+{
+    "total_experience_months": 89,
+    "total_experience_years": 7.42,
+    "roles": [
+        {
+            "role": "Cloud Infrastructure Engineer Cloud Security Knowledge",
+            "start_date": "01/2021",
+            "end_date": "Present",
+            "duration_months": 62,
+            "duration_years": 5.17
+        },
+        {
+            "role": "Cloud Engineer",
+            "start_date": "06/2019",
+            "end_date": "12/2020",
+            "duration_months": 18,
+            "duration_years": 1.5
+        },
+        {
+            "role": "Infrastructure Engineer",
+            "start_date": "08/2018",
+            "end_date": "05/2019",
+            "duration_months": 9,
+            "duration_years": 0.75
+        }
+    ],
+    "relevance_score": 1.0
+}

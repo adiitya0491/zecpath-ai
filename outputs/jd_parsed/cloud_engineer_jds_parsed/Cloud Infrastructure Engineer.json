@@ -1,0 +1,22 @@
+{
+    "job_title": "Cloud Infrastructure Engineer",
+    "key_responsibilities": [
+        "Build and maintain scalable cloud infrastructure",
+        "Manage compute, storage, and networking resources",
+        "Implement backup, disaster recovery, and high availability",
+        "Perform system upgrades and patching",
+        "Optimize infrastructure for cost and performance"
+    ],
+    "required_skills": [
+        "cloud networking and security",
+        "linux system administration",
+        "terraform / ansible",
+        "virtual machines, containers, storage services"
+    ],
+    "experience_required": {
+        "min_years": 6,
+        "max_years": null
+    },
+    "qualifications": "Not Mentioned",
+    "raw_text": "Cloud Infrastructure Engineer\nRole Overview\nThe Cloud Infrastructure Engineer focuses on building and maintaining the core cloud\ninfrastructure that supports applications and services.\nKey Responsibilities\n\u2022 Build and maintain scalable cloud infrastructure\n\u2022 Manage compute, storage, and networking resources\n\u2022 Implement backup, disaster recovery, and high availability\n\n\u2022 Perform system upgrades and patching\n\u2022 Optimize infrastructure for cost and performance\nRequired Skills\n\u2022 Virtual machines, containers, storage services\n\u2022 Cloud networking and security\n\u2022 Terraform / Ansible\n\u2022 Linux system administration\nExperience & Qualifications\n\u2022 3\u20136 years of infrastructure or cloud experience\n\u2022 Strong understanding of distributed systems"
+}

@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 57,
+    "total_experience_years": 4.75,
+    "roles": [
+        {
+            "role": "Front End Web Developer, Wilkinson and Sons",
+            "start_date": "March 2023",
+            "end_date": "Present",
+            "duration_months": 36,
+            "duration_years": 3.0
+        },
+        {
+            "role": "Front End Web Developer, Romaguera LLC",
+            "start_date": "May 2021",
+            "end_date": "February 2023",
+            "duration_months": 21,
+            "duration_years": 1.75
+        }
+    ],
+    "relevance_score": 0.0
+}

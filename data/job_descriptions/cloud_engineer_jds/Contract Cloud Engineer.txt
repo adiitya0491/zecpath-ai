@@ -1,0 +1,20 @@
+Contract Cloud Engineer
+Role Overview
+A Contract Cloud Engineer is hired for a fixed duration to deliver specific cloud
+infrastructure or migration outcomes.
+Key Responsibilities
+• Deploy and manage cloud resources
+• Support migration or modernization projects
+• Build automation and CI/CD pipelines
+• Monitor system performance and availability
+• Resolve cloud infrastructure issues
+• Collaborate with DevOps and development teams
+Required Skills
+• Cloud operations & troubleshooting
+• Infrastructure automation
+• Monitoring tools (CloudWatch, Azure Monitor)
+• Linux & scripting (Python, Bash)
+Experience Level
+• 3–6 years
+Contract Duration
+• 3–12 months (typical)

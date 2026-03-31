@@ -1,0 +1,17 @@
+Virtualization Engineer
+Role Overview
+A Virtualization Engineer designs and manages virtualized environments supporting cloud
+and hybrid infrastructure.
+Key Responsibilities
+• Manage virtualization platforms (VMware, Hyper-V, KVM)
+• Optimize VM performance and capacity
+• Implement high availability and failover
+• Support cloud integration and migration
+• Maintain virtualization security and patching
+Required Skills
+• Virtualization platforms
+• Server and storage fundamentals
+• Automation and scripting
+• Performance monitoring tools
+Experience & Qualifications
+• 4–8 years of virtualization experience

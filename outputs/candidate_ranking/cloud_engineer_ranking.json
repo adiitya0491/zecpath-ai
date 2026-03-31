@@ -1,0 +1,62 @@
+[
+    {
+        "resume": "Cloud_Engineer_2.json",
+        "ats_score": 0.871,
+        "rank": 1,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Engineer_4.json",
+        "ats_score": 0.757,
+        "rank": 2,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Engineer_3.json",
+        "ats_score": 0.682,
+        "rank": 3,
+        "zone": "REVIEW"
+    },
+    {
+        "resume": "Cloud_Engineer_5.json",
+        "ats_score": 0.572,
+        "rank": 4,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_1.json",
+        "ats_score": 0.533,
+        "rank": 5,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_10.json",
+        "ats_score": 0.437,
+        "rank": 6,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_9.json",
+        "ats_score": 0.434,
+        "rank": 7,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_7.json",
+        "ats_score": 0.422,
+        "rank": 8,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_8.json",
+        "ats_score": 0.392,
+        "rank": 9,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Engineer_6.json",
+        "ats_score": 0.352,
+        "rank": 10,
+        "zone": "REJECT"
+    }
+]

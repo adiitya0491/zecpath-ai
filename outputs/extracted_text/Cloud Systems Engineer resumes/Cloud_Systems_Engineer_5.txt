@@ -1,0 +1,27 @@
+JUDY FOSTER
+Cloud Systems Engineer
+555 - 123 - 4567 judy.foster@email.com Tech City, ST
+SUMMARY
+I'm a Cloud Systems Engineer with over 5 years of experience in managing cloud environments. I specialize in configuring and
+maintaining cloud - based servers while ensuring system security and performance. My expertise in automation significantly
+enhances provisioning processes, and I'm passionate about leveraging technology to optimize cloud operations.
+EXPERIENCE
+Cloud Systems Engineer 06/2019 - Present
+Systems Engineer 06/2018 - 05/2019
+Junior Systems Engineer 01/2017 - 05/2018
+ Provided training to junior engineers on system administration best practices.
+EDUCATION
+State University of Technology Cityville, ST
+Bachelor of Science in Computer Engineering 09/2015 - 06/2019
+STRENGTHS
+ Analytical Thinker Organizational Skills Mentorship
+Strong analytical skills with a knack Highly organized, capable of Proficient in guiding and mentoring
+for troubleshooting complex system managing multiple cloud systems junior team members.
+issues. efficiently.
+KEY ACHIEVEMENTS
+ Automation Achievement Security Enhancement
+Successfully automated the entire Enhanced cloud security protocols
+server provisioning process, leading resulting in zero security breaches
+to significant efficiency gains. over three consecutive years.
+LANGUAGES
+English Native Spanish Advanced

@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 39,
+    "total_experience_years": 3.25,
+    "roles": [
+        {
+            "role": "Infrastructure Engineer",
+            "start_date": "05/2016",
+            "end_date": "05/2018",
+            "duration_months": 24,
+            "duration_years": 2.0
+        },
+        {
+            "role": "Systems Engineer",
+            "start_date": "01/2015",
+            "end_date": "04/2016",
+            "duration_months": 15,
+            "duration_years": 1.25
+        }
+    ],
+    "relevance_score": 0.5
+}

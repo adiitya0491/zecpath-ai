@@ -1,0 +1,70 @@
+ADITYA P
+AI & ML Engineer
+ Palakkad  +91 97476 12052  adiitya0491@gmail.com
+Profiles Aditya P
+SUMMARY
+Motivated and passionate B.Tech student specializing in Artificial Intelligence and Data
+Science, with strong leadership and team coordination skills. Experienced in coding and
+developing user - centric web applications, with a keen interest in UI/UX design. Adept at
+blending technical expertise with design principles to create intuitive, engaging digital
+EXPERIENCE
+EXPERIENCE
+bezgoFresh December 2024 - July 2025
+Social media manager Palakkad
+Camino Infotech Pvt Ltd August 2024
+Completed a one - month Python Developer internship, gaining hands - on experience in
+EDUCATION
+CMS College Of Engineering And Technology 2022 - 2026
+Artificial Intelligence & Data Science B tech
+8.2 CGPA
+Vocational HSE Palakkad, Kootupatha 2022
+70% VHSE
+GOVT Technical High School 2020
+80% THSLC
+PROJECTS
+Credit Card Spam August 2024
+Technology: Python, Machine Learning, Scikit - learn
+Developed a system to identify fraudulent and spam credit card transactions with 93%
+accuracy.
+Utilized machine learning algorithms for classification to accurately distinguish
+between legitimate and fraudulent transactions.
+Applied data preprocessing and feature engineering techniques to ensure effective
+model training and evaluation.
+Contributed to enhancing the security of financial systems by reducing the risk of fraud.
+Email Spam
+Technology: Python, Natural Language Processing (NLP), Scikit - learn
+Built an email spam filter to classify spam and legitimate emails with high accuracy.
+Employed NLP techniques such as tokenization, stopword removal, and TF - IDF for
+feature extraction.
+Trained and tested machine learning models for spam classification.
+Improved email security by automating the detection of unwanted and potentially
+harmful emails.
+TECHNICAL SKILLS
+Programming Languages
+Python, Java, NLP
+Data Analysis & Visualization
+Excel, Power BI
+Tools & Technologies
+Hugging face , Langchain, Qudrant
+Soft Skills Strong problem - solving Leadership & Team Communication
+ability Management
+Adaptability Time Management
+Interests Problem solving
+Researched
+Leaning new things
+Internet Of Things
+LANGUAGES
+English
+Malayalam
+Tamil
+Hindi
+CERTIFICATIONS
+Power Bi August 2025
+ICT Academy
+Completed hands - on training in Power BI, focusing on data visualization, dashboard
+creation, and business intelligence reporting. Gained practical skills in transforming raw
+data into actionable insights for decision - making.
+Power Bi Workshop October 2025
+OfficeMaster
+Successful completion of PowerBI workshop to create Al - Powered interactive dashboards in
+PowerBI in under 30 mins

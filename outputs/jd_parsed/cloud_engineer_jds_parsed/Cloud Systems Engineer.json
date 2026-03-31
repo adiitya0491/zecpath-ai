@@ -1,0 +1,22 @@
+{
+    "job_title": "Cloud Systems Engineer",
+    "key_responsibilities": [
+        "Configure and maintain cloud-based servers",
+        "Manage OS-level security and system hardening",
+        "Monitor system health and performance",
+        "Automate system provisioning and configuration",
+        "Troubleshoot system-level issues"
+    ],
+    "required_skills": [
+        "cloud compute services",
+        "linux/windows systems administration",
+        "monitoring and logging tools",
+        "shell scripting / python"
+    ],
+    "experience_required": {
+        "min_years": 6,
+        "max_years": null
+    },
+    "qualifications": "Not Mentioned",
+    "raw_text": "Cloud Systems Engineer\nRole Overview\n\nThe Cloud Systems Engineer manages operating systems and system-level components\nrunning in cloud environments.\nKey Responsibilities\n\u2022 Configure and maintain cloud-based servers\n\u2022 Manage OS-level security and system hardening\n\u2022 Monitor system health and performance\n\u2022 Automate system provisioning and configuration\n\u2022 Troubleshoot system-level issues\nRequired Skills\n\u2022 Linux/Windows systems administration\n\u2022 Shell scripting / Python\n\u2022 Cloud compute services\n\u2022 Monitoring and logging tools\nExperience & Qualifications\n\u2022 3\u20136 years of systems engineering experience"
+}

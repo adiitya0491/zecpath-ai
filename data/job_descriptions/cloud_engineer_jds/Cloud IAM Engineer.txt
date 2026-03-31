@@ -1,0 +1,18 @@
+Cloud IAM Engineer
+Role Overview
+A Cloud IAM Engineer specializes in identity, access, and authentication systems to ensure
+secure and compliant access to cloud resources.
+
+Key Responsibilities
+• Design and manage cloud IAM solutions
+• Implement role-based access control (RBAC)
+• Integrate SSO, MFA, and identity federation
+• Monitor and audit access permissions
+• Automate identity lifecycle management
+Required Skills
+• Cloud IAM services (AWS IAM, Azure AD, GCP IAM)
+• Identity federation (SAML, OAuth, OpenID)
+• Privileged access management (PAM)
+• Automation and scripting
+Experience & Qualifications
+• 3–7 years in IAM or cloud security roles

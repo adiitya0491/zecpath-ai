@@ -1,0 +1,20 @@
+Cloud Governance Engineer
+
+Role Overview
+A Cloud Governance Engineer establishes and enforces policies for cloud usage, cost, security, and resource management.
+
+Key Responsibilities
+• Define cloud governance frameworks
+• Implement policies for access, cost, and usage
+• Enforce tagging, naming, and resource standards
+• Monitor compliance and policy violations
+• Collaborate with FinOps and security teams
+
+Required Skills
+• Cloud policy management tools
+• Cost management and FinOps concepts
+• IAM and access governance
+• Automation and reporting
+
+Experience & Qualifications
+• 4–9 years of cloud governance experience

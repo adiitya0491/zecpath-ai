@@ -1,0 +1,19 @@
+AI Infrastructure Engineer
+Role Overview
+An AI Infrastructure Engineer designs and manages cloud infrastructure optimized for
+AI/ML workloads, including GPUs, large-scale data pipelines, and model serving platforms.
+Key Responsibilities
+• Provision GPU/TPU-based infrastructure
+• Build scalable ML training and inference platforms
+• Optimize performance and cost of AI workloads
+• Integrate MLOps pipelines
+• Ensure security and data compliance
+• Support data scientists and ML engineers
+Required Skills
+• Cloud AI services & GPU computing
+• Kubernetes & model serving
+• MLOps tools (Kubeflow, MLflow)
+• Data pipelines
+• Performance optimization
+Experience Level
+• 4–9 years

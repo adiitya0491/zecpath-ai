@@ -1,0 +1,17 @@
+Cloud Backup & DR Engineer
+Role Overview
+A Cloud Backup & Disaster Recovery Engineer ensures data protection, business continuity,
+and rapid recovery from failures or disasters.
+Key Responsibilities
+• Design and implement backup and DR strategies
+• Configure backup policies and replication
+• Test disaster recovery plans regularly
+• Ensure compliance with RPO and RTO requirements
+• Automate backup and recovery processes
+Required Skills
+• Cloud backup and DR services
+• High availability and replication strategies
+• Automation and scripting
+• Compliance and audit readiness
+Experience & Qualifications
+• 4–9 years of backup, DR, or cloud infrastructure experience

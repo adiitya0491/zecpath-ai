@@ -1,0 +1,17 @@
+Cloud Performance Test Engineer
+Role Overview
+A Cloud Performance Test Engineer ensures cloud systems meet performance, scalability,
+and load requirements under real-world conditions.
+Key Responsibilities
+• Design and execute performance, load, and stress tests
+• Simulate real-world traffic and workloads
+• Analyze performance bottlenecks and tuning needs
+• Validate autoscaling and elasticity
+• Report performance metrics and recommendations
+Required Skills
+• Performance testing tools (JMeter, k6, Gatling)
+• Cloud monitoring and observability tools
+• Load testing strategies
+• Data analysis and reporting
+Experience & Qualifications
+• 4–8 years of performance testing or cloud engineering experience

@@ -1,0 +1,17 @@
+Cloud Solutions Engineer
+Role Overview
+A Cloud Solutions Engineer bridges architecture and implementation, ensuring designed
+cloud solutions are successfully deployed and optimized.
+Key Responsibilities
+• Implement cloud architectures and solutions
+• Assist in solution design and validation
+• Build and deploy POCs and demos
+• Troubleshoot solution-level issues
+• Optimize performance, security, and costs
+Required Skills
+• Hands-on cloud engineering experience
+• CICD pipelines and automation
+• Containerization and orchestration
+• Monitoring and observability
+Experience & Qualifications
+• 4–8 years of cloud engineering experience

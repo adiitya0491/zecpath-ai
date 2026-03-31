@@ -1,0 +1,19 @@
+FinOps Engineer
+Role Overview
+A FinOps Engineer manages cloud financial operations by aligning engineering, finance, and
+business teams to optimize cloud spending.
+Key Responsibilities
+• Monitor and analyze cloud costs
+• Implement cost allocation and tagging strategies
+• Optimize cloud usage and spend
+• Create cost forecasts and budgets
+• Enable cost visibility and accountability
+• Collaborate with engineering and finance teams
+Required Skills
+• Cloud cost management tools
+• FinOps frameworks and best practices
+• Data analysis and reporting
+• Cloud architecture fundamentals
+Experience & Qualifications
+• 3–8 years of cloud or financial operations experience
+• FinOps certification preferred

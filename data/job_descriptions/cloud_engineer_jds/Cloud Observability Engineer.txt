@@ -1,0 +1,19 @@
+Cloud Observability Engineer
+Role Overview
+A Cloud Observability Engineer builds advanced monitoring, logging, and tracing systems to
+provide deep visibility into cloud-native and distributed systems.
+Key Responsibilities
+• Design observability architectures
+• Implement metrics, logs, and traces
+• Optimize alerting and incident detection
+• Support SRE and DevOps teams
+• Improve system transparency and insights
+• Enable proactive incident prevention
+Required Skills
+• Observability tools (Prometheus, OpenTelemetry)
+• Distributed systems knowledge
+• SRE practices
+• Data analysis & visualization
+• Cloud platforms
+Experience Level
+• 3–8 years

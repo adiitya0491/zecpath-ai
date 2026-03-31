@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 24,
+    "total_experience_years": 2.0,
+    "roles": [
+        {
+            "role": "Grimes &3",
+            "start_date": "2019",
+            "end_date": "2020",
+            "duration_months": 12,
+            "duration_years": 1.0
+        },
+        {
+            "role": "Borer Ltd &3\u00a7",
+            "start_date": "2018",
+            "end_date": "2019",
+            "duration_months": 12,
+            "duration_years": 1.0
+        }
+    ],
+    "relevance_score": 0.0
+}

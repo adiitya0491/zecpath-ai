@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 56,
+    "total_experience_years": 4.67,
+    "roles": [
+        {
+            "role": "Cloud Engineer",
+            "start_date": "06/2022",
+            "end_date": "Present",
+            "duration_months": 45,
+            "duration_years": 3.75
+        },
+        {
+            "role": "Cloud Engineer",
+            "start_date": "06/2021",
+            "end_date": "05/2022",
+            "duration_months": 11,
+            "duration_years": 0.92
+        }
+    ],
+    "relevance_score": 1.0
+}

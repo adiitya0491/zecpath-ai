@@ -1,0 +1,19 @@
+Cloud Native Engineer
+Role Overview
+A Cloud Native Engineer designs, builds, and operates applications and infrastructure using
+cloud-native principles such as microservices, containers, and declarative automation.
+Key Responsibilities
+• Build and manage containerized applications
+• Design microservices-based architectures
+• Implement Infrastructure as Code and GitOps
+• Optimize cloud-native workloads for scalability
+• Ensure resilience and fault tolerance
+• Collaborate with DevOps and platform teams
+Required Skills
+• Kubernetes & containers
+• Microservices architecture
+• IaC tools (Terraform, Pulumi)
+• CI/CD & GitOps (ArgoCD, Flux)
+• Cloud platforms (AWS, Azure, GCP)
+Experience Level
+• 3–7 years

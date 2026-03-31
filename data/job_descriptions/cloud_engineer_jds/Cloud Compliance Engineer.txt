@@ -1,0 +1,17 @@
+Cloud Compliance Engineer
+Role Overview
+A Cloud Compliance Engineer ensures cloud environments meet regulatory, legal, and
+internal compliance requirements.
+Key Responsibilities
+• Implement and monitor compliance controls
+• Conduct audits and compliance assessments
+• Map cloud services to regulatory frameworks
+• Generate compliance reports and evidence
+• Work with legal, risk, and security teams
+Required Skills
+• Compliance frameworks (ISO 27001, SOC 2, GDPR, HIPAA)
+• Cloud security and governance tools
+• Policy-as-code tools
+• Documentation and audit management
+Experience & Qualifications
+• 4–8 years in compliance or security roles

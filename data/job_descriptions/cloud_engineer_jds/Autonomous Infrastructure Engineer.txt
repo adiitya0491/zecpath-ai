@@ -1,0 +1,19 @@
+Autonomous Infrastructure Engineer
+Role Overview
+An Autonomous Infrastructure Engineer builds self-healing, self-optimizing cloud systems
+using AI-driven automation and policy-based management.
+Key Responsibilities
+• Design autonomous infrastructure systems
+• Implement self-healing and auto-remediation
+• Integrate AI/ML for operations (AIOps)
+• Build policy-driven infrastructure management
+• Reduce human intervention in operations
+• Improve reliability and efficiency
+Required Skills
+• AIOps platforms
+• Automation & event-driven systems
+• Cloud-native & SRE practices
+• Policy engines (OPA)
+• Observability & monitoring
+Experience Level
+• 5–10 years

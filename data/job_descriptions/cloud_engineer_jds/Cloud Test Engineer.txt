@@ -1,0 +1,17 @@
+Cloud Test Engineer
+Role Overview
+A Cloud Test Engineer focuses on testing cloud infrastructure, services, and applications with
+an emphasis on automation and environment validation.
+Key Responsibilities
+• Develop and execute automated cloud test suites
+• Test cloud deployments and configurations
+• Validate scalability, failover, and recovery
+• Test APIs and microservices
+• Collaborate on CI/CD pipeline testing
+Required Skills
+• Test automation tools (Selenium, Cypress, API testing)
+• Cloud infrastructure and services
+• CI/CD integration
+• Scripting and programming skills
+Experience & Qualifications
+• 3–6 years of cloud or automation testing experience

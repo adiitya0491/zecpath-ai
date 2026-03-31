@@ -1,0 +1,18 @@
+Principal Cloud Engineer
+Role Overview
+A Principal Cloud Engineer is a top-level technical authority who drives innovation, platform
+strategy, and complex cloud system design.
+Key Responsibilities
+• Design enterprise-scale cloud architectures
+• Solve complex technical challenges
+• Define cloud engineering standards
+• Lead strategic technical initiatives
+• Mentor senior engineers and architects
+• Evaluate emerging cloud technologies
+Required Skills
+• Deep cloud platform expertise
+• Distributed systems design
+• Cloud security and governance
+• Strategic technical leadership
+Experience & Qualifications
+• 10–15 years of IT experience, strong cloud background

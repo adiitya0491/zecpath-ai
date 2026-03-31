@@ -1,2 +1,240 @@
 2026-01-29T14:01:42.274972+0530 | INFO | ✅ Zecpath AI Logging System Started Successfully
 2026-01-29T16:11:28.635454+0530 | INFO | ✅ Zecpath AI Logging System Started Successfully
+2026-02-08 11:43:28,417 | INFO | Resume extraction started
+2026-02-08 11:43:28,418 | INFO | Processing file: resume 10.pdf
+2026-02-08 11:43:33,583 | INFO | Saved cleaned text: outputs/extracted_text\resume 10.txt
+2026-02-08 11:43:33,584 | INFO | Processing file: resume 2.pdf
+2026-02-08 11:43:34,053 | INFO | Saved cleaned text: outputs/extracted_text\resume 2.txt
+2026-02-08 11:43:34,054 | INFO | Processing file: resume 3.pdf
+2026-02-08 11:43:34,510 | INFO | Saved cleaned text: outputs/extracted_text\resume 3.txt
+2026-02-08 11:43:34,510 | INFO | Processing file: resume 4.pdf
+2026-02-08 11:43:43,811 | INFO | Saved cleaned text: outputs/extracted_text\resume 4.txt
+2026-02-08 11:43:43,811 | INFO | Processing file: resume 5.pdf
+2026-02-08 11:43:47,013 | INFO | Saved cleaned text: outputs/extracted_text\resume 5.txt
+2026-02-08 11:43:47,013 | INFO | Processing file: resume 6.pdf
+2026-02-08 11:43:52,246 | INFO | Saved cleaned text: outputs/extracted_text\resume 6.txt
+2026-02-08 11:43:52,246 | INFO | Processing file: resume 7.pdf
+2026-02-08 11:43:55,653 | INFO | Saved cleaned text: outputs/extracted_text\resume 7.txt
+2026-02-08 11:43:55,654 | INFO | Processing file: resume 8.pdf
+2026-02-08 11:44:00,410 | INFO | Saved cleaned text: outputs/extracted_text\resume 8.txt
+2026-02-08 11:44:00,410 | INFO | Processing file: resume 9.pdf
+2026-02-08 11:44:03,020 | INFO | Saved cleaned text: outputs/extracted_text\resume 9.txt
+2026-02-08 11:44:03,021 | INFO | Processing file: sample.pdf
+2026-02-08 11:44:03,349 | INFO | Saved cleaned text: outputs/extracted_text\sample.txt
+2026-02-08 11:44:03,349 | INFO | Extraction finished | Processed: 10 | Failed: 0
+2026-02-08 17:02:53,402 | INFO | Resume extraction started
+2026-02-08 17:02:53,403 | INFO | Processing file: resume 10.pdf
+2026-02-08 17:03:01,957 | INFO | Saved cleaned text: outputs/extracted_text\resume 10.txt
+2026-02-08 17:03:01,957 | INFO | Processing file: resume 2.pdf
+2026-02-08 17:03:02,446 | INFO | Saved cleaned text: outputs/extracted_text\resume 2.txt
+2026-02-08 17:03:02,446 | INFO | Processing file: resume 3.pdf
+2026-02-08 17:03:02,941 | INFO | Saved cleaned text: outputs/extracted_text\resume 3.txt
+2026-02-08 17:03:02,942 | INFO | Processing file: resume 4.pdf
+2026-02-08 17:03:12,761 | INFO | Saved cleaned text: outputs/extracted_text\resume 4.txt
+2026-02-08 17:03:12,761 | INFO | Processing file: resume 5.pdf
+2026-02-08 17:03:16,147 | INFO | Saved cleaned text: outputs/extracted_text\resume 5.txt
+2026-02-08 17:03:16,147 | INFO | Processing file: resume 6.pdf
+2026-02-08 17:03:21,522 | INFO | Saved cleaned text: outputs/extracted_text\resume 6.txt
+2026-02-08 17:03:21,522 | INFO | Processing file: resume 7.pdf
+2026-02-08 17:03:25,103 | INFO | Saved cleaned text: outputs/extracted_text\resume 7.txt
+2026-02-08 17:03:25,103 | INFO | Processing file: resume 8.pdf
+2026-02-08 17:03:29,842 | INFO | Saved cleaned text: outputs/extracted_text\resume 8.txt
+2026-02-08 17:03:29,843 | INFO | Processing file: resume 9.pdf
+2026-02-08 17:03:32,356 | INFO | Saved cleaned text: outputs/extracted_text\resume 9.txt
+2026-02-08 17:03:32,356 | INFO | Processing file: sample.pdf
+2026-02-08 17:03:32,701 | INFO | Saved cleaned text: outputs/extracted_text\sample.txt
+2026-02-08 17:03:32,701 | INFO | Extraction finished | Processed: 10 | Failed: 0
+2026-02-13 20:40:33,342 | INFO | TEST LOG ENTRY
+2026-02-13 20:51:07,916 | INFO | test one resume
+2026-02-13 20:51:53,012 | INFO | test sections
+2026-02-13 20:52:09,602 | INFO | skill extracter
+2026-02-13 20:53:01,993 | INFO | test experiance engine
+2026-02-16 21:53:45,915 | INFO | test_education
+2026-02-16 21:54:42,109 | INFO | test_education
+2026-02-16 22:21:21,546 | INFO | test_education
+2026-02-16 22:27:17,244 | INFO | test_education
+2026-02-16 22:29:07,506 | INFO | test_education
+2026-02-16 22:33:15,325 | INFO | test_education
+2026-02-16 22:51:10,811 | INFO | test_certificate
+2026-02-16 22:56:36,613 | INFO | test_certificate
+2026-02-16 22:58:34,415 | INFO | test_certificate
+2026-02-16 23:01:17,244 | INFO | test_education
+2026-02-16 23:02:02,085 | INFO | test_education
+2026-02-16 23:02:35,183 | INFO | test_education
+2026-02-16 23:05:11,383 | INFO | test_education
+2026-02-16 23:06:37,295 | INFO | test_certificate
+2026-02-16 23:06:57,185 | INFO | test_certificate
+2026-02-16 23:31:03,330 | INFO | test_education
+2026-02-16 23:31:44,229 | INFO | test_education
+2026-02-16 23:35:00,901 | INFO | test_education
+2026-02-16 23:47:57,943 | INFO | test_certificate
+2026-02-16 23:48:26,976 | INFO | test_certificate
+2026-02-16 23:49:12,179 | INFO | test_certificate
+2026-02-18 00:09:08,227 | INFO | main extractor
+2026-02-18 00:25:30,311 | INFO | test one resume
+2026-02-18 00:26:21,043 | INFO | test one resume
+2026-02-18 00:26:41,663 | INFO | test one resume
+2026-02-18 00:26:55,368 | INFO | test one resume
+2026-02-18 00:27:07,997 | INFO | test one resume
+2026-02-18 00:27:23,149 | INFO | test one resume
+2026-02-18 00:30:35,961 | INFO | test semantic match
+2026-02-18 00:32:18,073 | INFO | test semantic match
+2026-02-18 00:46:41,720 | INFO | test semantic match
+2026-02-18 00:46:42,175 | INFO | Semantic match saved: outputs/semantic_scores\resume_5_match.json
+2026-02-18 00:48:18,732 | INFO | test semantic match
+2026-02-18 00:48:19,213 | INFO | Semantic match saved: outputs/semantic_scores\resume_6_match.json
+2026-02-18 00:50:02,684 | INFO | test semantic match
+2026-02-18 00:50:02,928 | INFO | Semantic match saved: outputs/semantic_scores\resume_7_match.json
+2026-02-18 01:06:08,161 | INFO | test semantic match
+2026-02-18 01:06:08,576 | INFO | Semantic match saved: outputs/semantic_scores\resume_7_match.json
+2026-02-18 01:08:58,492 | INFO | test semantic match
+2026-02-18 01:08:58,703 | INFO | Semantic match saved: outputs/semantic_scores\resume_3_match.json
+2026-02-18 01:10:01,414 | INFO | test semantic match
+2026-02-18 01:10:01,652 | INFO | Semantic match saved: outputs/semantic_scores\resume_7_match.json
+2026-02-19 22:38:22,602 | INFO | test ats engine
+2026-02-20 00:24:31,975 | INFO | skill extracter
+2026-02-20 00:32:26,013 | INFO | test experiance engine
+2026-02-20 00:33:34,285 | INFO | test_education
+2026-02-20 00:37:33,029 | INFO | test semantic match
+2026-02-20 00:37:33,549 | INFO | Semantic match saved: outputs/semantic_scores\resume 5_match.json
+2026-02-20 17:28:35,222 | INFO | jd batch runner
+2026-02-20 17:36:07,607 | INFO | jd phaser
+2026-02-20 17:36:52,297 | INFO | jd phaser
+2026-02-26 22:59:27,590 | INFO | jd phaser
+2026-02-26 23:08:24,719 | INFO | jd phaser
+2026-02-26 23:13:30,793 | INFO | jd phaser
+2026-02-26 23:29:43,294 | INFO | jd phaser
+2026-03-01 23:23:17,682 | INFO | jd phaser
+2026-03-01 23:34:20,425 | INFO | jd phaser
+2026-03-01 23:39:54,126 | INFO | jd phaser
+2026-03-01 23:41:31,125 | INFO | jd phaser
+2026-03-01 23:41:49,784 | INFO | jd phaser
+2026-03-01 23:42:48,765 | INFO | jd phaser
+2026-03-01 23:44:00,043 | INFO | jd phaser
+2026-03-01 23:44:41,942 | INFO | jd phaser
+2026-03-01 23:46:45,388 | INFO | jd phaser
+2026-03-01 23:50:09,750 | INFO | main extractor
+2026-03-01 23:51:56,842 | INFO | main extractor
+2026-03-01 23:52:59,675 | INFO | main extractor
+2026-03-01 23:53:48,105 | INFO | main extractor
+2026-03-02 00:51:46,321 | INFO | Main Resume Extraction Engine Started
+2026-03-02 00:55:58,669 | INFO | Main Resume Extraction Engine Started
+2026-03-02 00:58:24,341 | INFO | Main Resume Extraction Engine Started
+2026-03-02 16:44:09,033 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:11:38,752 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:19:32,671 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:41:52,498 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:44:31,029 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:45:51,313 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:47:08,902 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:48:10,891 | INFO | Main Resume Extraction Engine Started
+2026-03-02 17:49:36,639 | INFO | Main Resume Extraction Engine Started
+2026-03-02 21:59:29,577 | INFO | test sections
+2026-03-02 22:04:44,363 | INFO | test sections
+2026-03-02 22:31:05,615 | INFO | test sections
+2026-03-02 22:55:25,481 | INFO | test sections
+2026-03-02 22:56:57,897 | INFO | test sections
+2026-03-02 22:57:43,346 | INFO | test sections
+2026-03-02 22:58:30,112 | INFO | test sections
+2026-03-02 22:59:23,415 | INFO | test sections
+2026-03-02 23:12:49,895 | INFO | skill extracter
+2026-03-02 23:13:24,727 | INFO | skill extracter
+2026-03-02 23:14:59,613 | INFO | skill extracter
+2026-03-02 23:15:51,027 | INFO | skill extracter
+2026-03-02 23:16:36,869 | INFO | skill extracter
+2026-03-02 23:18:07,019 | INFO | skill extracter
+2026-03-02 23:19:13,482 | INFO | skill extracter
+2026-03-02 23:39:27,272 | INFO | test experiance engine
+2026-03-02 23:45:44,342 | INFO | test experiance engine
+2026-03-02 23:53:22,644 | INFO | test experiance engine
+2026-03-03 00:48:57,715 | INFO | Main Resume Extraction Engine Started
+2026-03-03 01:38:56,481 | INFO | Main Resume Extraction Engine Started
+2026-03-03 01:47:46,552 | INFO | Main Resume Extraction Engine Started
+2026-03-03 01:58:28,500 | INFO | Main Resume Extraction Engine Started
+2026-03-03 02:00:37,389 | INFO | Main Resume Extraction Engine Started
+2026-03-03 02:02:58,672 | INFO | Main Resume Extraction Engine Started
+2026-03-03 02:05:44,711 | INFO | Main Resume Extraction Engine Started
+2026-03-03 11:36:26,023 | INFO | Main Resume Extraction Engine Started
+2026-03-03 11:57:45,736 | INFO | Main Resume Extraction Engine Started
+2026-03-03 12:04:34,758 | INFO | Main Resume Extraction Engine Started
+2026-03-03 12:07:58,704 | INFO | test sections
+2026-03-03 12:30:45,375 | INFO | test sections
+2026-03-03 12:46:22,052 | INFO | test sections
+2026-03-03 12:53:27,599 | INFO | test sections
+2026-03-03 13:00:08,254 | INFO | skill extracter
+2026-03-03 13:14:43,741 | INFO | skill extracter
+2026-03-03 13:35:15,731 | INFO | skill extracter
+2026-03-03 13:35:33,355 | INFO | skill extracter
+2026-03-03 13:48:20,918 | INFO | skill extracter
+2026-03-03 16:39:54,112 | INFO | skill extracter
+2026-03-03 16:47:11,306 | INFO | Skill Extraction Engine Started
+2026-03-03 17:01:25,235 | INFO | test sections
+2026-03-03 23:10:59,749 | INFO | test sections
+2026-03-03 23:12:05,245 | INFO | test sections
+2026-03-03 23:15:10,938 | INFO | test sections
+2026-03-03 23:15:51,150 | INFO | test sections
+2026-03-03 23:18:27,256 | INFO | test sections
+2026-03-03 23:44:02,292 | INFO | test sections
+2026-03-03 23:46:04,625 | INFO | test sections
+2026-03-03 23:46:45,015 | INFO | test sections
+2026-03-04 12:52:52,099 | INFO | test sections
+2026-03-04 13:28:40,707 | INFO | test sections
+2026-03-04 14:34:40,216 | INFO | test sections
+2026-03-04 14:40:01,701 | INFO | test sections
+2026-03-04 14:41:55,508 | INFO | test sections
+2026-03-04 14:42:38,001 | INFO | test sections
+2026-03-04 14:42:58,215 | INFO | test sections
+2026-03-04 14:44:53,393 | INFO | test sections
+2026-03-04 14:55:44,939 | INFO | test sections
+2026-03-04 16:44:21,356 | INFO | test_education
+2026-03-04 16:45:42,398 | INFO | test_education
+2026-03-04 16:53:53,240 | INFO | test_education
+2026-03-04 17:03:54,695 | INFO | test_education
+2026-03-04 17:16:20,285 | INFO | test sections
+2026-03-04 17:18:47,689 | INFO | test sections
+2026-03-04 17:30:51,976 | INFO | test_certificate
+2026-03-04 17:35:03,317 | INFO | test_certificate
+2026-03-04 17:44:24,124 | INFO | test sections
+2026-03-04 17:45:23,536 | INFO | test_certificate
+2026-03-04 17:54:18,730 | INFO | test_semantic_match
+2026-03-04 17:58:41,435 | INFO | test_semantic_match
+2026-03-04 18:02:38,324 | INFO | test_semantic_match
+2026-03-04 18:03:55,303 | INFO | test_semantic_match
+2026-03-04 18:03:55,606 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_5.json
+2026-03-04 18:03:55,803 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_8.json
+2026-03-04 22:15:10,613 | INFO | test_semantic_match
+2026-03-04 22:15:10,898 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_1.json
+2026-03-04 22:15:11,115 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_10.json
+2026-03-04 22:15:11,282 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_2.json
+2026-03-04 22:15:11,466 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_3.json
+2026-03-04 22:15:11,651 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_4.json
+2026-03-04 22:15:11,824 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_5.json
+2026-03-04 22:15:12,020 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_6.json
+2026-03-04 22:15:12,199 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_7.json
+2026-03-04 22:15:12,392 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_8.json
+2026-03-04 22:15:12,582 | INFO | Semantic match saved: outputs/semantic_output/Cloud Engineer resumes\Cloud_Engineer_9.json
+2026-03-04 22:27:16,287 | INFO | test_semantic_match
+2026-03-04 22:27:16,596 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_1.json
+2026-03-04 22:27:16,804 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_10.json
+2026-03-04 22:27:16,914 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_2.json
+2026-03-04 22:27:17,065 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_3.json
+2026-03-04 22:27:17,192 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_4.json
+2026-03-04 22:27:17,319 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_5.json
+2026-03-04 22:27:17,476 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_6.json
+2026-03-04 22:27:17,617 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_7.json
+2026-03-04 22:27:17,763 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_8.json
+2026-03-04 22:27:17,901 | INFO | Semantic match saved: outputs/semantic_output/Cloud Infrastructure Engineer resumes\Cloud_Infrastructure_Engineer_9.json
+2026-03-04 22:46:41,347 | INFO | test_semantic_match
+2026-03-04 22:46:41,630 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_1.json
+2026-03-04 22:46:41,755 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_10.json
+2026-03-04 22:46:41,850 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_2.json
+2026-03-04 22:46:42,108 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_3.json
+2026-03-04 22:46:42,215 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_4.json
+2026-03-04 22:46:42,347 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_5.json
+2026-03-04 22:46:42,511 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_6.json
+2026-03-04 22:46:42,709 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_7.json
+2026-03-04 22:46:42,813 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_8.json
+2026-03-04 22:46:42,967 | INFO | Semantic match saved: outputs/semantic_output/Cloud Operations Engineer resumes\Cloud_Operations_Engineer_9.json
+2026-03-08 15:24:37,165 | INFO | test_fairness
+2026-03-09 11:23:38,616 | INFO | test_ats_engine
+2026-03-09 11:49:14,479 | INFO | test_ats_engine

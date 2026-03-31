@@ -1,0 +1,25 @@
+JOHN DOE
+Cloud Infrastructure Engineer
+JD
+123 - 456 - 7890 john.doe@example.com 
+San Francisco, CA
+SUMMARY
+EXPERIENCE
+architecture and distributed systems.
+EXPERIENCE
+Cloud Infrastructure Engineer
+01/2021 - Present San Francisco, CA
+Cloud Engineer
+Engineered a highly available backup
+01/2019 - 12/2020 Remote solution that improved data recovery
+Junior Cloud Engineer
+06/2018 - 12/2018 Los Angeles, CA
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology
+09/2015 - 06/2019 San Francisco, CA
+STRENGTHS
+I am a dedicated Cloud Infrastructure Engineer with over 5 years of Cloud Architecture Knowledge
+LANGUAGES
+English Spanish
+Native Advanced

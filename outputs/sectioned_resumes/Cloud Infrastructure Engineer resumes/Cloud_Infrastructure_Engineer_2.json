@@ -1,0 +1,26 @@
+{
+  "skills": [
+    "05",
+    "08",
+    "Linux system administration",
+    "University of Technology",
+    "Virtual machines management"
+  ],
+  "experience": [
+    {
+      "role": "Cloud Infrastructure Engineer Virtualization Expert",
+      "start_date": "05/2021",
+      "end_date": "Present",
+      "duration_years": 4.83
+    },
+    {
+      "role": "Infrastructure Engineer",
+      "start_date": "06/2019",
+      "end_date": "04/2021",
+      "duration_years": 1.83
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "certifications": []
+}

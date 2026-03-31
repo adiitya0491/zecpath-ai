@@ -1,0 +1,20 @@
+DevSecOps Engineer
+
+Role Overview
+A DevSecOps Engineer integrates security practices into CI/CD pipelines and cloud-native development processes.
+
+Key Responsibilities
+• Embed security into CI/CD pipelines
+• Automate security testing and scanning
+• Implement secrets management and secure configurations
+• Collaborate with developers to remediate vulnerabilities
+• Improve secure development lifecycle (SDLC)
+
+Required Skills
+• CI/CD and DevOps tools
+• SAST, DAST, SCA tools
+• Container and Kubernetes security
+• Infrastructure as Code security
+
+Experience & Qualifications
+• 3–7 years of DevOps or security experience

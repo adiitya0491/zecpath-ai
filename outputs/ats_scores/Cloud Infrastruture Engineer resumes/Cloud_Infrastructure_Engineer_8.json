@@ -1,0 +1,10 @@
+{
+    "skill_score": 0.33,
+    "experience_score": 0.23,
+    "education_score": 0.43,
+    "certification_score": 0.18,
+    "semantic_score": 0.08,
+    "ats_score": 25.75,
+    "decision": "Strong Match",
+    "bias_check": "No bias detected"
+}

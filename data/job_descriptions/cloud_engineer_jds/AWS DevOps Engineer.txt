@@ -1,0 +1,19 @@
+AWS DevOps Engineer
+Role Overview
+An AWS DevOps Engineer automates infrastructure, deployments, and operations on AWS
+to enable faster and more reliable software delivery.
+Key Responsibilities
+• Build and maintain CI/CD pipelines
+• Automate infrastructure using IaC
+• Manage container platforms (EKS, ECS)
+• Implement monitoring, logging, and alerting
+• Improve reliability and deployment efficiency
+• Collaborate with development and QA teams
+Required Skills
+• AWS DevOps tools (CodePipeline, CodeBuild)
+• Terraform / CloudFormation
+• Docker & Kubernetes
+• CI/CD (Jenkins, GitHub Actions)
+• Scripting & automation
+Experience Level
+• 3–7 years

@@ -1,0 +1,17 @@
+Lead Cloud Engineer
+Role Overview
+A Lead Cloud Engineer provides technical leadership for cloud initiatives, ensuring
+successful delivery and alignment with architectural standards.
+Key Responsibilities
+• Lead cloud engineering teams and projects
+• Define technical standards and best practices
+• Review and approve cloud architectures
+• Coordinate with DevOps, security, and application teams
+• Support planning and delivery timelines
+Required Skills
+• Cloud architecture and engineering
+• Team leadership and mentoring
+• CI/CD and automation
+• Strong communication skills
+Experience & Qualifications
+• 7–12 years of IT/cloud experience

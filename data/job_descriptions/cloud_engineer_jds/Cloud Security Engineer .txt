@@ -1,0 +1,21 @@
+Cloud Security Engineer
+Role Overview
+A Cloud Security Engineer is responsible for protecting cloud infrastructure, applications,
+and data by implementing security controls, monitoring threats, and responding to incidents.
+Key Responsibilities
+• Implement cloud security best practices and controls
+• Configure IAM, network security, and encryption
+• Monitor cloud environments for threats and vulnerabilities
+• Respond to security incidents and breaches
+• Perform security assessments and remediation
+• Collaborate with DevOps and architecture teams
+Required Skills
+
+• Cloud security services (AWS Security Hub, Azure Defender, GCP Security
+Command Center)
+• IAM, KMS, secrets management
+• Network security (firewalls, WAFs)
+• Vulnerability scanning and SIEM tools
+Experience & Qualifications
+• 4–8 years in cloud or security engineering roles
+• Cloud security certification preferred

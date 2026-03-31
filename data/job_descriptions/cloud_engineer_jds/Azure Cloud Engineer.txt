@@ -1,0 +1,19 @@
+Azure Cloud Engineer
+Role Overview
+An Azure Cloud Engineer builds and operates cloud infrastructure on Microsoft Azure for
+enterprise and cloud-native applications.
+Key Responsibilities
+• Deploy Azure resources (VMs, Storage, App Services)
+• Configure Azure networking and security
+• Implement Azure DevOps pipelines
+• Monitor systems using Azure Monitor & Log Analytics
+• Support hybrid cloud environments
+• Troubleshoot and optimize Azure workloads
+Required Skills
+• Azure core services
+• Networking (VNet, NSG, VPN)
+• PowerShell & ARM/Bicep
+• Identity (Azure AD)
+• Windows/Linux administration
+Experience Level
+• 2–5 years

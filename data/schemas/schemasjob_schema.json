@@ -1,0 +1,24 @@
+{
+  "job_id": "",
+  "job_title": "",
+  "company_name": "",
+  "job_type": "",
+  "location": "",
+  "required_experience": {
+    "minimum_years": 0,
+    "maximum_years": 0
+  },
+  "required_skills": [
+    {
+      "skill_name": "",
+      "category": "",
+      "priority": ""
+    }
+  ],
+  "responsibilities": [],
+  "screening_criteria": {
+    "must_have_skills": [],
+    "preferred_location": "",
+    "notice_period_max_days": 0
+  }
+}

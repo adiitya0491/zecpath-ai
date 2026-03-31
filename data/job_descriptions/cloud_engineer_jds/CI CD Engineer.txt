@@ -1,0 +1,17 @@
+CI/CD Engineer (Cloud)
+Role Overview
+A CICD Engineer designs and manages automated build, test, and deployment pipelines in
+cloud environments.
+Key Responsibilities
+• Design and maintain CICD pipelines
+• Integrate testing, security, and quality checks
+• Optimize build and deployment performance
+• Support release management and automation
+• Maintain pipeline documentation and standards
+Required Skills
+• CICD tools (Jenkins, GitHub Actions, GitLab CI)
+• Cloud deployment strategies
+• Scripting and automation
+• Container-based deployments
+Experience & Qualifications
+• 3–6 years of CICD or DevOps experience

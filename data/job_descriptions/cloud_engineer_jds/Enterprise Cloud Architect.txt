@@ -1,0 +1,19 @@
+Enterprise Cloud Architect
+Role Overview
+
+An Enterprise Cloud Architect defines cloud strategy and architecture at an organizational
+level, ensuring alignment with enterprise standards and long-term goals.
+Key Responsibilities
+• Define enterprise-wide cloud architecture strategy
+• Establish cloud governance, security, and compliance
+• Design large-scale, multi-team cloud platforms
+• Align cloud initiatives with business strategy
+• Guide and mentor cloud architects and engineers
+Required Skills
+• Enterprise architecture frameworks (TOGAF)
+• Cloud governance and compliance
+• Hybrid and large-scale cloud systems
+• Stakeholder management
+Experience & Qualifications
+• 10–15+ years of IT experience
+• Strong enterprise architecture background

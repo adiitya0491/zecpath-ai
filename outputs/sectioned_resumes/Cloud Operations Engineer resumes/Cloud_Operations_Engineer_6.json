@@ -1,0 +1,53 @@
+{
+  "skills": [
+    "AI",
+    "Adaptability",
+    "C++",
+    "Data Tools",
+    "GenAI",
+    "Interests Tech blogs",
+    "Java",
+    "ML Libraries",
+    "Making IoT",
+    "NLP",
+    "Problem",
+    "Programming Skills",
+    "Python",
+    "Researched",
+    "Soft Skill Leadership",
+    "Team Collaboration",
+    "Time Management",
+    "Tools  Technologies",
+    "UI",
+    "UX",
+    "YouTube tutorials",
+    "figma"
+  ],
+  "experience": [
+    {
+      "role": "bezgoFresh",
+      "start_date": "Nov 2024",
+      "end_date": "June 2025",
+      "duration_years": 0.58
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "CMS College of Engineering and",
+      "start_date": "Technology 2022",
+      "end_date": "2026"
+    },
+    {
+      "degree_or_institute": "",
+      "start_date": "VCHSS 2020",
+      "end_date": "2022"
+    },
+    {
+      "degree_or_institute": "Elenthikara High",
+      "start_date": "School 2019",
+      "end_date": "2020"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

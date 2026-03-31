@@ -1,0 +1,29 @@
+{
+    "job_title": "DevOps Engineer (Cloud)",
+    "key_responsibilities": [
+        "Design and maintain CICD pipelines in cloud environments",
+        "Automate infrastructure using Infrastructure as Code (IaC)",
+        "Manage cloud environments across dev, test, and production",
+        "Implement monitoring, logging, and alerting",
+        "Collaborate with development and operations teams",
+        "Improve deployment reliability and release velocity"
+    ],
+    "required_skills": [
+        "aws  azure  gcp",
+        "bash",
+        "cicd tools",
+        "docker, kubernetes",
+        "github actions",
+        "gitlab ci",
+        "jenkins",
+        "linux and scripting",
+        "python",
+        "terraform, cloudformation, arm"
+    ],
+    "experience_required": {
+        "min_years": 7,
+        "max_years": null
+    },
+    "qualifications": "Not Mentioned",
+    "raw_text": "DevOps Engineer (Cloud)\nRole Overview\nA Cloud DevOps Engineer enables fast, reliable, and secure software delivery by automating\ninfrastructure, CICD pipelines, and cloud operations.\nKey Responsibilities\n\u2022 Design and maintain CICD pipelines in cloud environments\n\u2022 Automate infrastructure using Infrastructure as Code (IaC)\n\u2022 Manage cloud environments across dev, test, and production\n\u2022 Implement monitoring, logging, and alerting\n\u2022 Collaborate with development and operations teams\n\u2022 Improve deployment reliability and release velocity\nRequired Skills\n\u2022 AWS  Azure  GCP\n\u2022 CICD tools (Jenkins, GitHub Actions, GitLab CI)\n\u2022 Terraform, CloudFormation, ARM\n\u2022 Docker, Kubernetes\n\u2022 Linux and scripting (Bash, Python)\nExperience & Qualifications\n\u2022 3\u20137 years of DevOps or cloud experience\n\u2022 DevOps or cloud certification preferred"
+}

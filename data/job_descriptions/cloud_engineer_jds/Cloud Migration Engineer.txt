@@ -1,0 +1,19 @@
+Cloud Migration Engineer
+Role Overview
+A Cloud Migration Engineer plans and executes the migration of applications, data, and
+infrastructure from on-premise or legacy systems to cloud platforms with minimal risk and
+downtime.
+Key Responsibilities
+• Assess existing infrastructure and applications
+• Execute migration strategies (Re-host, Re-platform, Re-factor)
+• Migrate servers, databases, and applications to cloud
+• Validate migrated workloads and performance
+• Troubleshoot migration-related issues
+• Collaborate with architects and application teams
+Required Skills
+• Cloud migration tools (AWS MGN, Azure Migrate)
+• Application and database migration techniques
+• Networking and security fundamentals
+• Automation and scripting
+Experience & Qualifications
+• 3–7 years of cloud or infrastructure experience

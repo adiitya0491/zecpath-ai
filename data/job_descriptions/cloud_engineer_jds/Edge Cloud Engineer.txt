@@ -1,0 +1,19 @@
+Edge Cloud Engineer
+Role Overview
+An Edge Cloud Engineer designs and operates cloud and edge computing systems to support
+low-latency, distributed workloads such as IoT, 5G, and real-time analytics.
+Key Responsibilities
+• Deploy workloads across edge and cloud
+• Manage distributed infrastructure
+• Optimize latency and bandwidth usage
+• Integrate IoT and edge platforms
+• Ensure reliability in constrained environments
+• Implement edge security strategies
+Required Skills
+• Edge computing architectures
+• IoT platforms & protocols
+• Hybrid cloud systems
+• Networking & latency optimization
+• Automation & monitoring
+Experience Level
+• 3–7 years

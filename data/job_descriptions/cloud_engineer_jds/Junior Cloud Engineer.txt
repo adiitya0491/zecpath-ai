@@ -1,0 +1,19 @@
+Junior Cloud Engineer
+Role Overview
+A Junior Cloud Engineer assists in deploying, managing, and maintaining cloud
+infrastructure while learning cloud best practices under the guidance of senior engineers.
+Key Responsibilities
+• Assist in deploying and configuring cloud resources
+• Monitor cloud systems and respond to basic alerts
+• Support automation and infrastructure scripts
+• Perform basic troubleshooting of cloud services
+• Maintain documentation and operational guides
+Required Skills
+• Basic knowledge of AWS  Azure  GCP
+• Understanding of cloud compute, storage, and networking
+• LinuxWindows fundamentals
+• Basic scripting (Bash  Python – preferred)
+Experience & Qualifications
+
+• Bachelor’s degree in IT, CS, or related field
+• 0–2 years of experience or relevant cloud training

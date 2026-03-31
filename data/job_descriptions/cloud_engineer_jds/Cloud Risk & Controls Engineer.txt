@@ -1,0 +1,20 @@
+Cloud Risk & Controls Engineer
+
+Role Overview
+A Cloud Risk & Controls Engineer assesses cloud-related risks and ensures proper controls are implemented to mitigate them.
+
+Key Responsibilities
+• Identify and assess cloud security risks
+• Design and implement risk mitigation controls
+• Conduct risk assessments and audits
+• Maintain risk registers and control mappings
+• Support regulatory and internal audits
+
+Required Skills
+• Risk management frameworks (NIST, ISO, COBIT)
+• Cloud security and governance
+• Audit and compliance processes
+• Strong documentation and reporting skills
+
+Experience & Qualifications
+• 5–10 years in risk, controls, or cloud security roles

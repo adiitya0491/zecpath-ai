@@ -1,0 +1,18 @@
+Cloud Systems Engineer
+Role Overview
+
+The Cloud Systems Engineer manages operating systems and system-level components
+running in cloud environments.
+Key Responsibilities
+• Configure and maintain cloud-based servers
+• Manage OS-level security and system hardening
+• Monitor system health and performance
+• Automate system provisioning and configuration
+• Troubleshoot system-level issues
+Required Skills
+• Linux/Windows systems administration
+• Shell scripting / Python
+• Cloud compute services
+• Monitoring and logging tools
+Experience & Qualifications
+• 3–6 years of systems engineering experience

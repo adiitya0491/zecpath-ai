@@ -1,0 +1,35 @@
+{
+  "skills": [
+    "# Business Requirements",
+    "Agile Methodology",
+    "Business Analysis",
+    "Communication",
+    "Development Speed",
+    "Improved project execution",
+    "Project",
+    "Project Execution",
+    "Requirements Definition",
+    "Successfully defined business",
+    "Waterfall Methodology",
+    "development speed",
+    "requirements",
+    "significantly"
+  ],
+  "experience": [
+    {
+      "role": "Business Analyst",
+      "start_date": "Intern 2023",
+      "end_date": "2023",
+      "duration_years": 0
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "Master's in Computer",
+      "start_date": "Science 2021",
+      "end_date": "2023"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

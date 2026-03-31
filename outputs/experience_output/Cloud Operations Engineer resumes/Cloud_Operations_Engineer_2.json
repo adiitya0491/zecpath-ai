@@ -1,0 +1,21 @@
+{
+    "total_experience_months": 90,
+    "total_experience_years": 7.5,
+    "roles": [
+        {
+            "role": "Cloud Infrastructure Engineer",
+            "start_date": "06/2019",
+            "end_date": "Present",
+            "duration_months": 81,
+            "duration_years": 6.75
+        },
+        {
+            "role": "Junior Cloud Engineer",
+            "start_date": "08/2018",
+            "end_date": "05/2019",
+            "duration_months": 9,
+            "duration_years": 0.75
+        }
+    ],
+    "relevance_score": 1.0
+}

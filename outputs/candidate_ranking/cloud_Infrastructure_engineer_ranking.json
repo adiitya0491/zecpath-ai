@@ -1,0 +1,62 @@
+[
+    {
+        "resume": "Cloud_Infrastructure_Engineer_5.json",
+        "ats_score": 0.928,
+        "rank": 1,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_3.json",
+        "ats_score": 0.913,
+        "rank": 2,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_1.json",
+        "ats_score": 0.91,
+        "rank": 3,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_2.json",
+        "ats_score": 0.818,
+        "rank": 4,
+        "zone": "SHORTLIST"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_4.json",
+        "ats_score": 0.638,
+        "rank": 5,
+        "zone": "REVIEW"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_10.json",
+        "ats_score": 0.616,
+        "rank": 6,
+        "zone": "REVIEW"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_6.json",
+        "ats_score": 0.474,
+        "rank": 7,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_9.json",
+        "ats_score": 0.352,
+        "rank": 8,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_7.json",
+        "ats_score": 0.288,
+        "rank": 9,
+        "zone": "REJECT"
+    },
+    {
+        "resume": "Cloud_Infrastructure_Engineer_8.json",
+        "ats_score": 0.258,
+        "rank": 10,
+        "zone": "REJECT"
+    }
+]

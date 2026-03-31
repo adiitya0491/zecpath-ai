@@ -1,0 +1,18 @@
+Hybrid Cloud Architect
+Role Overview
+A Hybrid Cloud Architect designs and manages architectures that integrate on-premise
+infrastructure with public cloud environments.
+Key Responsibilities
+• Design hybrid cloud architectures
+• Integrate on-premise systems with cloud platforms
+• Manage connectivity, security, and identity
+• Ensure workload portability and resilience
+• Optimize hybrid performance and costs
+Required Skills
+• On-premise infrastructure (VMware, networking)
+• Cloud networking and connectivity
+• Identity and access management
+• Disaster recovery design
+Experience & Qualifications
+
+• 7–12 years of infrastructure and cloud experience

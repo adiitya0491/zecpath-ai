@@ -1,0 +1,26 @@
+{
+  "skills": [],
+  "experience": [
+    {
+      "role": "Cloud Solutions Inc.",
+      "start_date": "06/2021",
+      "end_date": "Present",
+      "duration_years": 4.75
+    },
+    {
+      "role": "Tech Innovations LLC",
+      "start_date": "07/2019",
+      "end_date": "05/2021",
+      "duration_years": 1.83
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "State University",
+      "start_date": "09/2015",
+      "end_date": "06/2019"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

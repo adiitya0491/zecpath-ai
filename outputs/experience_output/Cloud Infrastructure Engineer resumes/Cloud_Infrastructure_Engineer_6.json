@@ -1,0 +1,28 @@
+{
+    "total_experience_months": 36,
+    "total_experience_years": 3.0,
+    "roles": [
+        {
+            "role": "&",
+            "start_date": "2019",
+            "end_date": "2022",
+            "duration_months": 36,
+            "duration_years": 3.0
+        },
+        {
+            "role": "Python Developer",
+            "start_date": "i 2017",
+            "end_date": "2019",
+            "duration_months": 0,
+            "duration_years": 0.0
+        },
+        {
+            "role": "Python Developer",
+            "start_date": "fH 2015",
+            "end_date": "2017",
+            "duration_months": 0,
+            "duration_years": 0.0
+        }
+    ],
+    "relevance_score": 0.0
+}

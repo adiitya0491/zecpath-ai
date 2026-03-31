@@ -1,0 +1,17 @@
+Cloud Analytics Engineer
+Role Overview
+A Cloud Analytics Engineer designs and maintains analytics platforms enabling business
+intelligence and data-driven decision-making.
+Key Responsibilities
+• Build analytics data models and dashboards
+• Optimize query performance and costs
+• Manage BI tools and data access
+• Ensure data accuracy and governance
+• Support business analytics teams
+Required Skills
+• Cloud analytics services
+• SQL and data modeling
+• BI tools (Power BI, Looker, Tableau)
+• Data governance principles
+Experience & Qualifications
+• 3–6 years of analytics or data engineering experience

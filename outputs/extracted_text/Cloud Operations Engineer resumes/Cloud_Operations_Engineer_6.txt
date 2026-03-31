@@ -1,0 +1,68 @@
+M A GOKUL KRISHNA
+Developer
+ Ernakulam  +91 8281834873  gokulkrishna059@gmail.com
+Profiles Gokul krishna Gokul krishna
+SUMMARY
+B.Tech graduate in Artificial Intelligence and Data Science with expertise in AI, Data Science, and
+a strong interest in UI/UX design. Known for strong leadership, adaptability, and excellent team
+collaboration. Passionate about solving complex problems and building user - centric digital
+solutions. Eager to contribute to innovative, high - impact projects in the tech industry.
+EXPERIENCE
+bezgoFresh Nov 2024 - June 2025
+Collaborated closely with developers and cross - functional teams to align design with user
+Camino Info Teach August 2024
+PROJECTS
+Credit Card Spam August 2024
+Credit Card Spam Detection System
+Technology: Python, Machine Learning, Scikit - learn
+Developed a system to identify fraudulent and spam credit card transactions with 93%
+accuracy.
+Utilized machine learning algorithms for classification, ensuring accurate detection of
+legitimate vs. fraudulent transactions.
+Applied data preprocessing and feature engineering techniques for effective model training
+and evaluation.
+Contributed to enhancing the security of financial systems by reducing the risk of fraud.
+Email Spam Detection System
+Technology: Python, Natural Language Processing (NLP), Scikit - learn
+Built an email spam filter to classify spam and legitimate emails with high accuracy.
+Employed NLP techniques, including tokenization, stopword removal, and TF - IDF for feature
+extraction.
+Trained and tested machine learning models for spam classification.
+Improved email security by automating the detection of unwanted and potentially harmful
+emails.
+EDUCATION
+CMS College of Engineering and Technology 2022 - 2026
+Artificial Intelligence And Data Science B - Tech
+8.2 CGPA
+VCHSS 2020 - 2022
+Bio - Science Higher secondary
+78%
+Elenthikara High School 2019 - 2020
+97% High School
+TECHNICAL SKILLS
+Programming Skills
+Python, Java, C++
+Machine Learning & AI Knowledge
+Machine Learning, Deep Learning, NLP
+Tools & Technologies
+AI / ML Libraries, Data Tools, GenAI
+UI/UX
+figma
+Interests Tech blogs
+YouTube tutorials
+Exploring the latest tech gadgets
+Researched
+Making IoT
+Awards Rajyapuraskar 2018
+Kerala State Bharat Scouts and Guides
+Soft Skill Leadership
+Team Collaboration
+Adaptability
+Problem - Solving And Logical Reasoning
+Time Management
+Continuous Learning
+LANGUAGES
+English
+Malayalam
+Tamil
+Hindi

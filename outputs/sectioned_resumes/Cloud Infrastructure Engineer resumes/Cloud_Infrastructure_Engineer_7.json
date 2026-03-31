@@ -1,0 +1,36 @@
+{
+  "skills": [
+    "AJAX",
+    "Bootstrap",
+    "CSS",
+    "Expert",
+    "HTML",
+    "JavaScript",
+    "React",
+    "Vue",
+    "jQuery"
+  ],
+  "experience": [
+    {
+      "role": "Front End Web Developer, Wilkinson and Sons",
+      "start_date": "March 2023",
+      "end_date": "Present",
+      "duration_years": 3.0
+    },
+    {
+      "role": "Front End Web Developer, Romaguera LLC",
+      "start_date": "May 2021",
+      "end_date": "February 2023",
+      "duration_years": 1.75
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "2017",
+      "end_date": "2021"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

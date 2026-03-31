@@ -1,0 +1,28 @@
+{
+  "skills": [
+    "deployment activities."
+  ],
+  "experience": [
+    {
+      "role": "Cloud Operations Engineer Automation Skills",
+      "start_date": "06/2021",
+      "end_date": "Present",
+      "duration_years": 4.75
+    },
+    {
+      "role": "06/2021 - Present City, State",
+      "start_date": "06/2019",
+      "end_date": "05/2021",
+      "duration_years": 1.92
+    }
+  ],
+  "education": [
+    {
+      "degree_or_institute": "",
+      "start_date": "08/2017",
+      "end_date": "05/2021"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

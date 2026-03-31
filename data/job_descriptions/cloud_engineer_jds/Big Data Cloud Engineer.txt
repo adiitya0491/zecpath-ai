@@ -1,0 +1,17 @@
+Big Data Cloud Engineer
+Role Overview
+A Big Data Cloud Engineer focuses on designing and managing large-scale, distributed data
+processing systems on the cloud.
+Key Responsibilities
+• Build and maintain big data platforms
+• Manage streaming and batch data pipelines
+• Optimize performance of large-scale data processing
+• Ensure high availability and fault tolerance
+• Support analytics and ML workloads
+Required Skills
+• Hadoop, Spark, Kafka
+• Cloud-native big data services
+• Distributed systems architecture
+• Linux and scripting
+Experience & Qualifications
+• 4–8 years of big data or cloud experience

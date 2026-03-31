@@ -1,0 +1,18 @@
+Cloud Connectivity Engineer
+Role Overview
+A Cloud Connectivity Engineer focuses on secure and reliable connectivity between on-
+premise systems, cloud environments, and external networks.
+
+Key Responsibilities
+• Design and manage site-to-site and client VPNs
+• Implement private connectivity (Direct Connect, ExpressRoute)
+• Ensure high availability and redundancy
+• Optimize latency and throughput
+• Troubleshoot connectivity and routing issues
+Required Skills
+• VPNs, MPLS, BGP routing
+• Cloud private connectivity services
+• Network security and firewall configuration
+• Hybrid connectivity design
+Experience & Qualifications
+• 4–8 years of networking or connectivity experience

@@ -1,0 +1,21 @@
+Cloud Architect
+Role Overview
+
+A Cloud Architect designs end-to-end cloud architectures that are scalable, secure, cost-
+efficient, and aligned with business objectives.
+
+Key Responsibilities
+• Design cloud architectures on AWS, Azure, or GCP
+• Define cloud standards, best practices, and governance
+• Select appropriate cloud services for applications
+• Ensure high availability, security, and performance
+• Guide engineering teams on architecture decisions
+• Review and approve cloud designs
+Required Skills
+• Deep expertise in AWS  Azure  GCP
+• Cloud networking, security, and storage
+• Microservices and cloud-native architectures
+• Infrastructure as Code (Terraform, ARM, CloudFormation)
+Experience & Qualifications
+• 7–12 years of IT experience, 4+ in cloud architecture
+• Cloud Architect certification preferred

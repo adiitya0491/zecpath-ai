@@ -1,0 +1,17 @@
+Reliability Engineer (Cloud)
+Role Overview
+A Cloud Reliability Engineer applies reliability engineering principles to ensure high
+availability, resilience, and stability of cloud-based systems.
+Key Responsibilities
+• Design reliable and fault-tolerant cloud systems
+• Define and manage SLAs, SLOs, and error budgets
+• Automate incident response and recovery
+• Perform root cause analysis and postmortems
+• Improve monitoring and observability
+Required Skills
+• SRE and reliability engineering practices
+• Cloud infrastructure and distributed systems
+• Automation and scripting
+• Monitoring, logging, and tracing tools
+Experience & Qualifications
+• 4–9 years of cloud or reliability engineering experience

@@ -1,0 +1,19 @@
+Independent Cloud Architect
+Role Overview
+An Independent Cloud Architect designs high-level, scalable, secure cloud architectures for
+enterprises and large-scale projects.
+Key Responsibilities
+• Design end-to-end cloud architectures
+• Define reference architectures and standards
+• Select appropriate cloud services and patterns
+• Ensure security, scalability, and high availability
+• Guide engineering teams during implementation
+• Review and optimize existing architectures
+Required Skills
+• Advanced cloud architecture (AWS/Azure/GCP)
+• Microservices & event-driven design
+• Security architecture & IAM
+• Networking (VPC/VNet, hybrid connectivity)
+• Documentation & architectural diagrams
+Experience Level
+• 8–12+ years (senior/architect level)

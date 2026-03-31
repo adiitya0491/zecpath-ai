@@ -1,0 +1,44 @@
+JOHN DOE
+Cloud Engineer
+JD
+1234567890 john.doe@example.com Tech City, USA
+SUMMARY
+EXPERIENCE
+Cloud Engineer
+07/2022 - Present Tech City, USA
+Junior Cloud Engineer
+01/2021 - 06/2022 Tech Valley, USA decreased system outages, enhancing
+EDUCATION
+Infrastructure as Code Terraform,
+Bachelor of Science in Computer Science CloudFormation)
+State University of Technology
+Linux/Windows Administration
+09/2018 - 06/2022 Metropolis, USA
+Networking Fundamentals VPC, DNS,
+STRENGTHS
+As a dedicated Cloud Engineer with a Bachelor's degree in Computer Automation Expertise
+Science, I specialize in designing and managing cloud infrastructure
+Ability to automate infrastructure and
+across AWS and Azure. I excel in implementing industry best practices
+streamline workflows.
+while leveraging automation tools like Terraform. My goal is to create
+scalable and secure cloud environments while continually enhancing Security Focus
+system performance and reliability.
+Strong understanding of cloud security
+principles and best practices.
+SKILLS
+ Monitored system performance using CloudWatch and Azure Monitor
+to optimize resource usage.
+HARD SKILLS
+ Troubleshot cloud - related outages, ensuring swift recovery and
+minimal business impact.
+Cloud Platforms: AWS, Azure, GCP
+LANGUAGES
+Load Balancers)
+English
+Monitoring Tools CloudWatch, Azure
+Native
+Monitor)
+Soft Skills
+Problem - solving Team Collaboration
+Effective Communication

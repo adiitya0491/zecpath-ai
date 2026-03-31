@@ -1,0 +1,18 @@
+{
+  "skills": [],
+  "experience": [],
+  "education": [
+    {
+      "degree_or_institute": "Bachelor of Science in Computer Science",
+      "start_date": "09/2015",
+      "end_date": "06/2019"
+    },
+    {
+      "degree_or_institute": "Infrastructure Engineer",
+      "start_date": "06/2017",
+      "end_date": "06/2019"
+    }
+  ],
+  "projects": [],
+  "certifications": []
+}

@@ -1,0 +1,17 @@
+Serverless Engineer
+Role Overview
+A Serverless Engineer designs and builds event-driven, serverless applications using
+managed cloud services.
+Key Responsibilities
+• Design serverless architectures
+• Develop and deploy serverless functions
+• Integrate event-driven services
+• Optimize performance and cost
+• Ensure observability and security
+Required Skills
+• Serverless platforms (AWS Lambda, Azure Functions)
+• Event-driven architectures
+• API Gateway and messaging services
+• Monitoring and debugging tools
+Experience & Qualifications
+• 3–6 years of cloud or application development experience

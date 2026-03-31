@@ -1,0 +1,29 @@
+RITHIK B
+Cloud Platform Engineer
+91 98765 43210 rithikb@example.com Bangalore, India
+SUMMARY
+I am a seasoned Cloud Platform Engineer with 6 years of experience in building and maintaining cloud infrastructures. My expertise
+includes developing CI/CD pipelines, managing Kubernetes environments, and ensuring platform security. I pride myself on
+improving developer experience and efficiency, and I'm passionate about leveraging cloud technologies for innovative solutions.
+EXPERIENCE
+Senior Cloud Platform Engineer 01/2020 - Present
+Cloud Engineer 06/2018 - 12/2019
+ Built a self - service toolkit that improved developer experience and efficiency.
+Junior Cloud Platform Engineer 07/2017 - 05/2018
+ Contributed to open - source projects related to cloud - native architectures.
+EDUCATION
+National Institute of Technology India
+Bachelor of Technology 08/2015 - 06/2019
+STRENGTHS
+ Adaptability Analytical Thinking Teamwork
+Ability to quickly adapt to new Strong analytical skills to Proven track record of working
+technologies and frameworks. troubleshoot and resolve complex effectively in a team - oriented
+technical issues. environment.
+KEY ACHIEVEMENTS
+ Efficiency Improvement Developer Empowerment
+Reduced deployment time Spearheaded the development of a
+significantly for teams by self - service cloud portal that
+implementing streamlined CI/CD enhanced developer autonomy.
+practices.
+LANGUAGES
+English Native Hindi Proficient
