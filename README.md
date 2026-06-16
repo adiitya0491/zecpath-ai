@@ -1,165 +1,389 @@
-# Zecpath AI - Intelligent Hiring Platform
+# Zecpath AI – Intelligent Hiring Platform
 
 ## Overview
 
-Zecpath AI is an autonomous AI-powered hiring platform that automates resume parsing, candidate screening, and job-description matching using NLP and semantic similarity techniques.
+Zecpath AI is an end-to-end AI-powered hiring platform that automates the entire recruitment lifecycle, from resume screening to final hiring decisions.
 
-## Architecture
+The platform combines multiple AI modules to evaluate candidates fairly, consistently, and efficiently while reducing manual effort and hiring bias.
 
+The system automates:
+
+* Resume Parsing
+* ATS Scoring
+* AI Screening Interviews
+* HR Interview Evaluation
+* Technical Interview Evaluation
+* Machine Test Evaluation
+* Behavioral Analysis
+* Integrity Analysis
+* Cross-Round Aggregation
+* Final Hiring Decisions
+* Hiring Intelligence Reports
+
+---
+
+# Project Workflow
+
+```text
+Resume Upload
+
+↓
+
+Resume Parsing
+
+↓
+
+ATS Scoring
+
+↓
+
+Screening AI
+
+↓
+
+HR Interview AI
+
+↓
+
+Technical AI
+
+↓
+
+Machine Test Evaluation
+
+↓
+
+Behavior + Integrity Analysis
+
+↓
+
+Cross-Round Aggregation
+
+↓
+
+Decision AI
+
+↓
+
+Hiring Intelligence Report
 ```
+
+---
+
+# System Architecture
+
+```text
+User (Frontend)
+
+↓
+
+Backend API Layer
+
+↓
+
+AI Microservices Layer
+
+------------------------------------
+
+Resume Parser
+
+ATS Engine
+
+Screening AI
+
+HR Interview AI
+
+Technical AI
+
+Machine Test AI
+
+Behavior AI
+
+Integrity AI
+
+Aggregation Engine
+
+Decision AI
+
+Hiring Report Generator
+
+------------------------------------
+
+↓
+
+Database
+
+↓
+
+Storage
+
+↓
+
+Monitoring & Observability
+```
+
+---
+
+# Core AI Modules
+
+| Module                  | Description                                   |
+| ----------------------- | --------------------------------------------- |
+| Resume Parser           | Extracts structured information from resumes  |
+| ATS Engine              | Calculates resume-job compatibility           |
+| Screening AI            | Evaluates candidate screening responses       |
+| HR Interview AI         | Evaluates communication and confidence        |
+| Technical AI            | Evaluates technical skills                    |
+| Machine Test AI         | Evaluates practical coding ability            |
+| Behavior AI             | Detects engagement and behavioral signals     |
+| Integrity AI            | Detects potential cheating or integrity risks |
+| Aggregation Engine      | Combines scores across all stages             |
+| Decision AI             | Generates final hiring recommendations        |
+| Hiring Report Generator | Produces recruiter-friendly reports           |
+
+---
+
+# Features
+
+* End-to-end hiring automation
+* Explainable AI decisions
+* Multi-stage candidate evaluation
+* Risk analysis
+* Candidate ranking
+* Security & governance
+* Monitoring & observability
+* Performance optimization
+* Production-ready architecture
+* Scalable design
+
+---
+
+# Project Structure
+
+```text
 zecpath-ai/
-├── parsers/              # Resume & JD parsing modules
-│   ├── resume_reader.py   # PDF/DOCX text extraction + OCR
-│   ├── text_cleaner.py   # Text normalization
-│   ├── section_classifier.py  # Section detection (skills/exp/edu)
-│   ├── skill_extractor.py      # Skill detection with confidence
-│   ├── experience_parser.py    # Experience timeline extraction
-│   ├── education_parser.py     # Education details extraction
-│   ├── jd_parser.py            # Job description parsing
-│   └── resume_parser.py        # Combined resume parser
-├── ai_engine/            # AI matching engine
-│   └── semantic_matcher.py     # Sentence transformer similarity
-├── ats_engine/          # ATS scoring
-│   └── ats_scorer.py           # Skill match percentage
-├── scoring/             # Final weighted scoring
-│   └── ats_engine.py           # Role-based weighted scoring
-├── screening_ai/       # Screening assistant modules
-├── interview_ai/       # Interview intelligence
-├── utils/              # Utilities
-│   └── logger.py       # Logging system
-├── data/               # Sample resumes & job descriptions
-├── tests/              # Unit tests
-└── logs/               # Log storage
+
+├── ai_core/
+
+├── ai_engine/
+
+├── api/
+
+├── ats_engine/
+
+├── behavior_ai/
+
+├── data/
+
+├── demo/
+
+├── docs/
+
+├── future/
+
+├── handover/
+
+├── integrity_ai/
+
+├── interview_ai/
+
+├── machine_test/
+
+├── observability/
+
+├── parsers/
+
+├── portfolio/
+
+├── presentation/
+
+├── ranking/
+
+├── review/
+
+├── scoring/
+
+├── screening_ai/
+
+├── security/
+
+├── technical_ai/
+
+├── tests/
+
+├── uploads/
+
+├── utils/
+
+├── README.md
+
+└── requirements.txt
 ```
 
-## Algorithm & Processing Pipeline
+---
 
-### Step-by-Step Procedure
+# Scoring Logic
 
-#### 1. Resume Text Extraction (`resume_reader.py`)
-- **Input**: PDF or DOCX file
-- **Process**:
-  - For PDF: Uses `pdfplumber` for text extraction
-  - Falls back to OCR (Tesseract) if extraction yields <20 chars
-  - For DOCX: Uses `python-docx` to extract paragraphs
-- **Output**: Raw text string
+Final Score Calculation:
 
-#### 2. Text Cleaning (`text_cleaner.py`)
-- Removes special characters, extra whitespace
-- Normalizes unicode characters
-- Handles encoding issues
-- **Output**: Cleaned normalized text
+```text
+Final Score =
 
-#### 3. Section Classification (`section_classifier.py`)
-- Detects sections using keyword matching:
-  - `skills`, `experience`, `education`, `projects`, `certifications`
-- Special handling for skills (split by delimiters)
-- **Output**: Dictionary with categorized sections
+ATS (20%)
 
-#### 4. Skill Extraction (`skill_extractor.py`)
-- Master skill dictionary with variants
-- Regex-based skill detection
-- Confidence scoring:
-  - 3+ occurrences → 0.95
-  - 2 occurrences → 0.85
-  - 1 occurrence → 0.70
-- **Output**: List of skills with confidence scores
++
 
-#### 5. Experience Parsing (`experience_parser.py`)
-- Regex to extract date ranges (multiple formats)
-- Parses role titles from date patterns
-- Calculates duration in months/years
-- Relevance scoring based on target role keywords
-- **Output**: Total experience years, role list, relevance score
+Screening (15%)
 
-#### 6. Education Parsing (`education_parser.py`)
-- Detects degree types (B.Tech, M.Tech, Bachelor, Master, PhD)
-- Extracts field of study (CS, AI, IT, etc.)
-- Extracts institution names
-- Parses graduation years
-- **Output**: Education details list
++
 
-#### 7. Job Description Parsing (`jd_parser.py`)
-- Extracts job title (first meaningful line)
-- Extracts required skills from "Required Skills" section
-- Extracts experience requirements (ranges or minimums)
-- Extracts responsibilities and qualifications
-- **Output**: Structured JD data
+HR (20%)
 
-#### 8. Semantic Matching (`semantic_matcher.py`)
-- Uses `sentence-transformers` (all-MiniLM-L6-v2)
-- Encodes resume and JD text to embeddings
-- Computes cosine similarity
-- Threshold: 0.6 (match if score > 0.6)
-- **Output**: Similarity score (0-1)
++
 
-#### 9. ATS Scoring (`ats_engine/ats_scorer.py`)
-- Calculates skill match percentage:
-  - `score = (matched_skills / required_skills) * 100`
-- **Output**: ATS score (0-100)
+Technical (25%)
 
-#### 10. Final Weighted Scoring (`scoring/ats_engine.py`)
-- Role-based weighted scoring (example: AI Engineer):
-  - Skills: 35%
-  - Experience: 25%
-  - Education: 15%
-  - Semantic Match: 25%
-- **Output**: Final score with breakdown
++
 
-## Usage
+Machine Test (20%)
 
-### Environment Setup
+↓
+
+Decision AI
+```
+
+---
+
+# Environment Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/your-repo/zecpath-ai.git
+```
+
+## Create Virtual Environment
+
+Windows:
+
 ```bash
 python -m venv venv
-venv\Scripts\activate  # Windows
+venv\Scripts\activate
+```
+
+Mac/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+## Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-### Extract Resume Text
+---
+
+# Running Demo
+
+Run:
+
 ```bash
-python main_extractor.py
+python demo/full_pipeline_simulation.py
 ```
 
-### Run Tests
+Run tests:
+
 ```bash
 pytest tests/
 ```
 
-## Key Dependencies
+---
 
-- **pdfplumber** - PDF text extraction
-- **pytesseract** + **pdf2image** - OCR for scanned PDFs
-- **python-docx** - DOCX parsing
-- **sentence-transformers** - Semantic embeddings
-- **spacy** - NLP processing
-- **scikit-learn** - ML utilities
+# Technologies Used
 
-## Scoring Weights (Customizable)
+## Programming Language
 
-| Role       | Skills | Experience | Education | Semantic |
-|------------|--------|------------|-----------|----------|
-| AI Engineer| 35%    | 25%        | 15%       | 25%      |
+* Python
 
-## Output Example
+## AI & NLP
 
-```json
-{
-  "final_score": 78.5,
-  "breakdown": {
-    "skills": 85.0,
-    "experience": 72.0,
-    "education": 80.0,
-    "semantic": 0.72
-  },
-  "weights": {
-    "skills": 0.35,
-    "experience": 0.25,
-    "education": 0.15,
-    "semantic": 0.25
-  }
-}
-```
+* spaCy
+* sentence-transformers
+* scikit-learn
 
-## License
+## Document Processing
 
-Proprietary - Zecpath AI
+* pdfplumber
+* python-docx
+* pytesseract
+* pdf2image
+
+## Testing
+
+* pytest
+
+## Security
+
+* Access Control
+* Audit Logging
+* Encryption
+
+---
+
+# Future Roadmap
+
+## Short-Term (0–6 Months)
+
+* Improve AI accuracy
+* Reduce latency
+* Add real-time feedback
+
+## Mid-Term (6–12 Months)
+
+* AI Video Analysis
+* Emotion Detection
+* AI Coaching System
+* Analytics Dashboard
+
+## Long-Term (1–2 Years)
+
+* Autonomous Hiring AI
+* Predictive Hiring Success
+* Multi-language AI
+* Continuous Learning AI
+
+---
+
+# Project Status
+
+| Feature          | Status |
+| ---------------- | ------ |
+| Resume Parsing   | ✅      |
+| ATS System       | ✅      |
+| Screening AI     | ✅      |
+| HR Interview AI  | ✅      |
+| Technical AI     | ✅      |
+| Machine Test AI  | ✅      |
+| Behavior AI      | ✅      |
+| Integrity AI     | ✅      |
+| Decision AI      | ✅      |
+| Hiring Reports   | ✅      |
+| Security         | ✅      |
+| Monitoring       | ✅      |
+| Production Ready | ✅      |
+
+---
+
+# Author
+
+**Zecpath AI – 70-Day AI Internship Project**
+
+Developer: Your Name
+
+Duration: 70 Days
+
+Project Type: End-to-End Intelligent Hiring Platform
+
+Status: Production Ready 🚀

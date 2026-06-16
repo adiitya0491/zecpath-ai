@@ -2,32 +2,63 @@
   "skills": [
     "Azure",
     "Cloud Platforms AWS",
+    "Effective Communication",
     "GCP",
+    "Load Balancers",
+    "Monitor",
+    "Monitoring Tools CloudWatch",
+    "Problem",
+    "Science",
     "Troubleshot cloud",
+    "ensuring swift recovery and",
     "minimal business impact.",
-    "related outages"
+    "principles and best practices.",
+    "related outages",
+    "solving Team Collaboration",
+    "streamline workflows.",
+    "system performance and reliability.",
+    "to optimize resource usage."
   ],
   "experience": [
     {
-      "role": "Cloud Engineer",
+      "role": "",
       "start_date": "07/2022",
       "end_date": "Present",
-      "duration_years": 3.67
+      "duration_years": 3.9166666666666665
     },
     {
-      "role": "Junior Cloud Engineer",
+      "role": "",
       "start_date": "01/2021",
       "end_date": "06/2022",
-      "duration_years": 1.42
+      "duration_years": 1.4166666666666667
     }
   ],
   "education": [
     {
+      "degree_or_institute": "Infrastructure as Code Terraform,"
+    },
+    {
+      "degree_or_institute": "Bachelor of Science in Computer Science CloudFormation)"
+    },
+    {
+      "degree_or_institute": "State University of Technology"
+    },
+    {
+      "degree_or_institute": "Linux/Windows Administration"
+    },
+    {
       "degree_or_institute": "",
       "start_date": "09/2018",
       "end_date": "06/2022"
+    },
+    {
+      "degree_or_institute": "Networking Fundamentals VPC, DNS,"
     }
   ],
   "projects": [],
-  "certifications": []
+  "certifications": [],
+  "summary": "",
+  "name": "JOHN DOE",
+  "email": "john.doe@example.com",
+  "phone": "1234567890"
 }

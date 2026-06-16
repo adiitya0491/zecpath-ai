@@ -10,13 +10,13 @@
   ],
   "experience": [
     {
-      "role": "Web Designer, Cummerata - Schaden",
+      "role": "",
       "start_date": "March 2023",
       "end_date": "Present",
-      "duration_years": 3.0
+      "duration_years": 3.25
     },
     {
-      "role": "Web Designer, Russel, Moore and Lebsack",
+      "role": "",
       "start_date": "May 2021",
       "end_date": "February 2023",
       "duration_years": 1.75
@@ -24,11 +24,24 @@
   ],
   "education": [
     {
+      "degree_or_institute": "@ Bachelor of Fine Arts in Web"
+    },
+    {
+      "degree_or_institute": "Design"
+    },
+    {
+      "degree_or_institute": "San Jose State University"
+    },
+    {
       "degree_or_institute": "",
       "start_date": "2017",
       "end_date": "2021"
     }
   ],
   "projects": [],
-  "certifications": []
+  "certifications": [],
+  "summary": "",
+  "name": "Chris Lark",
+  "email": "chrislarki@gmail.com",
+  "phone": "(443) 814 8875"
 }

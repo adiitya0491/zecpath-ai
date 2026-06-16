@@ -1,33 +1,23 @@
 {
-    "total_skills_found": 8,
+    "total_skills_found": 6,
     "skills": [
         {
-            "skill": "amazon web services",
-            "frequency": 4,
+            "skill": "ci/cd",
+            "frequency": 3,
             "confidence": 0.85
         },
         {
-            "skill": "azure",
+            "skill": "infrastructure as code",
+            "frequency": 2,
+            "confidence": 0.75
+        },
+        {
+            "skill": "google cloud",
             "frequency": 2,
             "confidence": 0.75
         },
         {
             "skill": "cost optimization",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "gcp",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "ci/cd",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "infrastructure as code",
             "frequency": 1,
             "confidence": 0.75
         },

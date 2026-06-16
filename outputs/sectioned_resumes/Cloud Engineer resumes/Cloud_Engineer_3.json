@@ -1,20 +1,42 @@
 {
-  "skills": [],
+  "skills": [
+    "AWS Azure GCP Terraform",
+    "CloudFormation Linux Administration",
+    "Communication",
+    "English Native",
+    "Problem Solving Collaboration",
+    "Strong understanding of cloud",
+    "Windows Administration",
+    "and reliable. Resource Optimization",
+    "deployment and management.",
+    "having successfully",
+    "secure",
+    "solutions are scalable"
+  ],
   "experience": [
     {
       "role": "Cloud Solutions Inc.",
       "start_date": "06/2021",
       "end_date": "Present",
-      "duration_years": 4.75
+      "duration_years": 5.0
     },
     {
       "role": "Tech Innovations LLC",
       "start_date": "07/2019",
       "end_date": "05/2021",
-      "duration_years": 1.83
+      "duration_years": 1.8333333333333333
     }
   ],
   "education": [
+    {
+      "degree_or_institute": "deployment frequency and reduced"
+    },
+    {
+      "degree_or_institute": "errors."
+    },
+    {
+      "degree_or_institute": "Bachelor of Science in Computer Science"
+    },
     {
       "degree_or_institute": "State University",
       "start_date": "09/2015",
@@ -22,5 +44,9 @@
     }
   ],
   "projects": [],
-  "certifications": []
+  "certifications": [],
+  "summary": "",
+  "name": "ETHAN SULLIVAN",
+  "email": "cloudengineer@example.com",
+  "phone": "1234567890"
 }

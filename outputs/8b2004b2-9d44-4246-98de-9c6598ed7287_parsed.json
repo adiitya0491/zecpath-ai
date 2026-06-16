@@ -1,0 +1,61 @@
+{
+  "resume_id": "8b2004b2-9d44-4246-98de-9c6598ed7287",
+  "candidate_name": "AARON SMITH",
+  "email": "cloudengineer@example.com",
+  "phone": "555 - 123 - 456",
+  "skills": [
+    {
+      "name": "pipeline automation",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "observability",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "docker",
+      "confidence": 0.6,
+      "category": null
+    }
+  ],
+  "experience": [],
+  "total_experience_months": 0,
+  "education": [
+    {
+      "degree": "BACHELOR",
+      "institution": null,
+      "year": "2012",
+      "is_relevant": true
+    },
+    {
+      "degree": null,
+      "institution": "university new",
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    }
+  ],
+  "certifications": [],
+  "raw_text": "AARON SMITH\nCloud Platform Engineer\n\u200b555-123-4567 \u200bcloudengineer@example.com\n\u200bhttps://www.linkedin.com/in/cloudengineer \u200bAustin, TX\nSUMMARY\nWith over six years of experience in cloud platform engineering, I specialize in developing\nand managing cloud infrastructures. My focus is on improving developer efficiency\nCI/CD pipelines and container orchestration using Kubernetes. I am dedicated to delivering\nreliable and scalable solutions that enhance application deployment and management.\nEXPERIENCE\nCloud Platform Engineer 01/2020\nCloud Solutions Inc.\nA leading provider of cloud technology solutions.\n\u2022 Developed and maintained cloud platforms enabling efficient application deployment.\n\u2022 Built CI/CD pipelines using Jenkins and GitHub Actions, significantly reducing deployment\ntimes.\n\u2022 Managed Kubernetes clusters and optimized container orchestration.\nPlatform Engineer 06/2016\nInnovative Tech Solutions San Francisco,\nA company focused on digital transformation and cloud solutions.\n\u2022 Implemented cloud-native architectures and enhanced observability tools.\n\u2022 Ensured platform security and improved developer experience through streamlined\nworkflows.\nEDUCATION\nBachelor of Science in Computer Science 08/2012\nTech University New\nLANGUAGES\nEnglish Spanish\nNative Advanced\n\u200b\nPowered by\nwww.enhancv.com\n\nSTRENGTHS\n\u200b Cloud Expertise\nthrough\nStrong background in cloud\narchitecture and engineering\npractices.\n\u200b Container Management\nProficient in building and managing\ncontainerized applications.\n- Present\nAustin, TX \u200b Workflow Improvement\nAbility to enhance developer\nworkflows through automation and\noptimization.\nKEY ACHIEVEMENTS\n- 12/2019\n\u200b Pipeline Automation Project CA\nSuccessfully led a project that\nautomated the deployment pipeline,\nincreasing deployment frequency by\n40%.\n\u200b\nCloud Platform Revamp\nRevamped the internal cloud\nplatform, reducing downtime\nincidents by 50%.\n- 05/2016\nYork, NY\nSKILLS\nHard Skills\nKubernetes Docker CI/CD tools\nCloud-native architectures\nObservability tools\n",
+  "raw_text_length": 1997,
+  "parse_time_ms": 5821
+}

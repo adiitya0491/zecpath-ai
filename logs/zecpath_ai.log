@@ -238,3 +238,46 @@
 2026-03-08 15:24:37,165 | INFO | test_fairness
 2026-03-09 11:23:38,616 | INFO | test_ats_engine
 2026-03-09 11:49:14,479 | INFO | test_ats_engine
+2026-06-12 00:24:39,263 | INFO | test_certificate
+2026-06-12 00:24:39,371 | INFO | test_education
+2026-06-12 00:24:39,395 | INFO | test_experiance
+2026-06-12 00:24:39,513 | INFO | test one resume
+2026-06-12 00:24:51,740 | INFO | test sections
+2026-06-12 00:26:10,888 | INFO | test_semantic_match
+2026-06-12 00:57:36,635 | INFO | test_ats_engine
+2026-06-12 00:57:36,696 | INFO | test_certificate
+2026-06-12 00:57:36,740 | INFO | test cleaner
+2026-06-12 00:57:36,756 | INFO | test_education
+2026-06-12 00:57:36,774 | INFO | test_experiance
+2026-06-12 00:57:36,801 | INFO | test one resume
+2026-06-12 00:57:38,891 | INFO | test reader
+2026-06-12 00:57:39,129 | INFO | test sections
+2026-06-12 00:57:57,765 | INFO | test_semantic_match
+2026-06-12 01:30:54,636 | INFO | test_ats_engine
+2026-06-12 01:30:54,653 | INFO | test_certificate
+2026-06-12 01:30:54,735 | INFO | test cleaner
+2026-06-12 01:30:54,742 | INFO | test_education
+2026-06-12 01:30:54,745 | INFO | test_experiance
+2026-06-12 01:30:54,763 | INFO | test one resume
+2026-06-12 01:30:56,931 | INFO | test reader
+2026-06-12 01:30:57,006 | INFO | test sections
+2026-06-12 01:31:15,191 | INFO | test_semantic_match
+2026-06-12 10:59:03,497 | INFO | test_ats_engine
+2026-06-12 10:59:03,513 | INFO | test_certificate
+2026-06-12 10:59:03,529 | INFO | test cleaner
+2026-06-12 10:59:03,535 | INFO | test_education
+2026-06-12 10:59:03,538 | INFO | test_experiance
+2026-06-12 10:59:03,559 | INFO | test one resume
+2026-06-12 10:59:05,818 | INFO | test reader
+2026-06-12 10:59:05,895 | INFO | test sections
+2026-06-12 10:59:24,403 | INFO | test_semantic_match
+2026-06-12 16:32:45,269 | INFO | test one resume
+2026-06-12 16:33:00,210 | INFO | test_ats_engine
+2026-06-12 16:33:00,223 | INFO | test_certificate
+2026-06-12 16:33:00,226 | INFO | test cleaner
+2026-06-12 16:33:00,230 | INFO | test_education
+2026-06-12 16:33:00,232 | INFO | test_experiance
+2026-06-12 16:33:00,319 | INFO | test one resume
+2026-06-12 16:33:01,225 | INFO | test reader
+2026-06-12 16:33:01,293 | INFO | test sections
+2026-06-12 16:34:21,250 | INFO | test_semantic_match

@@ -1,0 +1,29 @@
+{
+  "high": [
+
+    "Improve ATS semantic understanding",
+
+    "Reduce latency",
+
+    "Fix scoring inconsistencies"
+
+  ],
+
+  "medium": [
+
+    "Improve behavioral AI",
+
+    "Add candidate feedback"
+
+  ],
+
+  "low": [
+
+    "Dashboard",
+
+    "UI enhancements",
+
+    "Multi-language support"
+
+  ]
+}

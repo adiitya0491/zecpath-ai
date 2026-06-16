@@ -1,0 +1,27 @@
+{
+  "candidate_id": "C1001",
+  "job_id": "J2001",
+  "final_score": 85.0,
+  "decision": "Proceed",
+  "summary": {
+    "strengths": [
+      "Strong answer in Q1"
+    ],
+    "risks": [],
+    "missing_data": []
+  },
+  "highlights": {
+    "salary_expectation": "6 LPA",
+    "availability": "Immediate",
+    "confirmed_skills": [
+      "Django",
+      "Python"
+    ]
+  },
+  "answers": [
+    {
+      "question_id": "Q1",
+      "answer": "I have 3 years experience in Python and Django"
+    }
+  ]
+}

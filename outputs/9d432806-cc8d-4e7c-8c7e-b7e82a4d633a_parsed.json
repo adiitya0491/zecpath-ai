@@ -1,0 +1,127 @@
+{
+  "resume_id": "9d432806-cc8d-4e7c-8c7e-b7e82a4d633a",
+  "candidate_name": "JOHN DOE",
+  "email": "john.doe@example.com",
+  "phone": "123 - 456 - 789",
+  "skills": [
+    {
+      "name": "cloud architecture",
+      "confidence": 0.7,
+      "category": null
+    },
+    {
+      "name": "distributed systems",
+      "confidence": 0.6,
+      "category": null
+    }
+  ],
+  "experience": [
+    {
+      "role": "",
+      "company": "",
+      "start_date": "01/2021",
+      "end_date": "Present",
+      "duration_months": 65,
+      "duration_years": 5.42,
+      "is_relevant": false
+    },
+    {
+      "role": "",
+      "company": "",
+      "start_date": "01/2019",
+      "end_date": "12/2020",
+      "duration_months": 23,
+      "duration_years": 1.92,
+      "is_relevant": false
+    },
+    {
+      "role": "",
+      "company": "",
+      "start_date": "06/2018",
+      "end_date": "12/2018",
+      "duration_months": 6,
+      "duration_years": 0.5,
+      "is_relevant": false
+    }
+  ],
+  "total_experience_months": 94,
+  "education": [
+    {
+      "degree": "BACHELOR",
+      "institution": null,
+      "year": null,
+      "is_relevant": true
+    },
+    {
+      "degree": null,
+      "institution": "university of technology",
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": "09/2015 - 06/2019",
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cloud Migration Project",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Successfully led a team to migrate legacy",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "systems to a cloud environment, reducing",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Disaster Recovery Enhancements",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Engineered a highly available backup",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "solution that improved data recovery",
+      "issuer": null,
+      "year": null
+    }
+  ],
+  "raw_text": "JOHN DOE\nCloud Infrastructure Engineer\n\u200b123-456-7890 \u200bjohn.doe@example.com \u200bhttps://www.linkedin.com/in/johndoe\n\u200bSan Francisco, CA\nSUMMARY\nI am a dedicated Cloud Infrastructure Engineer with over 5 years of\nexperience in building and optimizing cloud solutions. I excel in managing\ncompute, storage, and networking resources to enhance application\nperformance. My strong background in system administration and\npassion for technology enable me to implement robust backup and\ndisaster recovery solutions effectively.\nEXPERIENCE\nCloud Infrastructure Engineer\nTech Innovations Inc.\n01/2021 - Present San Francisco, CA\nA technology company specializing in cloud solutions and infrastructure.\n\u2022 Built and maintained scalable cloud infrastructure for multiple\napplications\n\u2022 Managed compute, storage, and networking resources to optimize\nperformance\n\u2022 Implemented robust backup and disaster recovery solutions\nCloud Engineer\nCloud Services Co.\n01/2019 - 12/2020 Remote\nA cloud services provider focusing on data storage and management.\n\u2022 Performed system upgrades and patching to ensure security and\nreliability\n\u2022 Optimized infrastructure costs while improving efficiency using\nTerraform\n\u2022 Worked with containers to streamline application deployment\nJunior Cloud Engineer\nInnovatech Solutions\n06/2018 - 12/2018 Los Angeles, CA\nAn IT solutions company focusing on infrastructure development.\n\u2022 Collaborated on a project to enhance cloud networking and security\nprotocols\n\u2022 Designed distributed systems for resilient applications in a cloud\nenvironment\n\u2022 Utilized Ansible for configuration management and automation tasks\nEDUCATION\nBachelor of Science in Computer Science\nUniversity of Technology\n09/2015 - 06/2019 San Francisco, CA\nLANGUAGES\nEnglish Spanish\nNative Advanced\nwww.enhancv.com\n\nJD\nSTRENGTHS\n\u200b Cloud Architecture Knowledge\nStrong understanding of cloud\narchitecture and distributed systems.\n\u200b Project Management\nAbility to work independently and manage\nmultiple projects simultaneously.\n\u200b Automation Expertise\nProficient in automating processes and\nimproving workflows.\nKEY ACHIEVEMENTS\n\u200b\nCloud Migration Project\nSuccessfully led a team to migrate legacy\nsystems to a cloud environment, reducing\ncosts by 30%.\n\u200b\nDisaster Recovery Enhancements\nEngineered a highly available backup\nsolution that improved data recovery\ntimes by 50%.\n\u200b\nPowered by\n",
+  "raw_text_length": 2349,
+  "parse_time_ms": 1765
+}

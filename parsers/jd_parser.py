@@ -41,15 +41,25 @@ def extract_section(text: str, section_names: List[str]) -> str:
 
 def extract_role(text: str) -> str:
 
+    # Pattern:
+    # We are hiring a Data Analyst.
+    match = re.search(
+        r"we\s+are\s+hiring\s+(?:a|an)\s+(.+?)\.?$",
+        text.split("\n")[0],
+        re.IGNORECASE
+    )
+
+    if match:
+        return match.group(1).strip()
+
+    # Fallback to first meaningful line
     lines = text.split("\n")
 
-    # Usually first meaningful line is role
     for line in lines:
         if len(line.strip()) > 3:
             return line.strip()
 
     return "Unknown Role"
-
 
 # ==========================================================
 # EXPERIENCE EXTRACTION
@@ -82,11 +92,8 @@ def extract_experience(text: str) -> Dict:
 
 def extract_skills(text: str) -> list:
 
-    skills = set()
-
-    # 1️⃣ Extract only Required Skills section
     match = re.search(
-        r"required skills(.*?)(experience|qualification|$)",
+        r"required skills\s*:(.*?)(experience|education|qualification|$)",
         text,
         re.IGNORECASE | re.DOTALL
     )
@@ -96,48 +103,16 @@ def extract_skills(text: str) -> list:
 
     section = match.group(1)
 
-    # 2️⃣ Split by bullet or newline
-    lines = re.split(r"\n|•|-", section)
+    skills = []
 
-    for line in lines:
-        line = line.strip().lower()
+    for skill in re.split(r",|\n", section):
 
-        if len(line) < 3:
-            continue
+        skill = skill.strip().lower()
 
-        # 3️⃣ Extract bracket skills (Datadog, Cloudwatch, New Relic)
-        bracket_skills = re.findall(r"\((.*?)\)", line)
+        if len(skill) > 1:
+            skills.append(skill)
 
-        for item in bracket_skills:
-            for skill in re.split(r",|/", item):
-                skills.add(skill.strip().lower())
-
-        # Remove bracket content from line
-        line = re.sub(r"\(.*?\)", "", line)
-
-        # 4️⃣ Keep meaningful multi-word phrases
-        skills.add(line.strip())
-
-    # 5️⃣ Remove noise words
-    STOPWORDS = {
-        "and", "or", "with", "for", "the", "of",
-        "best practices", "operational"
-    }
-
-    cleaned = []
-
-    for skill in skills:
-        skill = skill.strip()
-
-        if skill in STOPWORDS:
-            continue
-
-        if len(skill) < 3:
-            continue
-
-        cleaned.append(skill)
-
-    return sorted(list(set(cleaned)))
+    return skills
 
 # ==========================================================
 # RESPONSIBILITIES

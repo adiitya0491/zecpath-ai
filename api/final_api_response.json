@@ -1,0 +1,19 @@
+{
+  "success": true,
+
+  "data": {
+
+    "candidate_id": "C20001",
+
+    "decision": "Selected"
+
+  },
+
+  "meta": {
+
+    "latency_ms": 120,
+
+    "version": "v1.0"
+
+  }
+}

@@ -1,316 +1,182 @@
 import re
 from datetime import datetime
-
-# ===============================
-# DATE REGEX
-# ===============================
+from difflib import SequenceMatcher
 
 DATE_REGEX = re.compile(
-    r"(?P<start>(\d{2}/\d{4}|\d{4}|[A-Za-z]+\s\d{4}))\s*-\s*(?P<end>(Present|present|\d{2}/\d{4}|\d{4}|[A-Za-z]+\s\d{4}))"
+    r"(?P<start>(\d{1,2}/\d{4}|\d{4}|[A-Za-z]+\s\d{4}))\s*[-–—]\s*"
+    r"(?P<end>(Present|present|Now|now|\d{1,2}/\d{4}|\d{4}|[A-Za-z]+\s\d{4}))"
 )
 
-# ===============================
-# HELPERS
-# ===============================
+# All known heading aliases — add more as you encounter them
+SECTION_ALIASES = {
+    "skills": [
+        "skills","technical skills","core competencies","technologies",
+        "tools","tech stack","expertise","key skills","competencies",
+        "hard skills","proficiencies","technical expertise","strengths",
+    ],
+    "experience": [
+        "experience","work experience","professional experience",
+        "employment","career","work history","professional background",
+        "professional journey","positions held","employment history",
+    ],
+    "education": [
+        "education","academic background","qualifications",
+        "academic history","degrees","studies","academic qualifications",
+    ],
+    "projects": [
+        "projects","personal projects","side projects",
+        "portfolio","key projects","notable projects",
+    ],
+    "certifications": [
+        "certifications","certificates","accreditations",
+        "credentials","licenses","achievements","awards",
+    ],
+    "summary": [
+        "summary","profile","objective","about","about me",
+        "overview","professional summary","career objective",
+        "professional profile",
+    ],
+}
 
-def parse_date(date_str):
-    if not date_str:
-        return None
 
-    date_str = date_str.strip()
+def _sim(a, b):
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
-    if "present" in date_str.lower():
-        return datetime.now()
+def _match_heading(line: str) -> str | None:
 
-    for fmt in ("%m/%Y", "%Y", "%b %Y", "%B %Y"):
-        try:
-            return datetime.strptime(date_str, fmt)
-        except:
-            continue
+    """Match ANY heading variation with fuzzy logic. Returns section name or None."""
+    clean = line.strip().lower()
+    # Remove trailing colons e.g. "SKILLS:"
+    clean = clean.rstrip(":")
+
+    for section, aliases in SECTION_ALIASES.items():
+        for alias in aliases:
+            if clean == alias:
+                return section
+            if _sim(clean, alias) >= 0.82:
+                return section
     return None
 
 
-def calculate_duration(start_str, end_str):
-    start = parse_date(start_str)
-    end = parse_date(end_str)
+def _is_heading(line: str) -> bool:
+    s = line.strip()
+    if not s: return False
+    words = s.split()
+    return (
+        len(words) <= 5 and
+        (s.isupper() or s.istitle() or _match_heading(s) is not None)
+    )
 
-    if not start or not end:
-        return 0
 
-    months = (end.year - start.year) * 12 + (end.month - start.month)
-    return round(months / 12, 2)
+def parse_date(s):
+    if not s: return None
+    s = s.strip()
+    if s.lower() in ("present", "now", "current"):
+        return datetime.now()
+    for fmt in ("%m/%Y","%Y","%b %Y","%B %Y"):
+        try: return datetime.strptime(s, fmt)
+        except: pass
+    return None
 
 
-# ===============================
-# STRICT SKILL FILTER
-# ===============================
+def calc_duration(s1, s2):
+    a, b = parse_date(s1), parse_date(s2)
+    if not a or not b: return 0
+    return max(0, (b.year - a.year)*12 + (b.month - a.month))
+
+
 def extract_clean_skills(line):
-
-    skills = []
-
-    parts = re.split(r"[,\|/•\-]", line)
-
-    BLOCK_WORDS = {
-        "languages",
-        "language",
-        "hard skills",
-        "soft skills",
-        "skills",
-        "interests",
-        "hobbies",
-        "awards",
-        "achievements",
-        "certifications",
-        "projects",
-        "education"
+    JUNK = {
+        "languages","language","hard skills","soft skills","skills",
+        "interests","hobbies","awards","certifications","english",
+        "spanish","native","advanced","city","country","fluent",
     }
-
-    for p in parts:
-
-        skill = p.strip()
-
-        skill = re.sub(r"[^A-Za-z0-9+#. ]", "", skill)
-
-        if not skill:
-            continue
-
-        lower = skill.lower()
-
-        # Remove section labels
-        if lower in BLOCK_WORDS:
-            continue
-
-        # Skip sentences
-        if len(skill.split()) > 3:
-            continue
-
-        # Skip numbers
-        if re.search(r"\d{4}", skill):
-            continue
-
-        # Skip location words
-        if lower in ["city", "country"]:
-            continue
-
-        # Skip language combinations
-        if lower in ["english", "spanish", "malayalam", "native", "advanced"]:
-            continue
-
-        # Skip verbs
-        if lower.endswith("ing"):
-            continue
-
-        if len(skill) < 2:
-            continue
-
-        skills.append(skill)
-
-    return skills
+    out = []
+    for p in re.split(r"[,|/•\-]", line):
+        s = re.sub(r"[^A-Za-z0-9+#. ]", "", p).strip()
+        if not s or s.lower() in JUNK: continue
+        if len(s.split()) > 4: continue
+        if re.search(r"\d{4}", s): continue
+        if s.lower().endswith("ing") and len(s) > 8: continue
+        if len(s) >= 2: out.append(s)
+    return out
 
 
-# ===============================
-# MAIN CLASSIFIER
-# ===============================
+def classify_sections(resume_text: str) -> dict:
 
-def classify_sections(resume_text: str):
-
+    """
+    Split resume into labelled sections.
+    Returns dict with keys: skills, experience, education,
+    projects, certifications, summary, name, email, phone
+    """
     lines = resume_text.split("\n")
+    buckets = {k: [] for k in SECTION_ALIASES}
+    buckets["other"] = []
+    current = "other"
 
-    skills = []
-    experience = []
-    education = []
-    projects = []
-    certifications = []
-
-    current_section = None
+    # Extract contact info from first 10 lines
+    email = phone = name = None
+    for line in lines[:10]:
+        em = re.search(r"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+", line)
+        ph = re.search(r"\+?[\d\s\-\(\)]{9,15}", line)
+        if em and not email: email = em.group(0)
+        if ph and not phone: phone = ph.group(0).strip()
+        if not em and not ph and not name and 2 <= len(line.split()) <= 4:
+            if line.strip() and line.strip()[0].isupper():
+                name = line.strip()
 
     for line in lines:
-        clean = line.strip()
+        stripped = line.strip()
+        if not stripped: continue
 
-        if not clean:
+        matched = _match_heading(stripped)
+        if matched and _is_heading(stripped):
+            current = matched
             continue
 
-        lower = clean.lower()
-
-        # -------------------------
-        # SECTION DETECTION
-        # -------------------------
-        if lower in ["skills", "technical skills"]:
-            current_section = "skills"
-            continue
-
-        if lower in ["experience", "work experience", "professional experience"]:
-            current_section = "experience"
-            continue
-
-        if lower in ["education"]:
-            current_section = "education"
-            continue
-
-        if lower in ["projects"]:
-            current_section = "projects"
-            continue
-
-        if lower in ["certifications", "certificates"]:
-            current_section = "certifications"
-            continue
-
-        if lower in ["languages", "language"]:
-            current_section = "languages"
-            continue
-        # -------------------------
-        # SKILLS
-        # -------------------------
-        if current_section == "skills":
-            if clean.lower() in ["languages", "hard skills", "soft skills"]:
-                continue
-
-            skill_words = extract_clean_skills(clean)
-            skills.extend(skill_words)
-            continue
-
-        # -------------------------
-        # EXPERIENCE
-        # -------------------------
-        if current_section == "experience":
-
-            match = DATE_REGEX.search(clean)
-
-            if match:
-                start_str = match.group("start")
-                end_str = match.group("end")
-
-                role_title = ""
-
-                # Case 1: role and date on same line
-                role_part = clean[:match.start()].strip(" -")
-                if role_part:
-                    role_title = role_part
-
-                # Case 2: role is previous line
-                else:
-                    idx = lines.index(line)
-                    if idx > 0:
-                        prev_line = lines[idx - 1].strip()
-
-                        # Avoid picking section headers
-                        if prev_line.lower() not in [
-                            "experience",
-                            "work experience",
-                            "professional experience"
-                        ]:
-                            role_title = prev_line
-
-                duration = calculate_duration(start_str, end_str)
-
-                experience.append({
-                    "role": role_title,
-                    "start_date": start_str,
-                    "end_date": end_str,
-                    "duration_years": duration
+        if current == "skills":
+            buckets["skills"].extend(extract_clean_skills(stripped))
+        elif current == "experience":
+            m = DATE_REGEX.search(stripped)
+            if m:
+                role = stripped[:m.start()].strip(" -–") or ""
+                buckets["experience"].append({
+                    "role": role,
+                    "start_date": m.group("start"),
+                    "end_date":   m.group("end"),
+                    "duration_years": calc_duration(m.group("start"), m.group("end")) / 12,
                 })
-
-            continue
-
-        # -------------------------
-        # EDUCATION
-        # -------------------------
-        if current_section == "education":
-
-            match = DATE_REGEX.search(clean)
-
-            if match:
-                start_str = match.group("start")
-                end_str = match.group("end")
-
-                degree_part = clean[:match.start()].strip(" -")
-
-                education.append({
-                    "degree_or_institute": degree_part,
-                    "start_date": start_str,
-                    "end_date": end_str
+        elif current == "education":
+            m = DATE_REGEX.search(stripped)
+            if m:
+                buckets["education"].append({
+                    "degree_or_institute": stripped[:m.start()].strip(" -"),
+                    "start_date": m.group("start"),
+                    "end_date":   m.group("end"),
                 })
-
-            continue
-
-        # -------------------------
-        # PROJECTS
-        # -------------------------
-        if current_section == "projects":
-
-            match = DATE_REGEX.search(clean)
-
-            if match:
-                start_str = match.group("start")
-                end_str = match.group("end")
-
-                title = clean[:match.start()].strip(" -")
-
-                projects.append({
-                    "title": title,
-                    "start_date": start_str,
-                    "end_date": end_str
-                })
-
-            continue
-
-        # -------------------------
-        # CERTIFICATIONS
-        # -------------------------
-        if current_section == "certifications":
-
-            lower = clean.lower()
-
-            # Skip providers
-            if any(word in lower for word in [
-                "academy",
-                "institute",
-                "training",
-                "coursera",
-                "udemy",
-                "officemaster"
-            ]):
-                continue
-
-            # Skip long description sentences
-            if len(clean.split()) > 7:
-                continue
-
-            # Skip sentence-like lines
-            if clean.endswith("."):
-                continue
-
-            match = DATE_REGEX.search(clean)
-
-            if match:
-                start_str = match.group("start")
-                end_str = match.group("end")
-
-                title = clean[:match.start()].strip(" -")
-
-                certifications.append({
-                    "title": title,
-                    "start_date": start_str,
-                    "end_date": end_str
-                })
-
             else:
-                # capture certificate without dates
-                certifications.append({
-                    "title": clean,
-                    "start_date": None,
-                    "end_date": None
+                buckets["education"].append({"degree_or_institute": stripped})
+        elif current == "certifications":
+            if len(stripped.split()) <= 10 and not stripped.endswith("."):
+                m = DATE_REGEX.search(stripped)
+                buckets["certifications"].append({
+                    "title": stripped[:m.start()].strip() if m else stripped,
+                    "start_date": m.group("start") if m else None,
+                    "end_date":   m.group("end")   if m else None,
                 })
-
-            continue
-
-    # Remove duplicate skills
-    skills = sorted(list(set(skills)))
+        elif current in ("projects", "summary"):
+            buckets[current].append(stripped)
+        else:
+            buckets["other"].append(stripped)
 
     return {
-        "skills": skills,
-        "experience": experience,
-        "education": education,
-        "projects": projects,
-        "certifications": certifications
+        "skills":         sorted(set(buckets["skills"])),
+        "experience":     buckets["experience"],
+        "education":      buckets["education"],
+        "projects":       buckets["projects"],
+        "certifications": buckets["certifications"],
+        "summary":        " ".join(buckets["summary"]),
+        "name":  name,
+        "email": email,
+        "phone": phone,
     }

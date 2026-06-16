@@ -1,0 +1,25 @@
+[
+  {
+    "candidate_id": "C001",
+
+    "technical_score": 88,
+
+    "machine_test_score": 85
+  },
+
+  {
+    "candidate_id": "C002",
+
+    "technical_score": 70,
+
+    "machine_test_score": 65
+  },
+
+  {
+    "candidate_id": "C003",
+
+    "technical_score": 45,
+
+    "machine_test_score": 40
+  }
+]

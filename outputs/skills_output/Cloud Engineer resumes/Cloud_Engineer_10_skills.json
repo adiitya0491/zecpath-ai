@@ -2,9 +2,9 @@
     "total_skills_found": 2,
     "skills": [
         {
-            "skill": "python",
-            "frequency": 4,
-            "confidence": 0.85
+            "skill": "terraform",
+            "frequency": 1,
+            "confidence": 0.75
         },
         {
             "skill": "java",

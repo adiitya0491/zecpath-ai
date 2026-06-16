@@ -1,0 +1,105 @@
+{
+  "resume_id": "6ef53802-0704-421f-a4bc-5f06f3e46fcc",
+  "candidate_name": "JOHN DOE",
+  "email": "johndoe@example.com",
+  "phone": "(555) 123 - 456",
+  "skills": [
+    {
+      "name": "google cloud",
+      "confidence": 0.7,
+      "category": null
+    },
+    {
+      "name": "cloudformation",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "terraform",
+      "confidence": 0.6,
+      "category": null
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cloud Engineer",
+      "company": "",
+      "start_date": "06/2022",
+      "end_date": "Present",
+      "duration_months": 46,
+      "duration_years": 3.83,
+      "is_relevant": true
+    },
+    {
+      "role": "Cloud Engineer",
+      "company": "",
+      "start_date": "06/2021",
+      "end_date": "05/2022",
+      "duration_months": 11,
+      "duration_years": 0.92,
+      "is_relevant": true
+    }
+  ],
+  "total_experience_months": 57,
+  "education": [
+    {
+      "degree": "BACHELOR",
+      "institution": null,
+      "year": "09/2018 - 05/2022",
+      "is_relevant": true
+    },
+    {
+      "degree": null,
+      "institution": "university city, state",
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    }
+  ],
+  "certifications": [
+    {
+      "name": "% Cost Optimization Initiative",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Successfully reduced cloud",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "infrastructure costs by 30% through",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "effective resource optimization and",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Cloud Migration Project",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "solutions, enhancing scalability and",
+      "issuer": null,
+      "year": null
+    }
+  ],
+  "raw_text": "JOHN DOE\n\nCloud Engineer\n\n(555) 123-4567 johndoe@example.com\nhttps://www.linkedin.com/in/johndoe City, State\n\nSUMMARY\n\nAs a Cloud Engineer with over 3 years of experience, | specialize in designing and managing\ncloud infrastructure across major platforms like AWS and Azure. My strength lies in\nautomating deployments using Infrastructure as Code and optimizing resource utilization. |\nthrive in collaborative environments, ensuring robust cloud solutions that meet organizational\ngoals.\n\nEXPERIENCE\nCloud Engineer 06/2022 - Present\nTech Solutions Inc. Remote\n\nTech Solutions Inc. is a leading provider of cloud computing solutions.\n\ne Designed and implemented scalable AWS cloud infrastructure for multiple projects.\n\ne Automated resource provisioning and management through Terraform and\nCloudFormation.\n\ne Collaborated with cross-functional teams to troubleshoot and resolve cloud-related\noutages.\n\nCloud Engineer 06/2021 - 05/2022\nInnovative Cloud Corp. City, State\n\nInnovative Cloud Corp. specializes in cloud infrastructure and services.\n\ne Managed Azure cloud services including virtual machines and networking.\n\ne Monitored and optimized system performance using Azure Monitor.\n\ne Worked with developers to implement Cl/CD pipelines for cloud applications.\n\nEDUCATION\n\nBachelor of Science in Computer Science 09/2018 - 05/2022\nState University City, State\nLANGUAGES\n\nEnglish Native eeceee Spanish Advanced eee\n\nPowered by (CX) Enhancu www.enhancv.com\n\nSTRENGTHS\n\nQ. Analytical thinker\n\nStrong analytical skills to identify\nissues and devise effective\nsolutions in cloud environments.\n\nAbility to Multitask\n\nAbility to work well under pressure\nand handle multiple projects\nsimultaneously.\n\nAgility in Learning\n\nAdaptability to rapidly changing\ntechnology landscape and\nwillingness to learn new skills.\n\nKEY ACHIEVEMENTS\n\n% Cost Optimization Initiative\n\nSuccessfully reduced cloud\ninfrastructure costs by 30% through\neffective resource optimization and\nmonitoring.\n\nCloud Migration Project\n\nPlayed a key role in transitioning on-\npremise applications to cloud-native\nsolutions, enhancing scalability and\nperformance.\n\nSKILLS\n\nHard Skills\nAWS - Azure - GCP - Terraform -\n\nCloudFormation\n\n\n",
+  "raw_text_length": 2194,
+  "parse_time_ms": 4632
+}

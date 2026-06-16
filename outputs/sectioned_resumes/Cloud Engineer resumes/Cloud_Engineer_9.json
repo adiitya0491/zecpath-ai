@@ -1,26 +1,25 @@
 {
   "skills": [
-    "# Business Requirements",
+    "Ability to articulate complex",
+    "Adaptability",
     "Agile Methodology",
     "Business Analysis",
     "Communication",
-    "Development Speed",
-    "Improved project execution",
-    "Project",
-    "Project Execution",
+    "Communication Skills",
+    "Proficient in defining business",
     "Requirements Definition",
-    "Successfully defined business",
     "Waterfall Methodology",
-    "development speed",
+    "based assignments",
+    "business problems",
     "requirements",
-    "significantly"
+    "ww Analytical Skills"
   ],
   "experience": [
     {
       "role": "Business Analyst",
       "start_date": "Intern 2023",
       "end_date": "2023",
-      "duration_years": 0
+      "duration_years": 0.0
     }
   ],
   "education": [
@@ -28,8 +27,66 @@
       "degree_or_institute": "Master's in Computer",
       "start_date": "Science 2021",
       "end_date": "2023"
+    },
+    {
+      "degree_or_institute": "XYZ University New York, NY"
+    },
+    {
+      "degree_or_institute": "LANGUAGES"
+    },
+    {
+      "degree_or_institute": "English Native eeeece"
     }
   ],
-  "projects": [],
-  "certifications": []
+  "projects": [
+    "Successfully defined business",
+    "requirements",
+    "Project Execution",
+    "Improved project execution",
+    "significantly",
+    "Development Speed",
+    "Contributed to increasing",
+    "development speed"
+  ],
+  "certifications": [
+    {
+      "title": "Best Business Project",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Awarded at XYZ University",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "MY LIFE PHILOSOPHY",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "The greatest barrier to success",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "is the fear of failure - Sven Goran",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Eriksson",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "\u00ae# Business Requirements",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "summary": "Business Analyst with a strong interest in IT consulting services. Proven ability to define business and technical requirements based on business problems. Skilled in translating and simplifying requirements for optimizing execution and outcomes. Familiar with Agile and Waterfall methodologies.",
+  "name": "JOHN DOE",
+  "email": "john.doe@example.com",
+  "phone": "1 - 541 - 754 -"
 }

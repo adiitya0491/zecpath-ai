@@ -1,0 +1,25 @@
+[
+  {
+    "candidate_id": "C001",
+
+    "behavior_risk": "Low Risk",
+
+    "integrity_risk": "Low Risk"
+  },
+
+  {
+    "candidate_id": "C002",
+
+    "behavior_risk": "Moderate Risk",
+
+    "integrity_risk": "Low Risk"
+  },
+
+  {
+    "candidate_id": "C003",
+
+    "behavior_risk": "High Risk",
+
+    "integrity_risk": "Moderate Risk"
+  }
+]

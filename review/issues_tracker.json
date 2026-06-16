@@ -1,0 +1,31 @@
+[
+  {
+    "issue": "Keyword dependency",
+
+    "impact": "Misses contextual skills"
+  },
+
+  {
+    "issue": "Short answer penalty",
+
+    "impact": "False negatives"
+  },
+
+  {
+    "issue": "Behavior mismatch",
+
+    "impact": "Confusing decisions"
+  },
+
+  {
+    "issue": "High API latency",
+
+    "impact": "Slow user experience"
+  },
+
+  {
+    "issue": "Memory usage",
+
+    "impact": "Scalability issue"
+  }
+]

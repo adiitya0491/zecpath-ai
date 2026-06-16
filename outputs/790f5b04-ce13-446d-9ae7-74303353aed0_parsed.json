@@ -1,0 +1,94 @@
+{
+  "resume_id": "790f5b04-ce13-446d-9ae7-74303353aed0",
+  "candidate_name": "ALEX JORDAN",
+  "email": "cloudengineer@example.com",
+  "phone": "1234567890",
+  "skills": [
+    {
+      "name": "infrastructure as code",
+      "confidence": 0.7,
+      "category": null
+    },
+    {
+      "name": "terraform",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "dns",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "vpc",
+      "confidence": 0.6,
+      "category": null
+    }
+  ],
+  "experience": [],
+  "total_experience_months": 0,
+  "education": [
+    {
+      "degree": null,
+      "institution": "university of technology",
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": "BACHELOR",
+      "institution": null,
+      "year": null,
+      "is_relevant": true
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Legacy Application Migration Deployment Automation",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Framework Successfully migrated a legacy",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "application to cloud infrastructure",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "Implemented an automation",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "enhancing performance and",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "framework that improved",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "deployment efficiency and",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "LANGUAGES",
+      "issuer": null,
+      "year": null
+    },
+    {
+      "name": "English Spanish Native Advanced",
+      "issuer": null,
+      "year": null
+    }
+  ],
+  "raw_text": "ALEX JORDAN\nCloud Engineer\n\u00001234567890 cloudengineer@example.com https://www.linkedin.com/in/cloudengineerprofile\nSummary\nAs a Cloud Engineer with over three years of hands-on experience, I specialize\ninfrastructures across AWS and Azure. My focus is on ensuring high availability\nWith a solid foundation in Infrastructure as Code, I thrive on automating deployments\nchallenges in the cloud.\nExperience\nTech Solutions Inc.\nCloud Engineer\nA leading tech firm specialized in cloud-based solutions and consultancy.\n\u2022 Designed and implemented scalable AWS cloud infrastructure for multiple\n\u2022 Automated deployment processes using Terraform, reducing deployment\n\u2022 Monitored and optimized AWS resources using CloudWatch\nInnovative Cloud Corp.\nJunior Cloud Engineer\nA cloud computing company focused on providing cloud integration services.\n\u2022 Collaborated with DevOps teams to streamline CI/CD processes in cloud\n\u2022 Handled troubleshooting and resolution of cloud-related outages within\n\u2022 Conducted security audits and implemented best practices for cloud services\nEducation\nState University of Technology\nBachelor of Science in Computer Science\nStrengths\n\u200b \u200b\nAdaptability Troubleshooting Expertise\nAbility to quickly learn and adapt to Strong troubleshooting skills\nnew technologies in cloud pressure, ensuring minimal\ncomputing. downtime.\nKey Achievements\n\u200b \u200b Legacy Application Migration Deployment Automation\nFramework Successfully migrated a legacy\napplication to cloud infrastructure,\nImplemented an automation\nenhancing performance and\nframework that improved\nreducing costs.\ndeployment efficiency and\nerrors.\nLanguages\nEnglish Spanish Native Advanced\nSkills\nHard Skills:\nAWS Cloud Services Azure Cloud Management GCP Infrastructure Deployment\nInfrastructure as Code \u0000Terraform, CloudFormation) Linux and Windows Administration\nNetworking Fundamentals \u0000VPC, DNS, Load Balancers)\nwww.enhancv.com\n\nTech City, ST\nin designing, deploying, and managing cloud\nand security while optimizing resource utilization.\nand collaborating with teams to solve complex\nRemote\n03/2021 - Present\nprojects\ntime by 30%\nUrban Center, ST\n06/2019 - 02/2021\nenvironments\nSLAs\nTech City, ST\n08/2015 - 05/2019\n\u200b\nCost Optimization\nunder Proficient in designing cost-\neffective cloud solutions tailored to\nbusiness needs.\nreduced\n\u200b\nPowered by\n",
+  "raw_text_length": 2312,
+  "parse_time_ms": 555
+}

@@ -1,14 +1,14 @@
 {
-    "total_skills_found": 16,
+    "total_skills_found": 12,
     "skills": [
         {
-            "skill": "amazon web services",
-            "frequency": 6,
-            "confidence": 0.95
+            "skill": "infrastructure as code",
+            "frequency": 4,
+            "confidence": 0.85
         },
         {
-            "skill": "azure",
-            "frequency": 4,
+            "skill": "ci/cd",
+            "frequency": 3,
             "confidence": 0.85
         },
         {
@@ -22,17 +22,17 @@
             "confidence": 0.75
         },
         {
+            "skill": "google cloud",
+            "frequency": 2,
+            "confidence": 0.75
+        },
+        {
             "skill": "terraform",
             "frequency": 2,
             "confidence": 0.75
         },
         {
-            "skill": "iac",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "linux",
+            "skill": "cloudformation",
             "frequency": 1,
             "confidence": 0.75
         },
@@ -42,12 +42,12 @@
             "confidence": 0.75
         },
         {
-            "skill": "gcp",
+            "skill": "cloudwatch",
             "frequency": 1,
             "confidence": 0.75
         },
         {
-            "skill": "cloudwatch",
+            "skill": "compliance",
             "frequency": 1,
             "confidence": 0.75
         },
@@ -57,27 +57,7 @@
             "confidence": 0.75
         },
         {
-            "skill": "ci/cd",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "infrastructure as code",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "cloudformation",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "devops",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "compliance",
+            "skill": "linux",
             "frequency": 1,
             "confidence": 0.75
         }

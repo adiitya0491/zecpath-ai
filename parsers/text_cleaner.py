@@ -207,4 +207,31 @@ def clean_resume_text(text: str) -> str:
     # Final newline cleanup
     text = re.sub(r"\n+", "\n", text)
 
+    # Remove junk symbols
+    text = re.sub(r"[@#%^&*+=<>|~]", "", text)
+
     return text.strip()
+
+# ==========================================================
+# BACKWARD COMPATIBILITY
+# ==========================================================
+
+
+def clean_text(text):
+    """
+    Legacy wrapper used by tests.
+    """
+
+    cleaned = clean_resume_text(text)
+
+    # Remove special symbols
+    cleaned = re.sub(r"[@#$%^&*+=<>|~`]", "", cleaned)
+
+    return cleaned
+
+# ==========================================
+# Compatibility Alias For Tests
+# ==========================================
+
+def clean_text(text):
+    return clean_resume_text(text)

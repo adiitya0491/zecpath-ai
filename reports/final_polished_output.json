@@ -1,0 +1,47 @@
+{
+  "candidate_id": "C20001",
+
+  "final_score": 82.4,
+
+  "decision": "Selected",
+
+  "summary": {
+
+    "strengths": [
+
+      "Strong technical skills",
+
+      "Good communication",
+
+      "Consistent performance"
+
+    ],
+
+    "weaknesses": [
+
+      "Minor gaps in optimization"
+
+    ],
+
+    "risks": [
+
+      "Low behavioral risk"
+
+    ]
+
+  },
+
+  "confidence": "High",
+
+  "recommendation": "Proceed with offer",
+
+  "insights": {
+
+    "technical": "Excellent performance",
+
+    "communication": "Clear and confident",
+
+    "behavior": "Stable and focused"
+
+  }
+}

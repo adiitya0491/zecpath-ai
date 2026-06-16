@@ -1,8 +1,10 @@
 import re
 from collections import defaultdict
 import json
+from pathlib import Path
 
-with open("data/skill_synonyms.json") as f:
+_BASE = Path(__file__).resolve().parent.parent
+with open(_BASE / "data" / "skill_synonyms.json", encoding="utf-8") as f:
     SKILL_SYNONYMS = json.load(f)
 
 def normalize_skill(skill):
@@ -158,12 +160,19 @@ TECH_SKILLS = {
     "patching"
 }
 
+SORTED_SKILLS = sorted(
+    TECH_SKILLS,
+    key=len,
+    reverse=True
+)
+
 # ==========================================================
 # CLEAN TEXT
 # ==========================================================
 
 def clean_text(text):
     text = text.lower()
+    text = re.sub(r"(.)\1{3,}", r"\1", text)
     text = re.sub(r"[^a-z0-9+#./\-\s]", " ", text)
 
     # apply synonym normalization
@@ -182,7 +191,7 @@ def detect_skills(text):
     text = clean_text(text)
     found = defaultdict(int)
 
-    for skill in TECH_SKILLS:
+    for skill in SORTED_SKILLS:
 
         normalized_skill = normalize_skill(skill)
 

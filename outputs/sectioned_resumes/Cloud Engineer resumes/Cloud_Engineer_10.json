@@ -3,26 +3,31 @@
     "Adaptability Time Management",
     "Data Analysis  Visualization",
     "Excel",
+    "Hindi",
     "Hugging face",
     "Internet Of Things",
     "Java",
     "Langchain",
     "Leaning new things",
+    "Malayalam",
     "NLP",
     "Power BI",
     "Programming Languages",
     "Python",
     "Qudrant",
     "Researched",
+    "Soft Skills Strong problem",
+    "Tamil",
     "Tools  Technologies",
-    "ability Management"
+    "ability Management",
+    "solving Leadership  Team Communication"
   ],
   "experience": [
     {
       "role": "bezgoFresh",
       "start_date": "December 2024",
       "end_date": "July 2025",
-      "duration_years": 0.58
+      "duration_years": 0.5833333333333334
     }
   ],
   "education": [
@@ -30,12 +35,53 @@
       "degree_or_institute": "CMS College Of Engineering And",
       "start_date": "Technology 2022",
       "end_date": "2026"
+    },
+    {
+      "degree_or_institute": "Artificial Intelligence & Data Science B tech"
+    },
+    {
+      "degree_or_institute": "8.2 CGPA"
+    },
+    {
+      "degree_or_institute": "Vocational HSE Palakkad, Kootupatha 2022"
+    },
+    {
+      "degree_or_institute": "70% VHSE"
+    },
+    {
+      "degree_or_institute": "GOVT Technical High School 2020"
+    },
+    {
+      "degree_or_institute": "80% THSLC"
     }
   ],
-  "projects": [],
+  "projects": [
+    "Credit Card Spam August 2024",
+    "Technology: Python, Machine Learning, Scikit - learn",
+    "Developed a system to identify fraudulent and spam credit card transactions with 93%",
+    "accuracy.",
+    "Utilized machine learning algorithms for classification to accurately distinguish",
+    "between legitimate and fraudulent transactions.",
+    "Applied data preprocessing and feature engineering techniques to ensure effective",
+    "model training and evaluation.",
+    "Contributed to enhancing the security of financial systems by reducing the risk of fraud.",
+    "Email Spam",
+    "Technology: Python, Natural Language Processing (NLP), Scikit - learn",
+    "Built an email spam filter to classify spam and legitimate emails with high accuracy.",
+    "Employed NLP techniques such as tokenization, stopword removal, and TF - IDF for",
+    "feature extraction.",
+    "Trained and tested machine learning models for spam classification.",
+    "Improved email security by automating the detection of unwanted and potentially",
+    "harmful emails."
+  ],
   "certifications": [
     {
       "title": "Power Bi August 2025",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "ICT Academy",
       "start_date": null,
       "end_date": null
     },
@@ -45,9 +91,18 @@
       "end_date": null
     },
     {
+      "title": "OfficeMaster",
+      "start_date": null,
+      "end_date": null
+    },
+    {
       "title": "PowerBI in under 30 mins",
       "start_date": null,
       "end_date": null
     }
-  ]
+  ],
+  "summary": "Motivated and passionate B.Tech student specializing in Artificial Intelligence and Data Science, with strong leadership and team coordination skills. Experienced in coding and developing user - centric web applications, with a keen interest in UI/UX design. Adept at blending technical expertise with design principles to create intuitive, engaging digital",
+  "name": "ADITYA P",
+  "email": "adiitya0491@gmail.com",
+  "phone": "+91 97476 12052"
 }

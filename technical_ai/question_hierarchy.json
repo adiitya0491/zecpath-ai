@@ -1,0 +1,60 @@
+{
+    "experience_levels": {
+        "0-2": {
+            "difficulty": "basic",
+            "question_types": [
+                "definitions",
+                "basic coding",
+                "fundamentals"
+            ]
+        },
+
+        "3-5": {
+            "difficulty": "intermediate",
+            "question_types": [
+                "problem solving",
+                "optimization",
+                "real world scenarios"
+            ]
+        },
+
+        "5+": {
+            "difficulty": "advanced",
+            "question_types": [
+                "system design",
+                "architecture",
+                "scalability"
+            ]
+        }
+    },
+
+    "role_mapping": {
+
+        "mern_developer": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+
+        "java_developer": [
+            "Java",
+            "Spring Boot",
+            "Microservices"
+        ],
+
+        "devops_engineer": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "CI/CD"
+        ],
+
+        "data_scientist": [
+            "Python",
+            "Machine Learning",
+            "Statistics",
+            "Data Analysis"
+        ]
+    }
+}

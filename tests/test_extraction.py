@@ -7,7 +7,7 @@ def test_resume_extraction():
     Test whether resume text is extracted properly.
     """
 
-    sample_file = "data/resumes/sample.pdf"
+    sample_file = "data/resumes/Cloud Engineer resumes/Cloud Engineer 1.pdf"
 
     text = extract_resume_text(sample_file)
 

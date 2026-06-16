@@ -1,0 +1,25 @@
+[
+  {
+    "candidate_id": "C001",
+
+    "screening_score": 80,
+
+    "summary": "Clear and relevant answers"
+  },
+
+  {
+    "candidate_id": "C002",
+
+    "screening_score": 68,
+
+    "summary": "Basic understanding"
+  },
+
+  {
+    "candidate_id": "C003",
+
+    "screening_score": 50,
+
+    "summary": "Incomplete responses"
+  }
+]

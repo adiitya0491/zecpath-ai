@@ -1,5 +1,6 @@
 {
   "skills": [
+    "AWS Azure GCP Terraform",
     "CloudFormation Linux",
     "Communication",
     "English Native",
@@ -10,5 +11,70 @@
   "experience": [],
   "education": [],
   "projects": [],
-  "certifications": []
+  "certifications": [
+    {
+      "title": "Junior Cloud Engineer",
+      "start_date": "07/2019",
+      "end_date": "04/2020"
+    },
+    {
+      "title": "Cloud Solutions Group San Diego, CA",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Application Migration to",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Successfully led the migration of",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "based architecture, improving",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Cloud Monitoring Solution EDUCATION",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Developed a monitoring solution",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "Bachelor of Science in Computer Science",
+      "start_date": "09/2015",
+      "end_date": "06/2019"
+    },
+    {
+      "title": "that reduced downtime by 40%",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "through proactive alerts and",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "University of Technology San Francisco, CA",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "LANGUAGES",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "summary": "Cloud Architecture As a Cloud Engineer with over 3 years of experience, I specialize in designing and Expertise deploying cloud infrastructure on AWS and Azure. I'm passionate about implementing best practices for scalability and security, and I thrive on optimizing cloud Strong understanding of cloud performance. My technical proficiency, along with strong collaboration and problem - architecture and deployment solving skills, allows me to make a significant impact in cloud environments. strategies. Automation and EXPERIENCE Optimization Ability to automate and optimize Cloud Engineer 05/2020 - Present cloud infrastructure for better Tech Innovations Inc. Los Angeles, CA performance. A leading provider of cloud solutions and services. Problem Resolution Designed and deployed scalable cloud architecture using AWS and Azure. Proficient in troubleshooting Implemented Infrastructure as Code IaC using Terraform, resulting in 30% faster complex cloud - related issues and deployment times. outages. Collaborated with DevOps teams to integrate CI/CD pipelines for cloud applications.",
+  "name": "JONATHAN S Cloud Engineer",
+  "email": "johndoe@example.com",
+  "phone": "(123) 456 - 789"
 }

@@ -1,0 +1,59 @@
+[
+    {
+        "candidate_id": "C1001",
+        "role": "Backend Developer",
+        "experience": "2 Years",
+        "answers": [
+            {
+                "question": "Tell me about yourself",
+                "answer": "I am a backend developer with experience in Python, Django, REST APIs and PostgreSQL."
+            },
+            {
+                "question": "Describe your teamwork experience",
+                "answer": "I worked with a team of developers to deliver projects on time and coordinate deployments."
+            },
+            {
+                "question": "What are your strengths?",
+                "answer": "Problem solving, learning quickly, and writing clean code."
+            }
+        ]
+    },
+    {
+        "candidate_id": "C1002",
+        "role": "Frontend Developer",
+        "experience": "Fresher",
+        "answers": [
+            {
+                "question": "Tell me about yourself",
+                "answer": "I recently completed my degree and focused on React, JavaScript, and UI development."
+            },
+            {
+                "question": "Describe teamwork experience",
+                "answer": "I collaborated with classmates on academic projects and hackathons."
+            },
+            {
+                "question": "What are your strengths?",
+                "answer": "Creativity, communication, and adaptability."
+            }
+        ]
+    },
+    {
+        "candidate_id": "C1003",
+        "role": "Data Analyst",
+        "experience": "1 Year",
+        "answers": [
+            {
+                "question": "Tell me about yourself",
+                "answer": "I am a data analyst with experience in SQL, Python, and Power BI."
+            },
+            {
+                "question": "Describe teamwork experience",
+                "answer": "I worked closely with stakeholders to prepare reports and dashboards."
+            },
+            {
+                "question": "What are your strengths?",
+                "answer": "Analytical thinking and attention to detail."
+            }
+        ]
+    }
+]

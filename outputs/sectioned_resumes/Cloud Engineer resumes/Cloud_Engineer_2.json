@@ -1,26 +1,39 @@
 {
-  "skills": [],
+  "skills": [
+    "AWS Azure GCP Terraform",
+    "Ability to Multitask",
+    "CloudFormation",
+    "English Native Spanish Advanced",
+    "goals.",
+    "issues and devise effective",
+    "solutions in cloud environments.",
+    "thrive in collaborative environments"
+  ],
   "experience": [
     {
       "role": "Cloud Engineer",
       "start_date": "06/2022",
       "end_date": "Present",
-      "duration_years": 3.75
+      "duration_years": 4.0
     },
     {
       "role": "Cloud Engineer",
       "start_date": "06/2021",
       "end_date": "05/2022",
-      "duration_years": 0.92
+      "duration_years": 0.9166666666666666
     },
     {
       "role": "Bachelor of Science in Computer Science",
       "start_date": "09/2018",
       "end_date": "05/2022",
-      "duration_years": 3.67
+      "duration_years": 3.6666666666666665
     }
   ],
   "education": [],
   "projects": [],
-  "certifications": []
+  "certifications": [],
+  "summary": "",
+  "name": "JOHN DOE",
+  "email": "johndoe@example.com",
+  "phone": "(555) 123 - 456"
 }

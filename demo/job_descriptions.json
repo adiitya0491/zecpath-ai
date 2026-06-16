@@ -1,0 +1,40 @@
+[
+  {
+    "job_id": "J101",
+    "role": "Backend Developer",
+    "skills_required": [
+      "Python",
+      "Django",
+      "REST API",
+      "SQL"
+    ],
+    "experience_required": "2-5 years",
+    "education": "B.Tech / B.E Computer Science"
+  },
+
+  {
+    "job_id": "J102",
+    "role": "Frontend Developer",
+    "skills_required": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "experience_required": "1-4 years",
+    "education": "B.Tech / B.E"
+  },
+
+  {
+    "job_id": "J103",
+    "role": "Data Scientist",
+    "skills_required": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Pandas"
+    ],
+    "experience_required": "2-5 years",
+    "education": "B.Tech / B.E"
+  }
+]

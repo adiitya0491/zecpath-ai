@@ -6,7 +6,7 @@ logger = get_logger()
 logger.info("test one resume")
 
 # 👇 CHANGE THIS to whichever resume you want to test
-FILE_PATH = "outputs/extracted_text/resume 9.txt"
+FILE_PATH = "outputs/extracted_text/Cloud Engineer resumes/Cloud_Engineer_1.txt"
 
 
 def test_single_resume():

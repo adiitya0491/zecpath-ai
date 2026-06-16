@@ -1,0 +1,39 @@
+{
+  "candidate_id":"C001",
+
+  "job_id":"J001",
+
+  "screening_round":"HR Screening",
+
+  "responses":[
+    {
+      "question_id":"Q1",
+
+      "answer":
+      "I am a Cloud Engineer",
+
+      "intent":
+      "self_introduction",
+
+      "keywords":[
+        "cloud",
+        "aws",
+        "experience"
+      ],
+
+      "confidence_score":0.95,
+
+      "clarity_score":0.90,
+
+      "relevance_score":0.92
+    }
+  ],
+
+  "aggregate_scores":{
+    "communication":0.90,
+    "confidence":0.88,
+    "relevance":0.92
+  },
+
+  "status":"Completed"
+}

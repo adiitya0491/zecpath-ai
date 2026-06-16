@@ -1,43 +1,18 @@
 {
-    "total_skills_found": 11,
+    "total_skills_found": 9,
     "skills": [
         {
-            "skill": "amazon web services",
+            "skill": "infrastructure as code",
             "frequency": 4,
             "confidence": 0.85
         },
         {
-            "skill": "infrastructure as code",
+            "skill": "google cloud",
             "frequency": 2,
-            "confidence": 0.75
-        },
-        {
-            "skill": "azure",
-            "frequency": 2,
-            "confidence": 0.75
-        },
-        {
-            "skill": "linux",
-            "frequency": 1,
             "confidence": 0.75
         },
         {
             "skill": "cost optimization",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "gcp",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "windows",
-            "frequency": 1,
-            "confidence": 0.75
-        },
-        {
-            "skill": "dns",
             "frequency": 1,
             "confidence": 0.75
         },
@@ -47,12 +22,27 @@
             "confidence": 0.75
         },
         {
-            "skill": "vpc",
+            "skill": "terraform",
             "frequency": 1,
             "confidence": 0.75
         },
         {
-            "skill": "terraform",
+            "skill": "windows",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "linux",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "dns",
+            "frequency": 1,
+            "confidence": 0.75
+        },
+        {
+            "skill": "vpc",
             "frequency": 1,
             "confidence": 0.75
         }

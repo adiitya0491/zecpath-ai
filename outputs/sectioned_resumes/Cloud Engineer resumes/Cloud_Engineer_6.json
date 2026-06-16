@@ -1,8 +1,8 @@
 {
   "skills": [
+    "7 Conversion Rate Optimization",
     "CSS.",
     "NextJS TailwindCSS",
-    "STRENGTHS",
     "able to build",
     "and strategizing flows",
     "end web development",
@@ -17,7 +17,7 @@
       "duration_years": 4.0
     },
     {
-      "role": "2019 - 2023 * Senior Web Designer",
+      "role": "",
       "start_date": "2016",
       "end_date": "2019",
       "duration_years": 3.0
@@ -25,5 +25,15 @@
   ],
   "education": [],
   "projects": [],
-  "certifications": []
+  "certifications": [
+    {
+      "title": "7 iPhone X Launch V4 Conversion Rate Increase",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "summary": "With over 10 years of experience in web design and development, | have honed my skills in Ul/UX design, front - end development, and conversion rate optimization. | have a proven track record of increasing user engagement and conversion rates, with notable achievements such as improving the UX of Google Search and designing the landing page for the iPhone X launch. | am excited to bring my expertise to a growth - focused role where | can contribute to the success of the product.",
+  "name": "CARTER ANDRADE",
+  "email": "help@enhancv.com",
+  "phone": "+1 - 541 - 754 -"
 }

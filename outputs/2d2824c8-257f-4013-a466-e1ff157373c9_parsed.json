@@ -1,0 +1,70 @@
+{
+  "resume_id": "2d2824c8-257f-4013-a466-e1ff157373c9",
+  "candidate_name": "JOHN DOE",
+  "email": "johndoe@example.com",
+  "phone": "123 - 4567",
+  "skills": [
+    {
+      "name": "monitoring",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "google cloud",
+      "confidence": 0.7,
+      "category": null
+    },
+    {
+      "name": "cloudformation",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "scalability",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "terraform",
+      "confidence": 0.6,
+      "category": null
+    },
+    {
+      "name": "cost optimization",
+      "confidence": 0.6,
+      "category": null
+    }
+  ],
+  "experience": [],
+  "total_experience_months": 0,
+  "education": [
+    {
+      "degree": "BACHELOR",
+      "institution": null,
+      "year": "2018",
+      "is_relevant": true
+    },
+    {
+      "degree": null,
+      "institution": "university",
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    },
+    {
+      "degree": null,
+      "institution": null,
+      "year": null,
+      "is_relevant": false
+    }
+  ],
+  "certifications": [],
+  "raw_text": "JOHN DOE\nCloud Engineer\n\u200b(555) \u200bjohndoe@example.com\n123-4567\n\u200bhttps://www.linkedin.com/in/johndoe \u200bCity, State\nSUMMARY\nAs a Cloud Engineer with over 3 years of experience, I specialize in designing and\ncloud infrastructure across major platforms like AWS and Azure. My strength lies in\nautomating deployments using Infrastructure as Code and optimizing resource utilization.\nthrive in collaborative environments, ensuring robust cloud solutions that meet organizational\ngoals.\nEXPERIENCE\nCloud Engineer 06/2022\nTech Solutions Inc.\nTech Solutions Inc. is a leading provider of cloud computing solutions.\n\u2022 Designed and implemented scalable AWS cloud infrastructure for multiple projects.\n\u2022 Automated resource provisioning and management through Terraform and\nCloudFormation.\n\u2022 Collaborated with cross-functional teams to troubleshoot and resolve cloud-related\noutages.\nCloud Engineer 06/2021\nInnovative Cloud Corp.\nInnovative Cloud Corp. specializes in cloud infrastructure and services.\n\u2022 Managed Azure cloud services including virtual machines and networking.\n\u2022 Monitored and optimized system performance using Azure Monitor.\n\u2022 Worked with developers to implement CI/CD pipelines for cloud applications.\nEDUCATION\nBachelor of Science in Computer Science 09/2018\nState University\nLANGUAGES\nEnglish Spanish Native Advanced\n\u200b\nPowered by\nwww.enhancv.com\n\nSTRENGTHS\n\u200b Analytical thinker managing\nStrong analytical skills to identify\nI\nissues and devise effective\nsolutions in cloud environments.\n\u200b Ability to Multitask\nAbility to work well under pressure\nand handle multiple projects\nsimultaneously.\n- Present\nRemote \u200b Agility in Learning\nAdaptability to rapidly changing\ntechnology landscape and\nwillingness to learn new skills.\nKEY ACHIEVEMENTS\n- 05/2022\n\u200b Cost Optimization Initiative\nCity, State\nSuccessfully reduced cloud\ninfrastructure costs by 30% through\neffective resource optimization and\nmonitoring.\n\u200b Cloud Migration Project\nPlayed a key role in transitioning on-\npremise applications to cloud-native\nsolutions, enhancing scalability and\nperformance.\n- 05/2022\nCity, State\nSKILLS\nHard Skills\nAWS Azure GCP Terraform\nCloudFormation\n",
+  "raw_text_length": 2139,
+  "parse_time_ms": 2142
+}
