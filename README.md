@@ -1,35 +1,62 @@
-# Zecpath AI – Intelligent Hiring Platform
+# Zecpath AI - End-to-End Intelligent Hiring Platform
 
 ## Overview
 
-Zecpath AI is an end-to-end AI-powered hiring platform that automates the entire recruitment lifecycle, from resume screening to final hiring decisions.
+Zecpath AI is a complete end-to-end AI-powered hiring platform developed during a 70-day internship project.
 
-The platform combines multiple AI modules to evaluate candidates fairly, consistently, and efficiently while reducing manual effort and hiring bias.
-
-The system automates:
-
-* Resume Parsing
-* ATS Scoring
-* AI Screening Interviews
-* HR Interview Evaluation
-* Technical Interview Evaluation
-* Machine Test Evaluation
-* Behavioral Analysis
-* Integrity Analysis
-* Cross-Round Aggregation
-* Final Hiring Decisions
-* Hiring Intelligence Reports
+The platform automates the entire recruitment lifecycle, from resume analysis to final hiring decisions, while providing scalable, explainable, secure, and production-ready AI services.
 
 ---
 
-# Project Workflow
+# Features
+
+## Candidate Processing
+
+- Resume Parsing
+- Job Description Parsing
+- ATS Resume Scoring
+- Semantic Matching
+
+## AI Interview Pipeline
+
+- Screening AI
+- HR Interview AI
+- Technical Interview AI
+- Machine Test Evaluation
+
+## AI Analysis
+
+- Behavioral Analysis
+- Integrity Analysis
+- Risk Detection
+- Decision Intelligence
+
+## Recruiter Tools
+
+- Hiring Report Generation
+- Recruiter-Friendly Outputs
+- Analytics Preparation
+- Monitoring & Observability
+
+## Production Features
+
+- API Integration
+- Error Handling
+- Performance Optimization
+- Scalability Planning
+- Security & Governance
+- Documentation System
+
+---
+
+# Complete Hiring Pipeline
 
 ```text
 Resume Upload
 
 ↓
 
-Resume Parsing
+Resume Parser
 
 ↓
 
@@ -53,11 +80,7 @@ Machine Test Evaluation
 
 ↓
 
-Behavior + Integrity Analysis
-
-↓
-
-Cross-Round Aggregation
+Behavior & Integrity Analysis
 
 ↓
 
@@ -65,7 +88,7 @@ Decision AI
 
 ↓
 
-Hiring Intelligence Report
+Hiring Report Generation
 ```
 
 ---
@@ -81,9 +104,9 @@ Backend API Layer
 
 ↓
 
-AI Microservices Layer
+AI Microservices
 
-------------------------------------
+-----------------------------------
 
 Resume Parser
 
@@ -101,13 +124,11 @@ Behavior AI
 
 Integrity AI
 
-Aggregation Engine
-
 Decision AI
 
-Hiring Report Generator
+Report Generator
 
-------------------------------------
+-----------------------------------
 
 ↓
 
@@ -124,127 +145,74 @@ Monitoring & Observability
 
 ---
 
-# Core AI Modules
-
-| Module                  | Description                                   |
-| ----------------------- | --------------------------------------------- |
-| Resume Parser           | Extracts structured information from resumes  |
-| ATS Engine              | Calculates resume-job compatibility           |
-| Screening AI            | Evaluates candidate screening responses       |
-| HR Interview AI         | Evaluates communication and confidence        |
-| Technical AI            | Evaluates technical skills                    |
-| Machine Test AI         | Evaluates practical coding ability            |
-| Behavior AI             | Detects engagement and behavioral signals     |
-| Integrity AI            | Detects potential cheating or integrity risks |
-| Aggregation Engine      | Combines scores across all stages             |
-| Decision AI             | Generates final hiring recommendations        |
-| Hiring Report Generator | Produces recruiter-friendly reports           |
-
----
-
-# Features
-
-* End-to-end hiring automation
-* Explainable AI decisions
-* Multi-stage candidate evaluation
-* Risk analysis
-* Candidate ranking
-* Security & governance
-* Monitoring & observability
-* Performance optimization
-* Production-ready architecture
-* Scalable design
-
----
-
 # Project Structure
 
 ```text
 zecpath-ai/
 
 ├── ai_core/
-
 ├── ai_engine/
-
 ├── api/
-
 ├── ats_engine/
-
 ├── behavior_ai/
-
 ├── data/
-
 ├── demo/
-
 ├── docs/
-
 ├── future/
-
 ├── handover/
-
 ├── integrity_ai/
-
 ├── interview_ai/
-
 ├── machine_test/
-
 ├── observability/
-
 ├── parsers/
-
 ├── portfolio/
-
 ├── presentation/
-
 ├── ranking/
-
+├── reports/
 ├── review/
-
 ├── scoring/
-
 ├── screening_ai/
-
 ├── security/
-
 ├── technical_ai/
-
 ├── tests/
-
 ├── uploads/
-
 ├── utils/
 
 ├── README.md
-
-└── requirements.txt
+├── requirements.txt
+├── main.py
+└── .gitignore
 ```
+
+---
+
+# Core AI Modules
+
+- Resume Parser
+- ATS Engine
+- Screening AI
+- HR Interview AI
+- Technical AI
+- Machine Test AI
+- Behavior AI
+- Integrity AI
+- Decision AI
+- Hiring Report Generator
 
 ---
 
 # Scoring Logic
 
-Final Score Calculation:
-
 ```text
-Final Score =
+ATS             → 20%
 
-ATS (20%)
+Screening       → 15%
 
-+
+HR Interview    → 20%
 
-Screening (15%)
+Technical AI    → 25%
 
-+
-
-HR (20%)
-
-+
-
-Technical (25%)
-
-+
-
-Machine Test (20%)
+Machine Test    → 20%
 
 ↓
 
@@ -253,47 +221,78 @@ Decision AI
 
 ---
 
-# Environment Setup
+# Technologies Used
 
-## Clone Repository
+## Programming
+
+- Python
+
+## AI & NLP
+
+- Sentence Transformers
+- spaCy
+- Semantic Similarity
+- NLP Processing
+
+## Libraries
+
+- pdfplumber
+- pytesseract
+- pdf2image
+- python-docx
+- scikit-learn
+
+## Architecture
+
+- AI Microservices
+- API Integration
+- Monitoring & Observability
+
+---
+
+# Setup Instructions
+
+## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-repo/zecpath-ai.git
+git clone https://github.com/adiitya0491/zecpath-ai.git
+
+cd zecpath-ai
 ```
 
-## Create Virtual Environment
-
-Windows:
+## 2. Create Virtual Environment
 
 ```bash
 python -m venv venv
+```
+
+### Windows
+
+```bash
 venv\Scripts\activate
 ```
 
-Mac/Linux:
+### Mac/Linux
 
 ```bash
-python3 -m venv venv
 source venv/bin/activate
 ```
 
-## Install Dependencies
+## 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
-# Running Demo
-
-Run:
+## 4. Run the Project
 
 ```bash
-python demo/full_pipeline_simulation.py
+python main.py
 ```
 
-Run tests:
+---
+
+# Run Tests
 
 ```bash
 pytest tests/
@@ -301,89 +300,80 @@ pytest tests/
 
 ---
 
-# Technologies Used
+# Documentation
 
-## Programming Language
+The project includes:
 
-* Python
-
-## AI & NLP
-
-* spaCy
-* sentence-transformers
-* scikit-learn
-
-## Document Processing
-
-* pdfplumber
-* python-docx
-* pytesseract
-* pdf2image
-
-## Testing
-
-* pytest
-
-## Security
-
-* Access Control
-* Audit Logging
-* Encryption
+- Technical Handbook
+- System Architecture
+- API Documentation
+- Developer Onboarding Guide
+- AI Roadmap
+- Monitoring Documentation
+- Security Documentation
+- Internal Review Reports
+- Demo Guides
+- Handover Documents
 
 ---
 
 # Future Roadmap
 
-## Short-Term (0–6 Months)
+## Short Term
 
-* Improve AI accuracy
-* Reduce latency
-* Add real-time feedback
+- Improve AI accuracy
+- Reduce latency
+- Real-time feedback
 
-## Mid-Term (6–12 Months)
+## Mid Term
 
-* AI Video Analysis
-* Emotion Detection
-* AI Coaching System
-* Analytics Dashboard
+- AI video analysis
+- Emotion detection
+- AI coaching system
+- Analytics dashboard
 
-## Long-Term (1–2 Years)
+## Long Term
 
-* Autonomous Hiring AI
-* Predictive Hiring Success
-* Multi-language AI
-* Continuous Learning AI
+- Fully autonomous hiring AI
+- Predictive hiring intelligence
+- Multi-language support
+- Continuous learning AI
 
 ---
 
 # Project Status
 
-| Feature          | Status |
-| ---------------- | ------ |
-| Resume Parsing   | ✅      |
-| ATS System       | ✅      |
-| Screening AI     | ✅      |
-| HR Interview AI  | ✅      |
-| Technical AI     | ✅      |
-| Machine Test AI  | ✅      |
-| Behavior AI      | ✅      |
-| Integrity AI     | ✅      |
-| Decision AI      | ✅      |
-| Hiring Reports   | ✅      |
-| Security         | ✅      |
-| Monitoring       | ✅      |
-| Production Ready | ✅      |
+| Feature | Status |
+|---------|--------|
+| Resume Parser | ✅ |
+| ATS Engine | ✅ |
+| Screening AI | ✅ |
+| HR Interview AI | ✅ |
+| Technical AI | ✅ |
+| Machine Test AI | ✅ |
+| Behavior AI | ✅ |
+| Integrity AI | ✅ |
+| Decision AI | ✅ |
+| Hiring Reports | ✅ |
+| Monitoring System | ✅ |
+| Security Framework | ✅ |
+| Documentation | ✅ |
+| Production Ready | ✅ |
 
 ---
 
-# Author
+# Internship Completion
 
-**Zecpath AI – 70-Day AI Internship Project**
+**Project:** Zecpath AI – Intelligent Hiring Platform
 
-Developer: Your Name
+**Duration:** 70 Days
 
-Duration: 70 Days
+**Status:** COMPLETED ✅
 
-Project Type: End-to-End Intelligent Hiring Platform
+This repository represents the complete internship project covering architecture, AI development, optimization, monitoring, scalability, documentation, and final production handover.
 
-Status: Production Ready 🚀
+---
+
+# License
+
+Proprietary – Zecpath AI
